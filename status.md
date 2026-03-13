@@ -4,7 +4,7 @@
 
 **Phase 1: Foundation** (active)
 
-Next task: Process european_accounts collection for political authority claims (new claims extraction focused on political authority, hereditary rank, redistribution).
+Contact-era accounts claims extraction complete (2026-03-13). Immediate next steps: (1) Add Cook 1846 compilation PDF to repo and extract Cook's own narrative for the 1774 Easter Island visit. (2) Search for additional Jakubowska publications on contact-era translation issues beyond the 5 papers already in the repo. Then: process chiefdom-attribution sources (Kirch, Sahlins) when PDFs are provided.
 
 ## PDF Inventory
 
@@ -22,7 +22,7 @@ Next task: Process european_accounts collection for political authority claims (
 
 | Filename | Version | Pipeline |
 |----------|---------|----------|
-| `european_accounts/` (full collection) | scans/published, transferred from RN-IIM | pending |
+| `european_accounts/` (full collection) | scans/published, transferred from RN-IIM | **claims + summary + evidence + index** |
 | `thompson_1891.pdf` | | pending |
 | `routledge_1919.pdf` | archive.org scan, transferred from RN-IIM | pending |
 | `metraux_1940.pdf` | scan, transferred from RN-IIM | pending |
@@ -81,7 +81,7 @@ Next task: Process european_accounts collection for political authority claims (
 
 | File | Status | Lines | Sources Incorporated |
 |------|--------|-------|---------------------|
-| `contact_accounts_evidence.md` | skeleton | 0 | none |
+| `contact_accounts_evidence.md` | **populated** | ~200 | Roggeveen 1722, González 1770, Cook 1774, La Pérouse 1786, Richards 2008 |
 | `ethnographic_sources_evidence.md` | skeleton | 0 | none |
 | `polynesian_analogy_evidence.md` | skeleton | 0 | none |
 | `archaeological_record_evidence.md` | skeleton | 0 | none |
@@ -115,6 +115,8 @@ Next task: Process european_accounts collection for political authority claims (
 
 ## Blockers and Open Questions
 
+- **Cook 1846 compilation PDF missing from repo**: The source inventory lists `Cook-2010-The voyages of Captain James Cook.pdf` (1.1 GB, Google Books scan with OCR) but it is not present in `03_cook_1774/`. Cook's own narrative of the 1774 Easter Island visit has not been directly read; current Cook claims extraction relies on Forster materials via von Saher and Jakubowska. User needs to add this PDF.
+- **Jakubowska papers: verify completeness**: Jakubowska's translation analyses are critical for assessing the reliability of Corney's English translations of the primary accounts. We have 5 unique Jakubowska works in the repo (Behrens 2012, Spanish expedition 2014, Forster RNJ article 2014, *Still More to Discover* book 2014, Jakubowska-Vorbrich 2019). Check whether she has published additional analyses of (a) Corney's Roggeveen translations or (b) any other contact-era translation issues beyond what we have. Her González paper was pivotal; comparable work on the Dutch or Cook translations would be equally important.
 - **Book access needed**: Kirch 1984 (*Evolution of the Polynesian Chiefdoms*), Kirch 2010 (*How Chiefs Became Kings*), and Sahlins 1958 (*Social Stratification in Polynesia*) are the highest-priority book sources. Ask user about physical/digital/institutional access when ready to begin Phase 2.
 - **Englert access**: Need to determine which edition is appropriate and how to acquire it.
 - **Thompson 1891**: Public domain; available via HathiTrust or Internet Archive. Not yet downloaded.
@@ -124,3 +126,4 @@ Next task: Process european_accounts collection for political authority claims (
 | Date | Description |
 |------|-------------|
 | 2026-03-13 | Repository initialized: directory structure, reference pipeline files, manuscript skeleton, evidence skeletons, figures plan. 15 PDFs transferred from RN-IIM. papers_config.json cleaned (comments stripped, valid JSON). |
+| 2026-03-13 | Contact-era accounts claims extraction complete. 5 claims files, 5 summaries, INDEX.md populated, contact_accounts_evidence.md compiled. Sources: Roggeveen 1722, González 1770, Cook 1774, La Pérouse 1786, Richards 2008 (post-La Pérouse 1793-1862). Gap: Cook 1846 compilation PDF (1.1 GB) not directly accessed; Cook data from Forster sources via von Saher and Jakubowska. |
