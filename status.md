@@ -115,7 +115,6 @@ Next task: Process european_accounts collection for political authority claims (
 
 ## Blockers and Open Questions
 
-- **Missing working documents**: Three files (`chiefdom_bibliography_final_consolidated.md`, `chiefdom_argument_outline.md`, `chiefdom_CA_strategy_and_outline.md`) are on another machine. These are needed before Phase 1 processing can begin per the project specification. Transfer when available.
 - **Book access needed**: Kirch 1984 (*Evolution of the Polynesian Chiefdoms*), Kirch 2010 (*How Chiefs Became Kings*), and Sahlins 1958 (*Social Stratification in Polynesia*) are the highest-priority book sources. Ask user about physical/digital/institutional access when ready to begin Phase 2.
 - **Englert access**: Need to determine which edition is appropriate and how to acquire it.
 - **Thompson 1891**: Public domain; available via HathiTrust or Internet Archive. Not yet downloaded.
