@@ -1,0 +1,1183 @@
+{
+  "ezproxy_base": "https://login.proxy.binghamton.edu/login?url=",
+  "output_dir": "docs/references/pdfs",
+  "min_valid_size_bytes": 10000,
+  "papers": [
+    {
+      "filename": "oberg_1955.pdf",
+      "doi": "10.1525/aa.1955.57.3.02a00070",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "[SECTION I: Foundational Neoevolutionary Frameworks] JSTOR. Types of Social Structure among Lowland Tribes. American Anthropologist 57(3): 472-487."
+    },
+    {
+      "filename": "sahlins_1958_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. Social Stratification in Polynesia. Univ of Washington Press. Check ProQuest Ebook Central via EZproxy. Priority chapters: introduction and comparative stratification analysis. Otherwise ILL."
+    },
+    {
+      "filename": "sahlins_service_1960_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. Evolution and Culture. Univ of Michigan Press. ILL or institutional ebook. Low priority; background only."
+    },
+    {
+      "filename": "service_1962_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. Primitive Social Organization. 2nd ed. 1971. Random House. ILL or institutional ebook. Priority: definition of chiefdom and chiefdom characteristics."
+    },
+    {
+      "filename": "sahlins_1963.pdf",
+      "doi": "10.1017/S0010417500002115",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "JSTOR. Poor Man, Rich Man, Big-Man, Chief. Comparative Studies in Society and History 5(3): 285-303."
+    },
+    {
+      "filename": "fried_1967_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. Evolution of Political Society. Random House. ILL or institutional ebook. Low priority."
+    },
+    {
+      "filename": "carneiro_1970.pdf",
+      "doi": "10.1126/science.169.3947.733",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Science 169(3947): 733-738. Circumscription theory. Check Unpaywall."
+    },
+    {
+      "filename": "flannery_1972.pdf",
+      "doi": "10.1146/annurev.es.03.110172.002151",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Annual Review of Ecology and Systematics 3: 399-426. Cultural Evolution of Civilizations."
+    },
+    {
+      "filename": "service_1975_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. Origins of the State and Civilization. Norton. ILL. Low priority."
+    },
+    {
+      "filename": "peebles_kus_1977.pdf",
+      "doi": "10.2307/279242",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "JSTOR. Archaeological Correlates of Ranked Societies. American Antiquity 42(3): 421-448."
+    },
+    {
+      "filename": "wright_1977.pdf",
+      "doi": "10.1146/annurev.an.06.100177.002115",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Annual Review of Anthropology 6: 379-397. Recent Research on Origin of the State."
+    },
+    {
+      "filename": "feinman_neitzel_1984.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK CHAPTER. Too Many Types. In Schiffer ed., Advances in Archaeological Method and Theory Vol. 7: 39-102. Academic Press. No standard DOI. Try EZproxy via Elsevier/ScienceDirect for the AMTA series; otherwise ILL. HIGH PRIORITY."
+    },
+    {
+      "filename": "daltroy_earle_1985.pdf",
+      "doi": "10.1086/203249",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Current Anthropology 26(2): 187-206. Staple finance vs wealth finance."
+    },
+    {
+      "filename": "earle_1987.pdf",
+      "doi": "10.1146/annurev.an.16.100187.001431",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Annual Review of Anthropology 16: 279-308. Chiefdoms in Archaeological and Ethnohistorical Perspective."
+    },
+    {
+      "filename": "blanton_et_al_1996.pdf",
+      "doi": "10.1086/204471",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Current Anthropology 37(1): 1-14. Dual-Processual Theory. Network vs corporate strategies."
+    },
+    {
+      "filename": "demarrais_et_al_1996.pdf",
+      "doi": "10.1086/204472",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Current Anthropology 37(1): 15-31. Ideology, Materialization, and Power Strategies."
+    },
+    {
+      "filename": "earle_1997_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. How Chiefs Come to Power. Stanford Univ Press. Check institutional ebook (ProQuest or JSTOR). Priority chapters: introduction and Danish case. Otherwise ILL."
+    },
+    {
+      "filename": "earle_1991_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK (edited). Chiefdoms: Power, Economy, and Ideology. Cambridge. Check Cambridge Books Online via EZproxy. Priority: Earle introduction chapter."
+    },
+    {
+      "filename": "johnson_earle_1987_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. Evolution of Human Societies. Stanford. 2nd ed. 2000. ILL. Low priority."
+    },
+    {
+      "filename": "yoffee_1993.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "[SECTION II: Critiques of the Chiefdom Concept] BOOK CHAPTER. Too Many Chiefs? In Yoffee and Sherratt eds., Archaeological Theory: Who Sets the Agenda?, pp. 60-78. Cambridge. Try Cambridge Books Online via EZproxy. HIGH PRIORITY."
+    },
+    {
+      "filename": "pauketat_2001.pdf",
+      "doi": "10.1177/146349960100100105",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Anthropological Theory 1(1): 73-98. Practice and History in Archaeology. Check Unpaywall."
+    },
+    {
+      "filename": "yoffee_2005_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. Myths of the Archaic State. Cambridge. Check Cambridge Books Online via EZproxy. Priority: introduction and conclusion."
+    },
+    {
+      "filename": "pauketat_2007_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. Chiefdoms and Other Archaeological Delusions. AltaMira. ILL or institutional ebook. HIGH PRIORITY. Priority: introduction and main theoretical chapters."
+    },
+    {
+      "filename": "carneiro_pauketat_2010.pdf",
+      "doi": null,
+      "url": "https://www.socionauki.ru/journal/articles/130247/",
+      "oa_url": null,
+      "status": "pending",
+      "note": "Social Evolution and History 9(1): 135-163 and 165-171. OA journal but no direct PDF link confirmed. Try publisher site directly."
+    },
+    {
+      "filename": "earle_2011.pdf",
+      "doi": null,
+      "url": "https://www.socionauki.ru/journal/articles/130249/",
+      "oa_url": null,
+      "status": "pending",
+      "note": "Social Evolution and History 10(1): 27-54. Chiefs, Chieftaincies, Chiefdoms, Chiefly Confederacies. OA journal."
+    },
+    {
+      "filename": "smith_2011_sovereignty.pdf",
+      "doi": "10.1146/annurev-anthro-081309-145754",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Annual Review of Anthropology 40: 415-432. Archaeologies of Sovereignty."
+    },
+    {
+      "filename": "skalnik_2004.pdf",
+      "doi": "10.3167/092012904782353302",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Focaal 43: 76-98. Chiefdom: A Universal Political Formation? Check Unpaywall."
+    },
+    {
+      "filename": "stein_1998.pdf",
+      "doi": "10.1007/BF02443105",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Journal of Archaeological Research 6(1): 1-44. Heterogeneity, Power, and Political Economy. Check Unpaywall."
+    },
+    {
+      "filename": "mcintosh_1999_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK (edited). Beyond Chiefdoms: Pathways to Complexity in Africa. Cambridge. Check Cambridge Books Online via EZproxy. HIGH PRIORITY. Priority: McIntosh introduction."
+    },
+    {
+      "filename": "gnecco_langebaek_2014_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK (edited). Against Typological Tyranny. Springer. Check Springer via EZproxy. Low-medium priority."
+    },
+    {
+      "filename": "ostrom_1990_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "[SECTION III: Collective Action] BOOK. Governing the Commons. Cambridge. Check Cambridge Books Online via EZproxy. Priority: intro and design principles chapters."
+    },
+    {
+      "filename": "boehm_1993.pdf",
+      "doi": "10.1086/204167",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Current Anthropology 34(3): 227-254. Egalitarian Behavior and Reverse Dominance Hierarchy."
+    },
+    {
+      "filename": "clastres_1989_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. Society Against the State. Zone Books. ILL. Low-medium priority."
+    },
+    {
+      "filename": "blanton_fargher_2008_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. Collective Action in the Formation of Pre-Modern States. Springer. Check Springer via EZproxy. HIGH PRIORITY. Priority: introduction and theoretical framework chapters."
+    },
+    {
+      "filename": "fargher_blanton_2007.pdf",
+      "doi": "10.1017/S0010417507000837",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Comparative Studies in Society and History 49(4): 848-882. Revenue, Voice, and Public Goods. Check Unpaywall."
+    },
+    {
+      "filename": "fargher_et_al_2010.pdf",
+      "doi": "10.7183/1045-6635.21.3.227",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Latin American Antiquity 21(3): 227-251. Tlaxcallan egalitarian ideology."
+    },
+    {
+      "filename": "blanton_fargher_2011.pdf",
+      "doi": "10.1080/00438243.2011.607706",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "World Archaeology 43(3): 505-522. Collective Logic of Pre-Modern Cities."
+    },
+    {
+      "filename": "hunt_lipo_2011_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. The Statues That Walked. Free Press. User likely has copy. Check transfer from RN-IIM first. Priority: moai transport and collective action chapters."
+    },
+    {
+      "filename": "carballo_2013_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK (edited). Cooperation and Collective Action. Univ Press of Colorado. ILL or institutional ebook. Priority: Feinman, Roscoe, and Blanton theoretical chapters."
+    },
+    {
+      "filename": "lipo_et_al_2013.pdf",
+      "doi": "10.1016/j.jas.2012.09.029",
+      "url": null,
+      "oa_url": null,
+      "status": "downloaded",
+      "note": "Transferred from RN-IIM. JAS 40(6): 2859-2866. Walking Moai. Check transfer from RN-IIM first."
+    },
+    {
+      "filename": "carballo_et_al_2014.pdf",
+      "doi": "10.1007/s10816-012-9147-2",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "JAMT 21: 98-133. Cooperation and Collective Action in Cultural Evolution. Check Unpaywall."
+    },
+    {
+      "filename": "blanton_fargher_2016_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. How Humans Cooperate. Univ Press of Colorado. ILL or institutional ebook. Low-medium priority."
+    },
+    {
+      "filename": "demarrais_earle_2017.pdf",
+      "doi": "10.1146/annurev-anthro-102116-041409",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Annual Review of Anthropology 46: 183-201. Collective Action Theory and Complex Societies. Most comprehensive review of CA theory for archaeology."
+    },
+    {
+      "filename": "scarborough_lucero_2010.pdf",
+      "doi": "10.1007/s12685-010-0020-6",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Water History 2(2): 185-205. Non-Hierarchical Development of Complexity. Check Unpaywall."
+    },
+    {
+      "filename": "dinapoli_et_al_2019.pdf",
+      "doi": "10.1371/journal.pone.0210409",
+      "url": null,
+      "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0210409&type=printable",
+      "status": "downloaded",
+      "note": "Transferred from RN-IIM. Gold OA (PLOS ONE). Ahu-freshwater correlation. Check transfer from RN-IIM first."
+    },
+    {
+      "filename": "kirch_1984_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "[SECTION IV: Regional Case Studies] BOOK. Evolution of the Polynesian Chiefdoms. Cambridge. Check Cambridge Books Online via EZproxy. HIGH PRIORITY. Ask user about physical or institutional digital access before attempting download. Priority chapters: theoretical framework, archaeological correlates of chieftainship, Eastern Polynesia coverage."
+    },
+    {
+      "filename": "valeri_1985_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. Kingship and Sacrifice. Univ of Chicago Press. ILL or institutional ebook. Medium priority."
+    },
+    {
+      "filename": "kirch_green_2001_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. Hawaiki, Ancestral Polynesia. Cambridge. Check Cambridge Books Online via EZproxy. Priority: comparative methodology and ancestral Polynesia reconstruction chapters."
+    },
+    {
+      "filename": "kirch_2010_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. How Chiefs Became Kings. Univ of California Press. Check institutional ebook. HIGH PRIORITY. Ask user about physical or institutional digital access. Priority: introduction, comparative chiefdom-to-state argument, coverage of Eastern Polynesia."
+    },
+    {
+      "filename": "dinapoli_et_al_sustainability_2021.pdf",
+      "doi": "10.3390/su132111798",
+      "url": null,
+      "oa_url": "https://www.mdpi.com/2071-1050/13/21/11798/pdf",
+      "status": "downloaded",
+      "note": "Transferred from RN-IIM. Gold OA (MDPI). Triumph of the Commons: Sustainable Community Practices on Rapa Nui. Check transfer from RN-IIM first."
+    },
+    {
+      "filename": "pauketat_1994_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. Ascent of Chiefs: Cahokia and Mississippian Politics. Univ of Alabama Press. ILL or institutional ebook. Low-medium priority."
+    },
+    {
+      "filename": "fargher_et_al_2011.pdf",
+      "doi": "10.1016/j.jaa.2011.03.003",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Journal of Anthropological Archaeology 30: 306-326. Alternative Pathways to Power in Late Postclassic Highland Mesoamerica."
+    },
+    {
+      "filename": "drennan_1995.pdf",
+      "doi": "10.1007/BF02221528",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Journal of World Prehistory 9(3): 301-340. Chiefdoms in Northern South America. Check Unpaywall."
+    },
+    {
+      "filename": "drennan_peterson_2006.pdf",
+      "doi": "10.1073/pnas.0600177103",
+      "url": null,
+      "oa_url": "https://www.pnas.org/doi/pdf/10.1073/pnas.0600177103",
+      "status": "pending",
+      "note": "PNAS 103(11): 3960-3967. Patterned Variation in Prehistoric Chiefdoms. Verify OA status."
+    },
+    {
+      "filename": "mcintosh_2005_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. Ancient Middle Niger. Cambridge. Check Cambridge Books Online via EZproxy. Priority: heterarchical urbanism chapters."
+    },
+    {
+      "filename": "blanton_et_al_2020.pdf",
+      "doi": "10.3389/fpos.2020.568704",
+      "url": null,
+      "oa_url": "https://www.frontiersin.org/articles/10.3389/fpos.2020.568704/pdf",
+      "status": "pending",
+      "note": "[SECTION V: Recent Works (2020-2026)] Gold OA (Frontiers). Moral Collapse and State Failure. Frontiers in Political Science 2: 568704."
+    },
+    {
+      "filename": "furholt_et_al_2020.pdf",
+      "doi": "10.1007/s10816-019-09433-3",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "JAMT 27: 1-29. Political Economy and Bottom-Up Approaches. Check Unpaywall (Springer)."
+    },
+    {
+      "filename": "holland-lulewicz_et_al_2020.pdf",
+      "doi": "10.1016/j.jaa.2020.101163",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Journal of Anthropological Archaeology 58: 101163. Institutional Approach for Archaeology. Check Unpaywall."
+    },
+    {
+      "filename": "blanton_et_al_2021.pdf",
+      "doi": "10.1086/712467",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Current Anthropology 62: 77-100. Fiscal Economy of Good Government."
+    },
+    {
+      "filename": "graeber_wengrow_2021_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. The Dawn of Everything. Farrar, Straus and Giroux. ILL or institutional ebook. Priority: Kandiaronk/indigenous critique chapters and political experimentation argument."
+    },
+    {
+      "filename": "dinapoli_et_al_2021_natcomms.pdf",
+      "doi": "10.1038/s41467-021-24252-z",
+      "url": null,
+      "oa_url": "https://www.nature.com/articles/s41467-021-24252-z.pdf",
+      "status": "pending",
+      "note": "Gold OA (Nature Communications). Bayesian population resilience on Rapa Nui. Nature Communications 12: 3939. Check transfer from RN-IIM first. NOTE: also listed in Rapa Nui primary sources block; Claude Code should deduplicate."
+    },
+    {
+      "filename": "holland-lulewicz_2021.pdf",
+      "doi": "10.1007/s10814-020-09149-7",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Journal of Archaeological Research 29: 1-43. Categories to Connections in Eastern North America. Check Unpaywall."
+    },
+    {
+      "filename": "fargher_et_al_2022.pdf",
+      "doi": "10.3389/fpos.2022.832440",
+      "url": null,
+      "oa_url": "https://www.frontiersin.org/articles/10.3389/fpos.2022.832440/pdf",
+      "status": "pending",
+      "note": "Gold OA (Frontiers). Collective Action and Democracy in Tlaxcallan. Frontiers in Political Science 4: 832440."
+    },
+    {
+      "filename": "thompson_et_al_2022.pdf",
+      "doi": "10.1017/aaq.2022.41",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "American Antiquity 87(4): 704-723. Democratic Institutions among Ancestral Muskogean. Check Unpaywall."
+    },
+    {
+      "filename": "green_2022.pdf",
+      "doi": "10.3389/fpos.2022.824704",
+      "url": null,
+      "oa_url": "https://www.frontiersin.org/articles/10.3389/fpos.2022.824704/pdf",
+      "status": "pending",
+      "note": "Gold OA (Frontiers). Revenue without Rulers: Indus Civilization. Frontiers in Political Science 4."
+    },
+    {
+      "filename": "birch_2022.pdf",
+      "doi": "10.3389/fpos.2022.807239",
+      "url": null,
+      "oa_url": "https://www.frontiersin.org/articles/10.3389/fpos.2022.807239/pdf",
+      "status": "pending",
+      "note": "Gold OA (Frontiers). Premodern Confederacies. Frontiers in Political Science 4: 807239."
+    },
+    {
+      "filename": "feinman_2023.pdf",
+      "doi": "10.1146/annurev-anthro-041320-114129",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Annual Review of Anthropology 52: 347-364. Reconceptualizing Archaeological Perspectives on Long-Term Political Change."
+    },
+    {
+      "filename": "thompson_2023.pdf",
+      "doi": "10.1007/s10814-022-09173-3",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Journal of Archaeological Research 31: 173-216. Collective Action and Institutions in the American Southeast. Check Unpaywall."
+    },
+    {
+      "filename": "holland-lulewicz_2023.pdf",
+      "doi": "10.1017/aaq.2023.20",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "American Antiquity 88(4): 513-530. Social Network and Institutional Covariance in the American Southeast."
+    },
+    {
+      "filename": "brughmans_peeples_2023_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. Network Science in Archaeology. Cambridge. Check Cambridge Books Online via EZproxy. Priority: introduction and political organization chapters."
+    },
+    {
+      "filename": "hofmann_et_al_2024.pdf",
+      "doi": "10.15184/aqy.2024.1",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Antiquity 98(398): 380-400. Trypillia Mega-sites. Check Unpaywall."
+    },
+    {
+      "filename": "blanton_fargher_2024.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Frontiers in Human Dynamics. Subaltern to Politically Engaged Citizenry. Should be Gold OA. Ask user for full DOI before downloading."
+    },
+    {
+      "filename": "carballo_feinman_2024.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Cambridge Elements in Anthropological Archaeology. Collective Action and Early Mesoamerica. Check Cambridge Elements via EZproxy. Ask user for DOI."
+    },
+    {
+      "filename": "lipo_et_al_2025_jas.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "JAS 183: 106383. Walking Moai Hypothesis comprehensive analysis. Check transfer from RN-IIM first. Ask user to confirm DOI."
+    },
+    {
+      "filename": "lipo_et_al_2025.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "downloaded",
+      "note": "Transferred from RN-IIM. PLOS ONE. Megalithic Statue Production on Rapa Nui. Gold OA when published. Check transfer from RN-IIM. Ask user for DOI."
+    },
+    {
+      "filename": "feinman_et_al_2025.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "PNAS 122(16). Assessing Grand Narratives of Economic Inequality. Likely OA. Ask user for DOI to confirm."
+    },
+    {
+      "filename": "blanton_feinman_2025.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Frontiers in Human Dynamics 7. Food, Markets, and Governance. Should be Gold OA. Ask user for full citation and DOI."
+    },
+    {
+      "filename": "lewontin_1972.pdf",
+      "doi": "10.1038/236181a0",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "[SECTION VI: Epistemological Foundations] Nature 236(5343): 181-182. Testing the Theory of Natural Selection. Check Unpaywall."
+    },
+    {
+      "filename": "lewontin_1974_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. The Genetic Basis of Evolutionary Change. Columbia. ILL. Priority: introduction and chapters on empirical sufficiency and limits of inference."
+    },
+    {
+      "filename": "gould_lewontin_1979.pdf",
+      "doi": "10.1098/rspb.1979.0086",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Proceedings of the Royal Society B 205(1161): 581-598. Spandrels of San Marco. Check Unpaywall."
+    },
+    {
+      "filename": "dunnell_1971_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. Systematics in Prehistory. Free Press. ILL. Priority: classification vs grouping and intensional vs extensional units."
+    },
+    {
+      "filename": "dunnell_1980.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK CHAPTER. Evolutionary Theory and Archaeology. In Schiffer ed., Advances in Archaeological Method and Theory Vol. 3: 35-99. Academic Press. No standard DOI. Try EZproxy via Elsevier; otherwise ILL."
+    },
+    {
+      "filename": "schiffer_1987_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. Formation Processes of the Archaeological Record. Univ of New Mexico Press. ILL or institutional ebook. Priority: c-transforms and n-transforms chapters."
+    },
+    {
+      "filename": "wobst_1978.pdf",
+      "doi": "10.2307/279256",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "JSTOR. Archaeo-Ethnology of Hunter-Gatherers / Tyranny of the Ethnographic Record. American Antiquity 43(2): 303-309. HIGH PRIORITY."
+    },
+    {
+      "filename": "wylie_1985.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK CHAPTER. Reaction Against Analogy. In Schiffer ed., Advances in Archaeological Method and Theory Vol. 8: 63-111. Academic Press. No standard DOI. Try EZproxy via Elsevier; otherwise ILL. HIGH PRIORITY."
+    },
+    {
+      "filename": "wylie_2002_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. Thinking from Things. Univ of California Press. Check institutional ebook. Priority: underdetermination and cable model of inference chapters."
+    },
+    {
+      "filename": "lyman_obrien_1998.pdf",
+      "doi": "10.1086/204784",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Current Anthropology 39(5): 615-652. Goals of Evolutionary Archaeology."
+    },
+    {
+      "filename": "rogers_2000.pdf",
+      "doi": "10.2307/2694752",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "JSTOR. On Equifinality in Faunal Analysis. American Antiquity 65(4): 709-723. HIGH PRIORITY."
+    },
+    {
+      "filename": "perreault_2019_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. The Quality of the Archaeological Record. Univ of Chicago Press. Check institutional ebook. HIGH PRIORITY. Priority: data quality, sampling intervals, and equifinality chapters."
+    },
+    {
+      "filename": "lipo_et_al_2015.pdf",
+      "doi": "10.1371/journal.pone.0124942",
+      "url": null,
+      "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0124942&type=printable",
+      "status": "pending",
+      "note": "Gold OA (PLOS ONE). Theoretically-Sufficient Frequency Seriation. PLOS ONE 10(4): e0124942."
+    },
+    {
+      "filename": "turner_2005.pdf",
+      "doi": "10.1086/426852",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Philosophy of Science 72(1): 209-230. Local Underdetermination in Historical Science. Check Unpaywall."
+    },
+    {
+      "filename": "currie_2018_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. Rock, Bone, and Ruin. MIT Press. Check institutional ebook. Priority: methodological omnivory and cable-style inference chapters."
+    },
+    {
+      "filename": "riede_et_al_2022.pdf",
+      "doi": "10.1017/ehs.2022.13",
+      "url": null,
+      "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/10.1017/ehs.2022.13",
+      "status": "pending",
+      "note": "Gold OA (Cambridge EHS). Dunnell's Systematics at 50. Evolutionary Human Sciences 4: e16."
+    },
+    {
+      "filename": "smith_2011_empirical.pdf",
+      "doi": "10.1007/s10816-011-9113-2",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "JAMT 18(3): 167-192. Empirical Urban Theory for Archaeologists. Check Unpaywall."
+    },
+    {
+      "filename": "fabian_1983_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "[SECTION VII: Ethnohistoric Projection] BOOK. Time and the Other. Columbia Univ Press. Check institutional ebook. HIGH PRIORITY. Priority: denial of coevalness and temporal distancing chapters."
+    },
+    {
+      "filename": "stahl_1993.pdf",
+      "doi": "10.2307/282140",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "JSTOR. Concepts of Time and Analogical Reasoning. American Antiquity 58(2): 235-260. HIGH PRIORITY."
+    },
+    {
+      "filename": "lightfoot_1995.pdf",
+      "doi": "10.2307/282137",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "JSTOR. Culture Contact Studies. American Antiquity 60(2): 199-217."
+    },
+    {
+      "filename": "lyman_obrien_2001.pdf",
+      "doi": "10.1023/A:1013271330639",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "JAMT 8(4): 303-342. Direct Historical Approach and Analogical Reasoning. Check Unpaywall (Springer). HIGH PRIORITY."
+    },
+    {
+      "filename": "bailey_2007.pdf",
+      "doi": "10.1016/j.jaa.2006.08.002",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Journal of Anthropological Archaeology 26(2): 198-223. Time Perspectives, Palimpsests, and the Archaeology of Time. Check Unpaywall."
+    },
+    {
+      "filename": "hunt_lipo_2006.pdf",
+      "doi": "10.1126/science.1121879",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Science 311(5767): 1603-1606. Late Colonization of Easter Island. Check Unpaywall. Check transfer from RN-IIM first."
+    },
+    {
+      "filename": "mccoy_2006.pdf",
+      "doi": "10.2307/40035861",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "JSTOR. Landscapes of War. American Antiquity 71(2): 285-314."
+    },
+    {
+      "filename": "mccoy_graves_2010.pdf",
+      "doi": "10.1080/00438240903429273",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "World Archaeology 42(1): 90-107. Role of Agricultural Innovation on Pacific Islands. Check Unpaywall."
+    },
+    {
+      "filename": "kolb_1994.pdf",
+      "doi": "10.1086/204359",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Current Anthropology 35(5): 521-547. Monumentality and Religious Authority in Precontact Hawai'i."
+    },
+    {
+      "filename": "dye_2010.pdf",
+      "doi": "10.7183/0002-7316.75.4.727",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "American Antiquity 75(4): 727-741. Social Transformation in Old Hawai'i."
+    },
+    {
+      "filename": "diamond_2005_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. Collapse. Viking. ILL or institutional ebook. Relevant: Easter Island chapter only. LOW priority; cite only as foil."
+    },
+    {
+      "filename": "ethridge_2010_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. From Chicaza to Chickasaw. Univ of North Carolina Press. ILL or institutional ebook. Priority: colonial transformation chapters. Low-medium priority for RN paper."
+    },
+    {
+      "filename": "keegan_2007_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. Taino Indian Myth and Practice. Univ Press of Florida. ILL. Low-medium priority."
+    },
+    {
+      "filename": "routledge_1919.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": "https://archive.org/download/mysteryofeaste00rout/mysteryofeaste00rout.pdf",
+      "status": "downloaded",
+      "note": "Transferred from RN-IIM. Public domain. Mystery of Easter Island. Check transfer from RN-IIM first. HIGH PRIORITY (POST-RAID source)."
+    },
+    {
+      "filename": "thompson_1891.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": "https://archive.org/download/annualreportofbo1889smit/annualreportofbo1889smit.pdf",
+      "status": "pending",
+      "note": "Public domain. Te Pito te Henua. Smithsonian Annual Report 1889: 447-552. Check transfer from RN-IIM first. HIGH PRIORITY (POST-RAID source)."
+    },
+    {
+      "filename": "metraux_1940.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "downloaded",
+      "note": "Transferred from RN-IIM. Archive.org lending library. Ethnology of Easter Island. Direct download blocked. Requires borrowing account or in-person scan. Check transfer from RN-IIM first. HIGH PRIORITY (POST-RAID source)."
+    },
+    {
+      "filename": "mccoy_1976.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "downloaded",
+      "note": "Transferred from RN-IIM. Bishop Museum Bulletin 85. Rapa Nui prehistory. Not available online. Check transfer from RN-IIM first. Otherwise ILL. HIGH PRIORITY."
+    },
+    {
+      "filename": "corney_1903.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": "https://archive.org/details/voyageinspouthse00corn",
+      "status": "pending",
+      "note": "Public domain. Voyage in the South Seas. Hakluyt Society. Contains Gonzalez 1770 and related early Spanish accounts. Check transfer from RN-IIM first."
+    },
+    {
+      "filename": "kuhn_1962_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "[SECTION VIII: Sociology of Knowledge] BOOK. Structure of Scientific Revolutions. 3rd ed. 1996. Univ of Chicago Press. Check institutional ebook. Priority: paradigm persistence and normal science chapters."
+    },
+    {
+      "filename": "latour_1987_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. Science in Action. Harvard Univ Press. ILL or institutional ebook. Priority: actor-network stabilization chapters."
+    },
+    {
+      "filename": "latour_woolgar_1979_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. Laboratory Life. 2nd ed. 1986. Princeton Univ Press. ILL or institutional ebook. Priority: facticity and inscription chapters."
+    },
+    {
+      "filename": "fleck_1935_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. Genesis and Development of a Scientific Fact. Univ of Chicago Press (1979 translation). Check institutional ebook. Priority: thought collective and thought style chapters."
+    },
+    {
+      "filename": "trigger_2006_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. History of Archaeological Thought. 2nd ed. Cambridge. Check Cambridge Books Online via EZproxy. Priority: neoevolutionism and paradigm persistence chapters."
+    },
+    {
+      "filename": "schiffer_1988.pdf",
+      "doi": "10.2307/281212",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "JSTOR. Structure of Archaeological Theory. American Antiquity 53(3): 461-485."
+    },
+    {
+      "filename": "hegmon_2003.pdf",
+      "doi": "10.2307/3557078",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "JSTOR. Setting Theoretical Egos Aside. American Antiquity 68(2): 213-243."
+    },
+    {
+      "filename": "lyman_2007.pdf",
+      "doi": "10.1016/j.jaa.2006.05.003",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Journal of Anthropological Archaeology 26(2): 133-149. Archaeology's Quest for a Seat at the High Table. Check Unpaywall."
+    },
+    {
+      "filename": "smith_1999_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "[SECTION IX: Decolonial Critique] BOOK. Decolonizing Methodologies. 3rd ed. 2021. Zed Books. Check institutional ebook. Priority: colonial knowledge production and research paradigm chapters."
+    },
+    {
+      "filename": "atalay_2006.pdf",
+      "doi": "10.1353/aiq.2006.0014",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "American Indian Quarterly 30(3-4): 280-310. Indigenous Archaeology as Decolonizing Practice. Check Unpaywall."
+    },
+    {
+      "filename": "atalay_2012_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. Community-Based Archaeology. Univ of California Press. Check institutional ebook. Low-medium priority."
+    },
+    {
+      "filename": "hauofa_1994.pdf",
+      "doi": null,
+      "url": "https://scholarspace.manoa.hawaii.edu/bitstream/10125/13178/1/v6n1-148-161.pdf",
+      "oa_url": "https://scholarspace.manoa.hawaii.edu/bitstream/10125/13178/1/v6n1-148-161.pdf",
+      "status": "pending",
+      "note": "Gold OA (UH ScholarSpace). Our Sea of Islands. The Contemporary Pacific 6(1): 148-161."
+    },
+    {
+      "filename": "nicholas_2010_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK (edited). Being and Becoming Indigenous Archaeologists. Left Coast Press. ILL. Low priority."
+    },
+    {
+      "filename": "supernant_et_al_2020_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK (edited). Archaeologies of the Heart. Springer. Check Springer via EZproxy. Low priority."
+    },
+    {
+      "filename": "wobst_2005.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK CHAPTER. Power to the Indigenous Past. In Smith and Wobst eds., Indigenous Archaeologies: 17-32. Routledge. Try EZproxy via Taylor and Francis. Low-medium priority."
+    },
+    {
+      "filename": "boyd_richerson_1985_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "[SECTION X: Models Calibrated to Data] BOOK. Culture and the Evolutionary Process. Univ of Chicago Press. ILL or institutional ebook. Priority: dual inheritance theory and transmission bias chapters."
+    },
+    {
+      "filename": "cavalli-sforza_feldman_1981_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. Cultural Transmission and Evolution. Princeton. ILL. Low-medium priority."
+    },
+    {
+      "filename": "shennan_2002_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. Genes, Memes, and Human History. Thames and Hudson. ILL or institutional ebook. Priority: population thinking and archaeological application chapters."
+    },
+    {
+      "filename": "mesoudi_2011_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. Cultural Evolution. Univ of Chicago Press. Check institutional ebook. Priority: intro and testable predictions chapters."
+    },
+    {
+      "filename": "obrien_lyman_2003_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK. Cladistics and Archaeology. Univ of Utah Press. ILL. Priority: phylogenetic methods for material culture chapters."
+    },
+    {
+      "filename": "tehrani_collard_2002.pdf",
+      "doi": "10.1006/jaar.2002.0207",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Journal of Anthropological Archaeology 21(4): 443-463. Phylogenetic Analyses of Turkmen Textiles. Check Unpaywall."
+    },
+    {
+      "filename": "lake_2014.pdf",
+      "doi": "10.1007/s10816-013-9188-1",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "JAMT 21: 258-287. Trends in Archaeological Simulation. Check Unpaywall (Springer)."
+    },
+    {
+      "filename": "lycett_2015.pdf",
+      "doi": "10.1016/j.jas.2014.03.042",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "Journal of Archaeological Science 56: 21-31. Cultural Evolutionary Approaches to Artifact Variation. Check Unpaywall."
+    },
+    {
+      "filename": "crabtree_et_al_2017.pdf",
+      "doi": "10.1017/aaq.2016.38",
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "American Antiquity 82(1): 71-95. How to Make a Polity (Mesa Verde). Check Unpaywall."
+    },
+    {
+      "filename": "kandler_powell_2018.pdf",
+      "doi": "10.1098/rstb.2017.0056",
+      "url": null,
+      "oa_url": "https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2017.0056",
+      "status": "pending",
+      "note": "Gold OA (Royal Society). Generative Inference for Cultural Evolution. Phil Trans R Soc B 373(1743): 20170056."
+    },
+    {
+      "filename": "mesoudi_whiten_2008.pdf",
+      "doi": "10.1098/rstb.2008.0117",
+      "url": null,
+      "oa_url": "https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2008.0117",
+      "status": "pending",
+      "note": "Gold OA (Royal Society). Multiple Roles of Cultural Transmission Experiments. Phil Trans R Soc B 363(1509): 3489-3501."
+    },
+    {
+      "filename": "lipo_et_al_2006_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK (edited). Mapping Our Ancestors: Phylogenetic Approaches. Aldine Transaction. ILL or institutional ebook. Priority: introduction and method overview."
+    },
+    {
+      "filename": "prentiss_2019_relevant_chs.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "pending",
+      "note": "BOOK (edited). Handbook of Evolutionary Research in Archaeology. Springer. Check Springer via EZproxy. Priority: transmission theory and phylogenetic methods chapters."
+    },
+    {
+      "filename": "dinapoli_et_al_2020.pdf",
+      "doi": "10.1016/j.jas.2020.105094",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305440320300182",
+      "oa_url": null,
+      "status": "downloaded",
+      "note": "Transferred from RN-IIM. [Rapa Nui primary archaeological sources (own work and direct evidence)] JAS. Ahu construction tempo. Check transfer from RN-IIM first. ScienceDirect may require manual download via EZproxy."
+    },
+    {
+      "filename": "moreno-mayar_et_al_2024.pdf",
+      "doi": "10.1038/s41586-024-07881-4",
+      "url": null,
+      "oa_url": "https://www.nature.com/articles/s41586-024-07881-4.pdf",
+      "status": "downloaded",
+      "note": "Transferred from RN-IIM. Gold OA (Nature). Genomics. Check transfer from RN-IIM first."
+    },
+    {
+      "filename": "davis_et_al_2024.pdf",
+      "doi": "10.1126/sciadv.ado1459",
+      "url": "https://www.science.org/doi/10.1126/sciadv.ado1459",
+      "oa_url": "https://europepmc.org/articles/PMC11192071?pdf=render",
+      "status": "downloaded",
+      "note": "Transferred from RN-IIM. Europe PMC OA. Carrying capacity. Check transfer from RN-IIM first."
+    },
+    {
+      "filename": "mulrooney_2013.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "downloaded",
+      "note": "Transferred from RN-IIM. Island-wide radiocarbon chronology. Check transfer from RN-IIM first. Ask user for DOI."
+    },
+    {
+      "filename": "robinson_stevenson_2017.pdf",
+      "doi": "10.70460/jpa.v8i2.198",
+      "url": null,
+      "oa_url": "https://pacificarchaeology.org/index.php/journal/article/download/198/pdf",
+      "status": "downloaded",
+      "note": "Transferred from RN-IIM. Gold OA (JPA). Orongo occupation. Check transfer from RN-IIM first."
+    },
+    {
+      "filename": "pollard_et_al_2010.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "downloaded",
+      "note": "Transferred from RN-IIM. Birdman cult / contact-period politics. Check transfer from RN-IIM first. Ask user for DOI."
+    },
+    {
+      "filename": "haoa_et_al_2017.pdf",
+      "doi": null,
+      "url": null,
+      "oa_url": null,
+      "status": "downloaded",
+      "note": "Transferred from RN-IIM. Routledge volume on Rapa Nui. Boersema Ch. 8 and Richards Ch. 9 most relevant. Check transfer from RN-IIM first. Ask user for full citation."
+    }
+  ]
+}
