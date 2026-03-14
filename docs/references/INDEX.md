@@ -74,11 +74,11 @@ Each entry follows this format:
 **Pipeline**: claims / summary / index
 **Notes**: Critical. Demonstrates Corney mistranslated *hombres mayores* ("elderly men") as "principal men," systematically inflating age into political authority.
 
-## Cook 1774 (via von Saher and Jakubowska)
-**File**: `european_accounts/03_cook_1774/` (multiple files)
+## Cook 1774 (Cook 1846 direct + von Saher and Jakubowska)
+**File**: `european_accounts/03_cook_1774/` (multiple files); Cook 1846 OCR: `cook_1846_easter_island_ocr.txt`
 **Tags**: contact-era, political-authority, polynesian-analogy, circularity
 **Pipeline**: claims / summary / evidence / index
-**Notes**: Most important contact-era evidence. Named ariki (Ko Toheetai), but Forsters explicitly described authority as non-coercive and simpler than Tahiti/Tonga.
+**Notes**: Most important contact-era evidence. Cook's own narrative now directly accessed (1846 compiled ed., OCR'd). Cook "confess[ed] myself quite ignorant" of chiefly authority. Named ariki (Ko Toheetai) in Forster accounts; Cook's inland party independently identified a "chief" but described no commanding behavior. Quarry confirmed by Cook via Wales, resolving Forster discrepancy.
 
 ## Forster c.1775-1786 (*Memoire sur Waihou*)
 **File**: `european_accounts/03_cook_1774/Jakubowska-2014-Still More to Discover...pdf`

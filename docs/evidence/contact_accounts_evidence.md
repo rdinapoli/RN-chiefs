@@ -59,28 +59,34 @@ Compiled from claims extractions: `docs/references/claims/`. All page numbers re
 
 ### Cook 1774
 
-**Duration**: 4 days (March 13-16, 1774). Observers had extensive comparative Polynesian experience.
+**Duration**: 4 days (March 13-16, 1774). Observers had extensive comparative Polynesian experience. Cook's own narrative now directly available (Cook 1846, OCR'd).
 
 **For hierarchical authority**:
 - Ko Toheetai identified by islanders as "aree" (ariki), a Polynesian title. He wore differentiated clothing (mulberry bark cloth dyed with turmeric, feathered "diadem") and stood on a hill to receive the Europeans (von Saher 1992, RNJ 6(2) p. 38).
 - Ko Toheetai distributed sugar cane during the expedition's march (Jakubowska 2014, *Still More to Discover* p. 81).
 - He tried to prevent the party from proceeding further inland (von Saher 1992, RNJ 6(2) p. 38).
 - When asked if he was chief of the whole island, "he spread out his arms, as it were to include the whole island, and said Waihu" (von Saher 1992, RNJ 6(2) p. 38).
-- Statues identified as memorials to "areekees, or kings" by islanders, with named individuals (von Saher 1992, RNJ 6(2) p. 36).
+- Statues identified as memorials to "areekees, or kings" by islanders, with named individuals (von Saher 1992, RNJ 6(2) p. 36). Cook independently confirms: islanders appended "Areekee" (chief) to statue names (Cook 1846, p. 455).
+- Cook's inland party identified a man "seemingly of some note" with better cloth and distinctive greeting, "whom they understood to be the chief of the island" (Cook 1846, p. 451).
 - Some individuals assumed to be "principal people" based on wearing robes (von Saher 1992, RNJ 6(2) p. 34).
 
 **Against/ambiguous**:
+- **Cook's decisive admission**: "I have no doubt that all these plantations are private property, and that there are here, as at Otaheite, chiefs (which they call Areekes) to whom these plantations belong. But of the power or authority of these chiefs, or of the government of these people, I confess myself quite ignorant" (Cook 1846, pp. 454-455). Cook, the most experienced Pacific navigator of his era, could not characterize political authority after four days of direct contact.
 - "We did not observe that he was held in a very high esteem or that he was paid a humiliating homage, as it is demanded by despots from Asiatic islands" (Jakubowska 2014, *Still More to Discover* p. 82). The comparison with Tahiti/Tonga is explicit and negative.
 - "He seemed rather a father of a family than an absolute ruler of this tribe" (Jakubowska 2014, *Still More to Discover* p. 82).
 - The government "neither complicated nor troublesome" (*Still More to Discover* p. 82).
 - Conflict resolution attributed to "heads of families," not centralized authority (*Still More to Discover* p. 83).
 - "Everyone is in need of seeking their subsistence and they must do it using only the strength of their own hands" (*Still More to Discover* p. 83).
-- No redistribution, no centralized exchange, no organized labor, no warrior class, no large canoe fleet.
+- Cook observes a plantation owner individually defending his own property, with no recourse to authority (Cook 1846, p. 450). Hut owners individually distributed food to the European party (Cook 1846, p. 450). These describe household-level resource control, not centralized redistribution.
+- Cook's inland party described no commanding behavior by the "chief": he merely accompanied them with better clothing and a distinctive greeting (Cook 1846, p. 451).
+- No redistribution, no centralized exchange, no organized labor, no warrior class, no large canoe fleet, no religion identified.
+- Only 3-4 canoes on the whole island, "very mean, and built of many pieces" (Cook 1846, p. 454).
 - Extreme poverty: coconut shells were "most valuable article of trade" (von Saher 1992, RNJ 6(2) p. 37).
-- Theft was common and not controlled by any authority; islanders raided neighbors' fields to sell produce to Europeans (*Still More to Discover* p. 77).
+- Theft was common and not controlled by any authority; islanders raided neighbors' fields to sell produce to Europeans (*Still More to Discover* p. 77; confirmed by Cook 1846, p. 450).
+- Cook attributes monument construction to "ingenuity and perseverance of the islanders," not to chiefly command (Cook 1846, p. 455).
 - Forster *Memoire* has dual purpose as scientific report and Enlightenment political manifesto (Jakubowska-Vorbrich 2019, p. 200); political descriptions require caution.
 
-**Assessment**: The only named individual identified by islanders using a Polynesian leadership title, but the same observers explicitly described his authority as non-coercive, paternal, and simpler than other Polynesian systems they had seen. The evidence supports both sides of the debate depending on what is emphasized.
+**Assessment**: The only named individual identified by islanders using a Polynesian leadership title, but Cook himself could not characterize the nature of chiefly authority. The Forsters described it as non-coercive and simpler than other Polynesian systems. Cook's epistemological honesty is the most damaging evidence against the chiefdom attribution: if the most experienced Pacific observer of the 18th century could not identify the political system, the evidence does not support confident characterization by later researchers.
 
 ### La Pérouse 1786
 
@@ -136,7 +142,7 @@ The contact-era record contains exactly these observations that could support ch
 
 1. **Roggeveen 1722**: One individual in distinctive dress directed provisioning and enforced compliance through threat (Bouman's account). Context: post-shooting crisis.
 2. **González 1770**: Age-graded housing differentiation; vocabulary term *tequeteque* for "High chief or lord"; annexation treaty signatories labeled "chiefs."
-3. **Cook 1774**: Ko Toheetai identified as *aree* (ariki) by islanders; wore distinctive clothing; distributed food; claimed authority over whole island (through gesture). Statues identified as memorials to *areekees*.
+3. **Cook 1774**: Ko Toheetai identified as *aree* (ariki) by islanders (Forster accounts); wore distinctive clothing; distributed food; claimed authority over whole island (through gesture). Cook's inland party identified a separate "chief" by appearance. Statues identified as memorials to *areekees*. However: Cook himself stated he was "quite ignorant" of chiefly power.
 4. **La Pérouse 1786**: "Some appeared to exercise a small degree of authority"; "probably a chief in each district."
 5. **Post-1786**: Visual markers of differentiation (tattoos, feathers, paint) on some individuals. One report of bipartite warfare (Foster 1822, unreliable).
 
@@ -150,7 +156,7 @@ The contact-era record contains exactly these observations that could support ch
 
 4. **La Pérouse explicitly searched and failed**: An active search for chiefs yielded the conclusion that their "pre-eminence consisted in nothing but their superiority of talents, and greater dexterity in promoting the pillage."
 
-5. **Cook/Forster explicitly compared and contrasted**: Observers with direct experience of Tahitian and Tongan chieftainship found nothing comparable on Rapa Nui. "We did not observe that he was held in a very high esteem or that he was paid a humiliating homage."
+5. **Cook/Forster explicitly compared and contrasted**: Observers with direct experience of Tahitian and Tongan chieftainship found nothing comparable on Rapa Nui. The Forsters: "We did not observe that he was held in a very high esteem or that he was paid a humiliating homage." Cook went further, not merely downgrading the hierarchy but declaring himself unable to characterize it at all: "of the power or authority of these chiefs, or of the government of these people, I confess myself quite ignorant" (Cook 1846, pp. 454-455).
 
 6. **Translation distortions inflate political content**: Corney's translations of the González accounts systematically translate age-descriptions as political-authority descriptions (Jakubowska 2014).
 
@@ -175,10 +181,89 @@ Features that chiefdom models predict but that NO contact-era account describes:
 13. **Sumptuary distinctions in consumption**: No differentiated food, housing quality, or consumption patterns
 14. **Large canoe fleets for political display or warfare**: Canoes were tiny, fragile, and few
 
+## Cross-Cutting Patterns (Second-Pass Review, 2026-03-13)
+
+The following patterns emerge from re-reading all contact-era materials with attention to "between the lines" observations that the first pass did not fully articulate.
+
+### Pattern 1: 140 Years of Consistent Decentralized Exchange (1722-1862)
+
+Across every recorded visit from Roggeveen (1722) through the last pre-slave-raid contacts (1862), trade with Europeans followed the same pattern: individual islanders carried their own produce (in baskets, by swimming or in small canoes) to ships and exchanged directly with individual sailors. No intermediary collected, organized, or redistributed goods at any point in 140 years. No authority mediated access to Europeans. No chiefly delegate negotiated on behalf of the community.
+
+This consistency is analytically significant. If a chiefdom had been consolidating, functioning, or fragmenting during this period, exchange patterns would reflect the change. A consolidating chiefdom would show increasing centralization of trade; a fragmenting one would show residual chiefly mediation declining over time. Instead, the pattern is stable: individual-to-individual exchange from first contact to last. This stability suggests that decentralized exchange was the structural norm, not a transitional condition.
+
+Sources: Bouman 1722 (von Saher 1994, pp. 97-98); Aguera 1770 (pp. 61-62); Cook 1846 (p. 450); La Perouse 1799 (p. 324); Bishop 1795 (Richards 2008, pp. 18-21); Du Petit-Thouars 1838 (Richards 2008, pp. 69-75); and consistent pattern across all entries in Richards 2008.
+
+### Pattern 2: Authority Figures Identified by Appearance, Never Confirmed by Behavior
+
+Every European observer who initially identified "chiefs" by visual markers (distinctive dress, body paint, feathers, physical stature) and then tested that identification against behavioral evidence (deference from others, obedience to commands, ability to restrain crowds) concluded that the authority was absent, illusory, or severely limited.
+
+- **La Perouse (1786)**: Identified candidates, distributed medals, concluded "their pre-eminence consisted in nothing but their superiority of talents, and greater dexterity in promoting the pillage" (p. 320).
+- **Cook (1774)**: Identified Ko Toheetai as *aree*; concluded "of the power or authority of these chiefs, or of the government of these people, I confess myself quite ignorant" (Cook 1846, pp. 454-455).
+- **Peard (1825)**: Identified a feathered individual as "appeared to be a chief"; concluded "nor ... were there any who appeared to possess any superiority at least in the way of command over the rest" (Richards 2008, p. 52).
+- **Wolfe (1825)**: "It was first thought that these might be people having authority, but we could discern no particular respect paid to them" (Richards 2008, p. 52).
+
+The pattern is consistent: visual markers of differentiation existed, but behavioral correlates of political authority (deference, obedience, command) did not. Observers who looked beyond appearance to behavior found no chiefdom.
+
+### Pattern 3: The Ecological Constraint on Chiefdom Organization
+
+Cook's observation is pivotal: "As everything must be raised by dint of labour, it cannot be supposed the inhabitants plant much more than is sufficient for themselves" (Cook 1846, p. 453). Chiefdoms require surplus production large enough to support non-productive elites (chiefs, priests, warriors, craft specialists). The ecological and economic conditions Cook describes (no metal tools, no draft animals, rain-dependent agriculture on volcanic soil, extreme isolation, no external trade) make systematic surplus production difficult. La Perouse confirms: subsistence required only "three days' labour" per year per person (p. 323), but this produced no surplus for elite extraction. Multiple cooking fires, individual household food preparation, and the absence of storehouses or accumulated goods confirm production at the household subsistence level, not at the surplus level chiefdoms require.
+
+### Pattern 4: Temporal Pattern in Authority Attributions
+
+Early accounts (Roggeveen 1722, Cook 1774) describe some differentiated individuals and use political terms. La Perouse (1786) explicitly concludes "All conditions are equal" and "They have no need of a chief." Post-1786 observers find visual markers of differentiation but no behavioral authority. Three possible explanations:
+
+**(a) Increasing observer sophistication.** Later observers (La Perouse, Peard, Wolfe) were more systematic in testing whether visual differentiation correlated with political authority. Earlier observers (Roggeveen, the Forsters) may have over-read situational roles as hereditary rank.
+
+**(b) Actual decline in differentiation.** Political organization may have simplified over time, consistent with population decline and ecological degradation observed across the period.
+
+**(c) Early accounts over-read situational roles.** Roggeveen's "particular one" and Cook's Ko Toheetai may represent situational or crisis leaders whose prominence was contingent on the European encounter itself, not permanent features of political organization.
+
+Option (c) is most consistent with the full evidence: the feathered individual in 1722 appears only after a mass shooting; Ko Toheetai is encountered during a guided expedition; both disappear from the record after the specific encounter. The "chiefs" are contact-situation artifacts.
+
+### Pattern 5: No Ceremony of Authority or Succession is Ever Described
+
+Across 140 years of European observation (1722-1862), no observer describes a coronation, inauguration, installation, council, legislative assembly, judicial proceeding, or any indigenous ceremony conferring, transferring, or exercising political authority. The only formal ceremony described is the Spanish annexation (1770), which was a European imposition. Chiefdoms in Polynesia and elsewhere are characterized by elaborate investiture ceremonies, succession rituals, and public displays of chiefly authority. The complete absence of such ceremonies in the Rapa Nui contact record is a significant negative finding.
+
+### Pattern 6: Age-Grading as Alternative to Hereditary Rank
+
+Both Roggeveen (1722) and Gonzalez (1770) describe differentiation tracking with age: more elaborate body paint on older individuals (Aguera, p. 62; noting Jakubowska's correction that *hombres mayores* means "elderly men," not "principal men"), better housing for older people (Aguera, pp. 65-66), precedence for elders in sexual/marital matters (Aguera, p. 61). This pattern is consistent with gerontocracy (age-based authority), which exists in many egalitarian societies and is not evidence of hereditary chiefdom. The later observers (Cook, La Perouse) do not describe age-grading, but they also do not describe hereditary rank.
+
+### Key "Between the Lines" Inferences
+
+**1. Property is individually defended, not institutionally protected.** The plantation owner in Cook (1846, p. 450) who drives people from his land and the "general consent" requirement La Perouse describes (p. 324) together show that resources were controlled at the household level, with collective consensus required for disposition. No institutional authority protected property rights. This is the opposite of chiefly redistribution, in which a central authority controls resource flows.
+
+**2. The social response to violence reveals the limits of authority.** In both the Cook shooting (1774; Cook 1846, pp. 451-452) and the Blossom confrontation (1825; Richards 2008, pp. 50-51), the response to European violence was persuasion and de-escalation by individuals using personal influence, not organized retaliation or chiefly justice. In both cases, the social response was effective (violence ceased, interaction resumed) but operated through face-to-face communication, not institutional power.
+
+**3. The Forsters' elaborate political characterization vs. Cook's honest ignorance.** The Forsters constructed a philosophical portrait of benevolent patriarchal governance in the *Memoire* (Jakubowska 2014, *Still More to Discover* pp. 82-83), shaped by Enlightenment ideology and their political relationship to Frederick the Great. Cook, lacking that agenda, simply admitted he could not determine the political system (Cook 1846, pp. 454-455). The chiefdom literature has relied heavily on the Forster characterization while ignoring Cook's epistemic honesty. This selective reading is itself an instance of the five-step circularity: the more interpretive source is preferred because it provides the political structure the model requires.
+
+**4. The "contradiction" in property norms resolves as a hybrid system.** Roggeveen infers communal living (Roggeveen/Corney, p. 35); González observes items passing freely (Aguera, p. 62); but Cook and La Perouse observe individual property defense (Cook 1846, p. 450; La Perouse, p. 324). The resolution: certain portable items and shared spaces circulate at the community level, while land and food production are individually controlled and require collective consent for disposition. This hybrid of communal access and individual production control is inconsistent with chiefly redistribution and consistent with collective action models.
+
+**5. Isolation makes the Polynesian chiefdom analogy structurally inapt.** Bouman concludes the islanders had "never seen other people than those who live on this island" (Bouman/von Saher 1990b, p. 52). If Rapa Nui was isolated from inter-island trade networks, chiefly alliance systems, competitive prestige exchange, and the regional hierarchies that Kirch documents for Hawaii and Tonga, the structural conditions that produced Polynesian chiefdoms elsewhere did not apply. The inter-polity competition that Kirch identifies as the engine of Polynesian political complexity was absent on Rapa Nui.
+
+---
+
+## Source Gaps Identified (Second-Pass Review)
+
+**Richards 2008**: The repo PDF is missing:
+- **Conclusions chapter** (p. 93+) where Richards synthesizes all 79 accounts
+- **Appendix A**: Hugh Cuming's full 1827 account (pp. 96-109)
+- **Appendix B**: Surgeon Guthrie's 1830 account
+- **Appendix C**: Complete list of Easter Island travelers 1806-1860
+
+Action needed: obtain complete Richards book if possible. The Conclusions chapter is particularly important because it may contain Richards' own synthesis of political authority evidence.
+
+---
+
 ## Epistemological Summary
 
 The contact-era evidence for chiefdom organization on Rapa Nui reduces to: one crisis-context observation of directive authority (1722), one named individual with a Polynesian leadership title whose authority was explicitly characterized as non-coercive (1774), and several identifications of "chiefs" based on visual markers that did not correlate with observed command behavior (1770, 1786, 1793-1862).
 
 Against this: four major expeditions and dozens of subsequent visits spanning 140 years produced no observation of the institutional features that define chiefdoms in archaeological and anthropological theory. The most detailed observers (La Pérouse, the Forsters, Peard and Wolfe) are the ones who most clearly describe an absence of hierarchical authority.
 
-The most critical methodological point: La Pérouse acknowledged his own claims were "nothing but conjectures" based on a single day without language competence (p. 323). If the most extensive contact-era visitor made this admission, the use of contact-era accounts as evidence for prehistoric political organization is epistemologically untenable.
+Two epistemic admissions are decisive:
+
+1. **Cook (1774)**: "But of the power or authority of these chiefs, or of the government of these people, I confess myself quite ignorant" (Cook 1846, pp. 454-455). The most experienced Pacific navigator of the 18th century, who identified chieftainship readily in Tahiti and Tonga, could not determine the nature of political authority on Rapa Nui after four days of direct contact. He inferred the existence of "chiefs" only by analogy with Tahiti ("as at Otaheite") and from native vocabulary, not from observed political behavior.
+
+2. **La Pérouse (1786)**: "I can offer nothing but conjectures respecting the manners of this people, of whose language I knew nothing, and whom I only saw for a single day" (p. 323). The most extensive single-day observer made this admission after actively searching for and failing to find chiefs.
+
+Together, these admissions from the two most competent 18th-century observers of Pacific societies close the epistemic case: the contact-era accounts do not provide evidence sufficient to characterize Rapa Nui's political organization, let alone to project that characterization onto prehistoric periods. The chiefdom attribution that rests on these accounts requires reading far more political structure into them than the observers themselves were willing to assert.

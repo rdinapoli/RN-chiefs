@@ -280,6 +280,40 @@ The approaches to the ships came from individuals and small groups, not organize
 
 ---
 
+### Second-Pass Additions (2026-03-13)
+
+**SP-1. No individual initiates formal contact: a marked absence of expected chiefly behavior.**
+
+The first individual to approach the Dutch was "quite nude, without the slightest covering" (Roggeveen/Corney, PDF p. 22), paddling alone in a tiny canoe. In Hawaiian, Tongan, and Samoan contact accounts, chiefs characteristically sent emissaries or delegations to negotiate with foreign ships. The absence of any formal diplomatic initiative at first contact is a marked absence of the kind of chiefly protocol that Polynesian chiefdom models would predict.
+
+**Assessment**: This is an absence that gains significance through the comparative Polynesian frame. If Rapa Nui operated under a chiefdom comparable to those documented elsewhere in Polynesia, the initial contact protocol should have been mediated by political authorities, not conducted by a single naked man on a fragile canoe.
+
+**SP-2. The feathered individual's POST-CRISIS timing: absent during peaceful first contact, present only during crisis.**
+
+The feathered individual (Claim 1.2) appears only AFTER the Dutch had shot and killed 10-12 islanders. He was not present during the initial approach (April 7-8), not present when islanders swam and canoed to the ships to trade (April 8-9), and not present during the initial landing and crowd encounter (April 10 before the shooting). He appears exclusively in the aftermath of violence, when crisis mediation is needed. This timing pattern (absent during peaceful contact, present during crisis) fits crisis/emergency leadership rather than institutionalized authority. In a functioning chiefdom, the paramount authority would be visible at the outset, not invisible until violence erupts.
+
+**Assessment**: The claims file (1.1, 1.2) notes the crisis context but does not emphasize the timing contrast. The timing itself is evidence: the "chief" is not a permanent fixture of political life observed by Europeans but an individual who emerges in response to a specific violent crisis.
+
+**SP-3. Bouman's plural "chiefs" implies multiple individuals of similar standing, not a unified hierarchy.**
+
+Bouman writes "This Indian with the feathers was one of their chiefs" (emphasis added) and later "we were accompanied to the beach by some of the chiefs" (Bouman/von Saher 1994, p. 99). The phrasing "one of their chiefs" implies multiple individuals of similar standing. If any individual with some directive capacity qualifies as "one of the chiefs," the term describes a distributed pattern of achieved or situational authority, not a paramount hierarchy. Bouman never identifies one chief as superior to the others or describes any ranking among them.
+
+**Assessment**: While Claims 1.2 and 1.4 note the plural usage, the analytical implication deserves emphasis: the plural "chiefs" is more consistent with a system of multiple situational leaders than with a paramount chiefdom.
+
+**SP-4. The "offering before taking" exchange pattern: gift-exchange at the individual level, not chiefly redistribution.**
+
+Bouman reports that islanders "brought in their canoes both living and roasted chickens and bananas for which they asked nothing" (Bouman/von Saher 1990b, p. 50; 1994, pp. 97-98). Islanders brought food voluntarily, without being asked and without demanding payment. No intermediary collected or organized these goods. This pattern of unprompted individual gift-giving is consistent with reciprocity-based or obligation-based exchange at the individual or household level. It is not consistent with chiefly redistribution, in which a central authority collects surplus and distributes it to visitors as a political act. The provisioning is diffuse and spontaneous, not centralized and directed.
+
+**Assessment**: Claim 6.1 records this observation but does not draw out the redistribution contrast. The absence of any collection point or intermediary is analytically significant.
+
+**SP-5. The first visitor's solo approach as evidence of open access to outsiders.**
+
+In stratified chiefdoms documented elsewhere in Polynesia, commoners typically required permission from political authorities to engage with outsiders, particularly foreign ships. Initial contact was mediated by chiefly delegates. On Rapa Nui, a single ordinary man paddled out alone to the flagship without any apparent constraint, mediation, or authorization (Roggeveen/Corney, PDF p. 22; Bouman/von Saher 1990b, p. 50; 1994, p. 96). His behavior aboard (examining the ship with "minute attention," apparently praying, accepting gifts) shows individual agency without reference to any authority. No one subsequently arrived to check on him, redirect him, or supersede his contact.
+
+**Assessment**: The unmediated nature of first contact is consistent with a society in which individuals had open access to outsiders without requiring chiefly permission. This contrasts with the controlled access patterns documented in Hawaiian and Tongan chiefdoms.
+
+---
+
 ## Cross-Reference Notes
 
 ### Discrepancies Between Accounts

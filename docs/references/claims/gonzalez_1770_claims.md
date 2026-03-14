@@ -176,6 +176,46 @@
 
 ---
 
+### Second-Pass Additions (2026-03-13)
+
+**SP-1. "Ranchos separados" (separate groups): recoverable social-organizational data lost in translation.**
+
+Aguera's original Spanish describes islanders on the shore organized "in separate groups" (*en Ranchos separados*). Corney mistranslated this as "in loose cloaks," eliminating a direct observation of social grouping patterns from the English-language record (Jakubowska 2014, p. 115). The original indicates that islanders were organized into distinct groups on the shore, possibly territorial, kin-based, or age-based. This observation, recoverable only through Jakubowska's correction, provides rare direct evidence of social organization at the group level. It deserves emphasis as one of the few observations in any contact account that describes how islanders organized themselves when not interacting with Europeans.
+
+**Assessment**: While Claim "European Categories Imposed #5" notes the mistranslation, the analytical significance of the *original* observation has not been drawn out. The "separate groups" pattern could indicate territorial/kin-based groupings consistent with segmentary organization.
+
+**SP-2. Aguera's dwelling hierarchy is tentative in his own text: speculation, not observation.**
+
+Aguera describes stone-dwellers near statues as those he "believes to be their ministers" ("whom I believe to be their ministers," Aguera, pp. 65-66). The top tier of his three-tier dwelling hierarchy is explicitly acknowledged as his inference, not an observation. He hedges with "I believe" (*creo*). Stone dwellings near statues could indicate a caretaker function (maintaining the ahu/moai complex), a lineage association (descent groups associated with particular platforms), or ritual responsibility, rather than political rank. The spatial association of dwellings with monuments does not by itself demonstrate political hierarchy.
+
+**Assessment**: Claim "Direct Observations #4" records Aguera's hedging but does not emphasize how heavily the three-tier interpretation depends on Aguera's inference about the top tier. The bottom two tiers (caves for most, reed huts for older/more powerful persons) describe age-grading; only the third tier introduces a potentially political category, and that tier rests on Aguera's explicit speculation.
+
+**SP-3. Women sequestration as kinship protection, not chiefly control.**
+
+Aguera notes: "on the afternoon when we came ashore, when passing near to a small hut, we saw some eight women or so all youthful and not bad looking, accompanied by an old man who only allowed them to expose their heads to look at us" (Aguera, p. 61). This passage is often read as evidence of chiefly control over women. However, the specific behavioral pattern described (an old man protecting young women from foreign men) is more consistent with elder kinship protection than with chiefly command. The man exercises authority specifically in the context of foreign men approaching young women, a protective function that exists in egalitarian kinship systems. No broader political authority is attributed to this individual; his "control" is exercised in a single, specific protective context.
+
+**Assessment**: This observation should be distinguished from evidence of political hierarchy. The protective behavior of an older male kinsman toward young women in the presence of foreign sailors is culturally expected across a wide range of social organization types and does not require chiefly authority to explain.
+
+**SP-4. No islander is named in either Dutch or Spanish accounts across 48 years of contact.**
+
+Across the Roggeveen (1722) and González (1770) expeditions, spanning 48 years and involving hundreds of islanders interacting with Europeans, not a single islander is identified by name. In Hawaiian, Tongan, and Samoan contact accounts, chiefs are typically named and sometimes genealogies are recorded. The complete anonymity of Rapa Nui islanders in these accounts could indicate: (a) language barriers prevented name exchange, (b) islanders did not present individuals as persons of political importance whose names should be recorded, or (c) Europeans did not ask or did not record names. Explanation (b) is consistent with the absence of a political system that made particular individuals noteworthy to outsiders. The first named individual in the contact record is Ko Toheetai, identified during the Cook 1774 expedition through Mahine's partial linguistic competence.
+
+**Assessment**: The absence of named individuals across two major expeditions is a negative finding that gains significance when contrasted with the Polynesian chiefdom pattern. It was Cook's partial translator, not improved European methods, that finally produced a name.
+
+**SP-5. The vocabulary list method is unreliable for political concepts.**
+
+The term "tequeteque" mapped to "High chief or lord" was elicited through "signs, demonstrations, and figures shown by drawings" (Aguera, p. 73). This method is adequate for concrete nouns (body parts, food items, animals) but methodologically incapable of conveying abstract political concepts. You cannot reliably communicate "chief" through drawings to speakers of an unknown language. The Rapanui word could denote an elder, a ritual specialist, a respected person, a lineage head, or indeed a political leader. The Spanish mapping tells us what the Spanish were looking for (a "High chief or lord"), not what the Rapanui were describing. This vocabulary entry has been treated in the literature as evidence that Rapanui had a political office of "high chief," but the elicitation method cannot support that inference.
+
+**Assessment**: Claim "Direct Observations #15" notes the methodological weakness but does not fully draw out the epistemological problem. The entry tells us about Spanish expectations, not about Rapanui political structure.
+
+**SP-6. Annexation signatories are never described: the most consequential evidentiary gap.**
+
+Neither Aguera nor Herve identifies who signed the annexation document, how they were selected, what was explained to them, or whether other islanders recognized them as representatives. Aguera says only that "some of the natives present signed or attested the official document by marking upon it certain characters in their own form of script" (p. 68). The label "SIGNATURES OF CHIEFS OF EASTER ISLAND, TO THE SPANISH TREATY, 1770" appears on the plate (p. 75) and is a Corney/Hakluyt Society editorial imposition; it does not appear in the Spanish body text. The signatories could have been individuals who happened to be standing nearby, elders who were curious about the ceremony, people who volunteered, or indeed political leaders. The accounts provide no basis for determining which. The legal fiction that these were "chiefs" signing a treaty of cession was a requirement of Spanish colonial law, not a description of observed indigenous authority.
+
+**Assessment**: Claim "Direct Observations #7" and "European Categories Imposed #1" cover this ground, but the analytical point deserves sharpening: the absence of any description of the signatories' identity or selection is the single most consequential evidentiary gap in the González accounts, because it is this gap that the editorial label "SIGNATURES OF CHIEFS" fills with an unsupported political claim.
+
+---
+
 ## Cross-Reference Notes
 
 ### Discrepancies Between the Aguera and Herve Accounts

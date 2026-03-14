@@ -4,7 +4,7 @@
 
 **Phase 1: Foundation** (active)
 
-Contact-era accounts claims extraction complete (2026-03-13). Immediate next steps: (1) Add Cook 1846 compilation PDF to repo and extract Cook's own narrative for the 1774 Easter Island visit. (2) Search for additional Jakubowska publications on contact-era translation issues beyond the 5 papers already in the repo. Then: process chiefdom-attribution sources (Kirch, Sahlins) when PDFs are provided.
+Contact-era accounts claims extraction complete, including Cook's own narrative (2026-03-13). Second-pass review of all pre-slave-raid accounts complete (2026-03-13): 26 new claims added across 5 claims files (5 Roggeveen, 6 González, 6 Cook, 4 La Pérouse, 5 post-La Pérouse), evidence compilation updated with 6 cross-cutting patterns and 5 analytical inferences, working notes created at `docs/working/second_pass_analysis.md`. Immediate next steps: (1) Search for additional Jakubowska publications on contact-era translation issues beyond the 5 papers already in the repo. (2) Process chiefdom-attribution sources (Kirch, Sahlins) when PDFs are provided. (3) Obtain complete Richards 2008 (missing Conclusions chapter and Appendices A-C).
 
 ## PDF Inventory
 
@@ -81,7 +81,7 @@ Contact-era accounts claims extraction complete (2026-03-13). Immediate next ste
 
 | File | Status | Lines | Sources Incorporated |
 |------|--------|-------|---------------------|
-| `contact_accounts_evidence.md` | **populated** | ~200 | Roggeveen 1722, González 1770, Cook 1774, La Pérouse 1786, Richards 2008 |
+| `contact_accounts_evidence.md` | **populated (second-pass complete)** | ~330 | Roggeveen 1722, González 1770, Cook 1774, La Pérouse 1786, Richards 2008 |
 | `ethnographic_sources_evidence.md` | skeleton | 0 | none |
 | `polynesian_analogy_evidence.md` | skeleton | 0 | none |
 | `archaeological_record_evidence.md` | skeleton | 0 | none |
@@ -115,7 +115,7 @@ Contact-era accounts claims extraction complete (2026-03-13). Immediate next ste
 
 ## Blockers and Open Questions
 
-- **Cook 1846 compilation PDF missing from repo**: The source inventory lists `Cook-2010-The voyages of Captain James Cook.pdf` (1.1 GB, Google Books scan with OCR) but it is not present in `03_cook_1774/`. Cook's own narrative of the 1774 Easter Island visit has not been directly read; current Cook claims extraction relies on Forster materials via von Saher and Jakubowska. User needs to add this PDF.
+- **~~Cook 1846 compilation PDF missing from repo~~**: RESOLVED (2026-03-13). Cook 1846 Vol. I added to repo root (`Cook-1876-TheVoyagesOfCaptainCookRoundTheWorld.pdf`). Easter Island pages (PDF pp. 477-495) OCR'd at 300 DPI; OCR text at `docs/references/pdfs/european_accounts/03_cook_1774/cook_1846_easter_island_ocr.txt`. Claims and summary files updated with Cook's own narrative. Note: the 1846 compiled edition, not the Beaglehole (1961) scholarly edition. Cross-reference with Beaglehole advisable for critical passages when available.
 - **Jakubowska papers: verify completeness**: Jakubowska's translation analyses are critical for assessing the reliability of Corney's English translations of the primary accounts. We have 5 unique Jakubowska works in the repo (Behrens 2012, Spanish expedition 2014, Forster RNJ article 2014, *Still More to Discover* book 2014, Jakubowska-Vorbrich 2019). Check whether she has published additional analyses of (a) Corney's Roggeveen translations or (b) any other contact-era translation issues beyond what we have. Her González paper was pivotal; comparable work on the Dutch or Cook translations would be equally important.
 - **Book access needed**: Kirch 1984 (*Evolution of the Polynesian Chiefdoms*), Kirch 2010 (*How Chiefs Became Kings*), and Sahlins 1958 (*Social Stratification in Polynesia*) are the highest-priority book sources. Ask user about physical/digital/institutional access when ready to begin Phase 2.
 - **Englert access**: Need to determine which edition is appropriate and how to acquire it.
@@ -127,3 +127,5 @@ Contact-era accounts claims extraction complete (2026-03-13). Immediate next ste
 |------|-------------|
 | 2026-03-13 | Repository initialized: directory structure, reference pipeline files, manuscript skeleton, evidence skeletons, figures plan. 15 PDFs transferred from RN-IIM. papers_config.json cleaned (comments stripped, valid JSON). |
 | 2026-03-13 | Contact-era accounts claims extraction complete. 5 claims files, 5 summaries, INDEX.md populated, contact_accounts_evidence.md compiled. Sources: Roggeveen 1722, González 1770, Cook 1774, La Pérouse 1786, Richards 2008 (post-La Pérouse 1793-1862). Gap: Cook 1846 compilation PDF (1.1 GB) not directly accessed; Cook data from Forster sources via von Saher and Jakubowska. |
+| 2026-03-13 | Cook 1846 Vol. I added to repo, Easter Island pages OCR'd (PDF pp. 477-495, book pp. 444-458). Claims file updated with 15 new Cook observations, 10 interpretive statements, 3 European categories, 5 absences, and expanded cross-reference notes. Summary updated. INDEX.md updated. Key finding: Cook "confess[ed] myself quite ignorant" of chiefly power, the most epistemologically honest statement in any contact-era account. |
+| 2026-03-13 | Second-pass review of all pre-slave-raid European accounts. Added 26 new claims across 5 claims files: Roggeveen (5: first contact protocol absence, crisis timing of authority, plural chiefs, individual gift-exchange, open access); González (6: ranchos separados, dwelling hierarchy speculation, kinship protection, no named individuals, vocabulary method, annexation signatories); Cook (6: flag rotation, simultaneous generosity/theft, persuasion-not-coercion, unused fertile land, multiple cooking fires, no household utensils); La Pérouse (4: general consent, custodial language, kinship-based territory, household labor autonomy); post-La Pérouse (5: du Petit-Thouars silence, Peard/Wolfe hypothesis test, stress test failure, collective wood request, community-level justice). Evidence compilation updated with 6 cross-cutting patterns and 5 "between the lines" inferences. Working notes at `docs/working/second_pass_analysis.md`. Source gap identified: Richards 2008 Conclusions chapter and Appendices A-C missing from repo PDF. |

@@ -152,6 +152,34 @@ Claims classified as **speculative**: statements the observer acknowledges as un
 | 9 | 334 | "it is probable that it may have been more considerable when the island was furnished with woods" | De Langle | speculative | Former larger population is probable but not demonstrated |
 | 10 | 327 | "It is probable that they attach no ideas of shame to this action" (theft) | La Perouse | speculative | Inference about mental states; contradicted by his own observation that they flee after stealing |
 
+### Second-Pass Additions (2026-03-13)
+
+**SP-1. "Almost a general consent" as direct evidence of consensus-based decision-making.**
+
+La Perouse reinterprets Cook's difficulty procuring provisions: "it must be attributed less to the want of these vegetables, than to the necessity of obtaining almost a general consent for selling them" (p. 324). This passage directly describes collective resource decision-making with a high consensus requirement. In a chiefdom, a paramount chief controls the disposition of surplus and can authorize exchanges with foreigners unilaterally. The need for "almost a general consent" is fundamentally incompatible with chiefdom-style centralized redistribution. La Perouse identifies this as the explanation for Cook's experience of reluctant provisioning, offering a structural interpretation (collective consent) rather than Cook's interpretation (individual ownership by "proprietor chiefs"). This passage provides the clearest contact-era description of decision-making process and directly contradicts chiefly command over resources.
+
+**Assessment**: While Claim "Interpretive Statements #3" records this passage, its analytical significance as a direct description of consensus-based decision-making has not been fully drawn out. This may be the single most important passage in any contact-era account for understanding resource governance.
+
+**SP-2. "Chief in each district" as custodial language, not command.**
+
+La Perouse writes: "There is probably a chief in each district, who looks more particularly after the plantations" (p. 324). The verb choice is custodial/pastoral: "looks more particularly after" describes oversight or stewardship, not command or control. Combined with his earlier statement that "They have no need of a chief" (p. 323) and the "general consent" passage, the distinction is clear: La Perouse distinguishes between administrative caretaking of plantations and political rule over people. The "chief in each district" is a horticultural overseer whose authority is limited to monitoring crops, not a political leader who commands obedience. Later researchers collapsed this distinction, reading "chief in each district" as evidence of territorial political authority when La Perouse explicitly characterized the role as agricultural stewardship requiring community consensus.
+
+**Assessment**: The tension between "they have no need of a chief" (p. 323) and "probably a chief in each district" (p. 324) resolves when the custodial verb is taken seriously. This is a description of land management, not political hierarchy.
+
+**SP-3. District-around-burial-platforms pattern suggests kinship-based territorial organization.**
+
+La Perouse observes that "Villages are built near these burying places" (p. 324) and describes district-level organization around morais/burial platforms. This pattern (residential clusters organized around ancestral burial sites) implies clan or lineage territories structured around shared ancestors, not administratively created districts under chiefly command. The spatial association of settlements with burial platforms is consistent with Polynesian patterns of kin-group territorial organization in which lineages maintain and occupy lands associated with ancestral sites. This organizational principle operates independently of chiefdom-level political hierarchy and is compatible with both hierarchical and non-hierarchical social organization.
+
+**Assessment**: This observation has been used to support the chiefdom model (districts = chiefly territories). But the organizing principle (burial platforms as focal points) points to kinship/ancestor-based territory, not political command.
+
+**SP-4. Women's domestic absence indicates household-level autonomy.**
+
+La Perouse notes that women remained "at home with their household concerns and families" while the encounter with Europeans took place (context from pp. 320-324). This indicates household-level autonomy over productive labor. If a paramount chief could mobilize the entire population, he could presumably command women's attendance at politically significant foreign contact events. Their systematic domestic absence indicates that households operated as autonomous economic units with their own labor allocation decisions, not as units subordinated to chiefly command. Women's labor was directed by household needs, not by political authority.
+
+**Assessment**: The gendered division of labor during European contact is analytically significant: women's absence from the encounter zone reflects household-level decision-making about labor allocation, not political direction.
+
+---
+
 ## Cross-Reference Notes
 
 ### Internal Consistency

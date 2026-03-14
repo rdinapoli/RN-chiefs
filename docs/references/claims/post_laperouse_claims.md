@@ -342,6 +342,40 @@ Moerenhout identifies a tall, impressively tattooed man as "the chief" and repor
 
 ---
 
+### Second-Pass Additions (2026-03-13)
+
+**SP-1. Du Petit-Thouars (1838) silence on authority as evidence of absence.**
+
+Du Petit-Thouars was a French naval officer trained in systematic observation and accustomed to identifying social hierarchy. He spent hours with islanders aboard his frigate, observed the coastline in detail, recorded monuments, noted canoe construction, described trading behavior, and documented the islanders' insistent collective demand for wood. Despite this extensive and detailed interaction, he never mentions any authority figure, chief, leader, or individual exercising command (pp. 69-75). This silence is analytically significant because of WHO is silent: a trained military observer from a hierarchical society, someone predisposed to notice and record hierarchy. If there had been a visible chief or person of authority, du Petit-Thouars would almost certainly have recorded it, as he recorded every other notable aspect of the encounter. His silence is not the absence of observation but the observation of absence.
+
+**Assessment**: While "Significant Absences #6" notes this, the evidential weight of the silence deserves emphasis. Du Petit-Thouars' account is the most detailed in Richards' compilation and the most conspicuous for its complete absence of authority figures.
+
+**SP-2. Peard and Wolfe (1825) conducted a deliberate hypothesis test of chiefly authority.**
+
+The Blossom observers (Peard and Wolfe) followed a specific epistemological sequence: (1) they observed individuals with distinctive adornment (feathered crowns, body paint), (2) they formed the hypothesis that these individuals might be authority figures, (3) they looked for behavioral correlates of authority (deference from others, obedience to commands, special treatment), and (4) they found none. Wolfe: "It was first thought that these might be people having authority, but we could discern no particular respect paid to them" (p. 52). Peard: "nor, indeed, as I have said before, were there any who appeared to possess any superiority at least in the way of command over the rest" (p. 52). This is a negative result from a deliberate search, epistemologically stronger than mere silence. The observers did not simply fail to mention authority; they actively looked for it and reported its absence.
+
+**Assessment**: Claims "Direct Observations #11-12" and "Significant Absences #5" record these observations. The epistemological point deserves emphasis: this is a hypothesis tested and rejected, not merely an unreported observation.
+
+**SP-3. "Authority was very limited" as a stress test of chiefly power.**
+
+During the Blossom confrontation (1825), two "apparent chiefs, smeared all over one black and the other red, [crowned with feathers] attempted in conformity with our wish to keep back the multitude, but their authority was very limited" (pp. 50-51). This is a stress test of chiefly power: a crisis situation (violent confrontation with armed foreigners) in which individuals who APPEARED to be chiefs attempted to exercise authority and FAILED. If a chief cannot compel obedience during a life-threatening crisis involving armed foreigners, he has no effective coercive power. In Polynesian chiefdoms documented elsewhere, chiefs could command collective behavior during military or diplomatic crises. The failure of these "apparent chiefs" to restrain the crowd is direct evidence of the absence of effective political authority.
+
+**Assessment**: This episode goes beyond mere absence of observed authority. It is a positive observation of authority being attempted and failing, which is stronger evidence against chiefdom organization than silence alone.
+
+**SP-4. Collective wood request (Du Petit-Thouars 1838): horizontally-organized resource negotiation.**
+
+"All the natives repeated frequently and vigorously the word miro" (p. 71). The collective demand for wood was not mediated by a chiefly delegate or spokesperson; everyone made the request simultaneously and with equal urgency. In a chiefdom, foreign resource acquisition would be mediated by political authority: a chief would negotiate on behalf of the community, or a chiefly delegate would present the request. The horizontal, mass character of the wood demand (every individual making the same request independently) is inconsistent with chiefdom-mediated foreign contact and consistent with a community of autonomous individuals with a shared material need.
+
+**Assessment**: Claim "Direct Observations #19a" records this but does not draw the contrast with chiefdom-mediated resource acquisition. The unanimity and non-mediated character of the request is analytically significant.
+
+**SP-5. George Lawrence kidnapping: community-level justice, not chiefly justice.**
+
+The kidnapped boy (taken c. 1839, pp. 65-66) feared "the natives" collectively upon potential return: "He said that the natives would kill him if they did not remember him" (p. 66). His fear was of the community as a collective agent of retribution, not of a chief who would judge and punish. His father had told him "that they had killed a crew of a wrecked ship once" (p. 66), again attributing collective violence to "they" (the community), not to a chief's order. Justice and retribution operated at the community level, consistent with segmentary kinship-based systems in which collective responsibility and collective punishment are the norm, rather than with chiefdom organization in which a chief adjudicates disputes and directs punishment.
+
+**Assessment**: This passage provides indirect evidence about internal social organization. The boy's fear of collective retribution, not chiefly judgment, is consistent with acephalous or segmentary social organization.
+
+---
+
 ## Cross-Reference Notes
 
 ### Changes Over Time (1793-1862)
