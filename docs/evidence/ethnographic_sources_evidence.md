@@ -193,6 +193,24 @@ Roussel describes land ownership, family-based plantations, rahui fishing rights
 
 Both Eyraud and Roussel describe the near-complete disappearance of religious practice. Eyraud: "religion seems to occupy a very minor place" and statuettes treated with indifference. Roussel: "the idea of a religious cult disappeared with the last priests and priestesses, who died a long time ago." If priests (ivi atua) had constituted a distinct class with institutional power, their disappearance should have produced a political crisis, not the indifference both observers describe. This suggests the ivi atua were not a powerful political class in the period immediately preceding the raids.
 
+### 6. The Roussel Access Problem
+
+The simplest version of the argument from these four sources would be: "three of four observers describe no hierarchy, therefore Roussel is the outlier and his chiefdom-supporting claims are suspect." This framing is misleading because it ignores a real tension: Roussel is the outlier precisely because he had access the others lacked.
+
+Roussel lived on the island for seven years. Eyraud stayed nine months but was linguistically limited and focused on conversion. Loti and Pinart were each there less than a week. Roussel had time to learn the language, build relationships with informants, and observe the society in sustained depth. If anyone was positioned to learn about political structure, it was Roussel. Pinart finding "no memory" of earlier inhabitants after a six-day visit tells us what was available to a brief visitor, not necessarily what survivors actually knew. The manuscript must acknowledge this directly rather than minimize it.
+
+However, Roussel's privileged access cuts both ways:
+
+**(a) Longer stay enabled framework imposition.** Roussel arrived from Mangareva, where the Sacred Hearts mission had established a rigid hierarchical order. He may have been primed to hear hierarchy in what informants told him, or informants may have offered the kind of political narrative they thought a European authority figure expected. A five-day visitor has less opportunity to impose interpretive frameworks; a seven-year resident has more.
+
+**(b) The internal contradiction stands regardless of Roussel's credibility.** Even granting Roussel full credibility as an observer, his account says royal authority was "absent or totally unrecognized" and had "passed completely into the hands of the matatoa." His own evidence argues against the functioning chiefdom he simultaneously describes. The question is not whether to believe Roussel, but which part of Roussel to believe.
+
+**(c) The observation/tradition distinction persists.** What Roussel directly observed (the first-fruits ceremony for a child, the matatoa dominance, the property tangle) is one kind of evidence. What survivors told him about how things used to be (the king list, "absolute power," the class system) is another. His long stay gave him better access to both, but the reported traditions remain reported traditions, transmitted through a demographic catastrophe that killed or removed the ariki and priests who would have been their primary custodians.
+
+**(d) Eyraud's shorter stay may be more diagnostically useful on one specific question.** Eyraud arrived when approximately 1,200 people were still alive, just one year post-raids, before the further collapse that reduced the population to 650 by Roussel's census. If institutional hierarchy had survived the raids in any functional form, Eyraud should have encountered it despite his limited language skills. A formal chiefdom with hereditary authority, tributary obligations, and territorial jurisdiction is not the kind of institution that becomes invisible to a nine-month resident. Eyraud's inability to characterize chiefly authority despite living under Torometi's personal domination is evidence, even if his access to oral traditions was limited.
+
+The honest framing is therefore: Roussel's long stay gave him access to survivors' accounts of what their society had been, and those accounts include claims about hierarchical political organization. The question is not whether Roussel accurately recorded what he was told, but whether what he was told can bear the inferential weight that chiefdom models place on it, given that (i) his own direct observations of actually functioning authority contradict the traditions he recorded, (ii) the traditions were transmitted through a demographic catastrophe, (iii) the king list he recorded disagrees with other independently recorded lists [CITE-CHECK: Métraux 1940:91], and (iv) the one ceremony he directly witnessed involved a child who was the last of his line in a society reduced to 650 people.
+
 ## Dependency Tracking
 
 (Which claims in the archaeological literature cite these ethnographic sources as primary evidence for chiefdom organization - to be populated when chiefdom-attribution sources are processed)
