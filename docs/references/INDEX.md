@@ -97,3 +97,41 @@ Each entry follows this format:
 **Tags**: contact-era, political-authority
 **Pipeline**: claims / summary / evidence / index
 **Notes**: 79 visits compiled. HMS Blossom (1825) observers explicitly tested and rejected chief hypothesis. No visitor 1793-1862 provides clear evidence of centralized authority.
+
+---
+
+## Eyraud 1864 (Altman 2004 translation + Altman et al. 2003)
+**File**: `post_slave_raid/altman_2004/Altman-2004-EarlyVisitorsToEasterIsland-1864-1877-Part1.pdf`, `Altman-2003-EyraudSojourn.pdf`
+**Tags**: post-slave-raid-ethnography, political-authority, circularity
+**Pipeline**: claims / summary / evidence / index
+**Notes**: First European to live on the island (9 months, 1864). One year post-raids. Authority described as personal influence, not institutional hierarchy. Collective boat-building without chiefly command. Population ~1,200.
+
+## Roussel 1869 (Altman 2004 translation)
+**File**: `post_slave_raid/altman_2004/Altman-2004-EarlyVisitorsToEasterIsland-1864-1877-Part2.pdf`, `Part3.pdf`
+**Tags**: post-slave-raid-ethnography, political-authority, chiefdom-attribution, circularity
+**Pipeline**: claims / summary / evidence / index
+**Notes**: Most ethnographically detailed early post-raid source. Records king list (22 generations), four social classes (ariki, ivi atua, matatoa, kio), first-fruits ceremony. Critical: Roussel admits royal authority "had passed completely into the hands of the matatoa." King list disagrees with Thomson and Jaussen lists. Population ~650.
+
+## Loti/Viaud 1872 (Altman 2004 translation)
+**File**: `post_slave_raid/altman_2004/Altman-2004-EarlyVisitorsToEasterIsland-1864-1877-Part3.pdf`
+**Tags**: post-slave-raid-ethnography, political-authority
+**Pipeline**: claims / summary / evidence / index
+**Notes**: French naval cadet, 5 days. Literary account. Only informal "old chief" observed. Population ~100, concentrated at Hanga Roa. Most of island deserted. Dutrou-Bornier's commercial operation dominates.
+
+## Pinart 1877 (Altman 2004 translation)
+**File**: `post_slave_raid/altman_2004/Altman-2004-EarlyVisitorsToEasterIsland-1864-1877-Part4.pdf`, `Part5.pdf`
+**Tags**: post-slave-raid-ethnography, political-authority, archaeological-evidence, settlement-patterns, monument-production
+**Pipeline**: claims / summary / evidence / index
+**Notes**: Trained French ethnographer, 6 days. Population at nadir: 111 people (26 women). Only authority is Dutrou-Bornier's widow as "regent." No traditional political structure survives. Best early archaeological descriptions of ahu and Rano Raraku. Islanders had "retained no memory at all" of earlier inhabitants.
+
+## Altman 2004 (*Early Visitors to Easter Island 1864-1877*)
+**File**: `post_slave_raid/altman_2004/` (Parts 1-5)
+**Tags**: post-slave-raid-ethnography, data-quality
+**Pipeline**: index
+**Notes**: Compilation volume. Translations from French by Ann M. Altman. Editorial introduction by Georgia Lee. Endnotes provide valuable corrections and context. Appendix: ship arrivals list 1722-1879 (from McCall 1990).
+
+## Altman n.d. (*Escape from Easter Island*)
+**File**: `post_slave_raid/altman_2004/Altman-nd-EscapeFromEasterIsland.pdf`
+**Tags**: (book review, not processed)
+**Pipeline**: index only
+**Notes**: Book review of Mieth & Bork ecology book. Not a primary source; filed but not processed through pipeline.

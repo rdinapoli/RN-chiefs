@@ -4,7 +4,7 @@
 
 **Phase 1: Foundation** (active)
 
-Contact-era accounts claims extraction complete, including Cook's own narrative (2026-03-13). Second-pass review of all pre-slave-raid accounts complete (2026-03-13): 26 new claims added across 5 claims files (5 Roggeveen, 6 González, 6 Cook, 4 La Pérouse, 5 post-La Pérouse), evidence compilation updated with 6 cross-cutting patterns and 5 analytical inferences, working notes created at `docs/working/second_pass_analysis.md`. Immediate next steps: (1) Search for additional Jakubowska publications on contact-era translation issues beyond the 5 papers already in the repo. (2) Process chiefdom-attribution sources (Kirch, Sahlins) when PDFs are provided. (3) Obtain complete Richards 2008 (missing Conclusions chapter and Appendices A-C).
+Contact-era accounts claims extraction complete, including Cook's own narrative (2026-03-13). Second-pass review of all pre-slave-raid accounts complete (2026-03-13). Post-slave-raid early sources (Altman 2004 compilation) processed (2026-03-13): Eyraud 1864, Roussel 1869, Loti 1872, Pinart 1877. Four claims files, four summaries, INDEX.md updated, ethnographic_sources_evidence.md populated with immediate post-raid evidence. Immediate next steps: (1) Search for additional Jakubowska publications on contact-era translation issues beyond the 5 papers already in the repo. (2) Process chiefdom-attribution sources (Kirch, Sahlins) when PDFs are provided. (3) Obtain complete Richards 2008 (missing Conclusions chapter and Appendices A-C). (4) Process Thompson 1891, Routledge 1919, Metraux 1940 when PDFs are available.
 
 ## PDF Inventory
 
@@ -23,6 +23,7 @@ Contact-era accounts claims extraction complete, including Cook's own narrative 
 | Filename | Version | Pipeline |
 |----------|---------|----------|
 | `european_accounts/` (full collection) | scans/published, transferred from RN-IIM | **claims + summary + evidence + index** |
+| `post_slave_raid/altman_2004/` (Parts 1-5 + Eyraud 2003) | scans, 7 PDFs organized | **claims + summary + evidence + index** |
 | `thompson_1891.pdf` | | pending |
 | `routledge_1919.pdf` | archive.org scan, transferred from RN-IIM | pending |
 | `metraux_1940.pdf` | scan, transferred from RN-IIM | pending |
@@ -82,7 +83,7 @@ Contact-era accounts claims extraction complete, including Cook's own narrative 
 | File | Status | Lines | Sources Incorporated |
 |------|--------|-------|---------------------|
 | `contact_accounts_evidence.md` | **populated (second-pass complete)** | ~330 | Roggeveen 1722, González 1770, Cook 1774, La Pérouse 1786, Richards 2008 |
-| `ethnographic_sources_evidence.md` | skeleton | 0 | none |
+| `ethnographic_sources_evidence.md` | **populated (immediate post-raid sources)** | ~200 | Eyraud 1864, Roussel 1869, Loti 1872, Pinart 1877 |
 | `polynesian_analogy_evidence.md` | skeleton | 0 | none |
 | `archaeological_record_evidence.md` | skeleton | 0 | none |
 | `circularity_demonstration.md` | skeleton | 0 | none |
@@ -128,4 +129,5 @@ Contact-era accounts claims extraction complete, including Cook's own narrative 
 | 2026-03-13 | Repository initialized: directory structure, reference pipeline files, manuscript skeleton, evidence skeletons, figures plan. 15 PDFs transferred from RN-IIM. papers_config.json cleaned (comments stripped, valid JSON). |
 | 2026-03-13 | Contact-era accounts claims extraction complete. 5 claims files, 5 summaries, INDEX.md populated, contact_accounts_evidence.md compiled. Sources: Roggeveen 1722, González 1770, Cook 1774, La Pérouse 1786, Richards 2008 (post-La Pérouse 1793-1862). Gap: Cook 1846 compilation PDF (1.1 GB) not directly accessed; Cook data from Forster sources via von Saher and Jakubowska. |
 | 2026-03-13 | Cook 1846 Vol. I added to repo, Easter Island pages OCR'd (PDF pp. 477-495, book pp. 444-458). Claims file updated with 15 new Cook observations, 10 interpretive statements, 3 European categories, 5 absences, and expanded cross-reference notes. Summary updated. INDEX.md updated. Key finding: Cook "confess[ed] myself quite ignorant" of chiefly power, the most epistemologically honest statement in any contact-era account. |
+| 2026-03-13 | Post-slave-raid early sources processed. 8 Altman PDFs organized into `docs/references/pdfs/post_slave_raid/altman_2004/` (duplicate Part 3 deleted). Text extracted from 6 PDFs (PyMuPDF + tesseract OCR). Four claims files created: Eyraud 1864, Roussel 1869, Loti 1872, Pinart 1877. Four summary files created. INDEX.md updated with 7 new entries. `ethnographic_sources_evidence.md` populated with demographic collapse timeline, immediate post-raid evidence from all four sources, cross-cutting patterns (declining knowledge trajectory, Roussel internal contradiction, collective action evidence, property without redistribution, religious vacuum), and initial political offices analysis. Key finding: Roussel's chiefdom-supporting claims (king list, four social classes, first-fruits ceremony) are internally contradicted by his own admission that royal authority "had passed completely into the hands of the matatoa." Three other immediate post-raid observers describe no institutional hierarchy. |
 | 2026-03-13 | Second-pass review of all pre-slave-raid European accounts. Added 26 new claims across 5 claims files: Roggeveen (5: first contact protocol absence, crisis timing of authority, plural chiefs, individual gift-exchange, open access); González (6: ranchos separados, dwelling hierarchy speculation, kinship protection, no named individuals, vocabulary method, annexation signatories); Cook (6: flag rotation, simultaneous generosity/theft, persuasion-not-coercion, unused fertile land, multiple cooking fires, no household utensils); La Pérouse (4: general consent, custodial language, kinship-based territory, household labor autonomy); post-La Pérouse (5: du Petit-Thouars silence, Peard/Wolfe hypothesis test, stress test failure, collective wood request, community-level justice). Evidence compilation updated with 6 cross-cutting patterns and 5 "between the lines" inferences. Working notes at `docs/working/second_pass_analysis.md`. Source gap identified: Richards 2008 Conclusions chapter and Appendices A-C missing from repo PDF. |
