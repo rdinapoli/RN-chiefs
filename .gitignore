@@ -4,4 +4,5 @@ __pycache__/
 # Large scanned books (>40MB); present locally but too large for git
 docs/references/pdfs/metraux_1940.pdf
 docs/references/pdfs/routledge_1919.pdf
+docs/references/pdfs/post_slave_raid/routledge_1919/Routledge_1919.pdf
 docs/references/pdfs/dinapoli_et_al_sustainability_2021.pdf
