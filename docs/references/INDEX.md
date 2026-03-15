@@ -130,6 +130,12 @@ Each entry follows this format:
 **Pipeline**: index
 **Notes**: Compilation volume. Translations from French by Ann M. Altman. Editorial introduction by Georgia Lee. Endnotes provide valuable corrections and context. Appendix: ship arrivals list 1722-1879 (from McCall 1990).
 
+## Thompson 1891 (*Te Pito te Henua, or Easter Island*)
+**File**: `post_slave_raid/thompson_1891/Thompson_1891.pdf`
+**Tags**: post-slave-raid-ethnography, political-authority, chiefdom-attribution, circularity
+**Pipeline**: claims / summary / evidence / index
+**Notes**: Most extensive 19th-century account. Paymaster Thomson, USS Mohican, 12 days in December 1886. Population 155. "Government" section describes "arbitrary monarchy" but simultaneously states no tax, no great homage, independent clans. King list of 57 names irreconcilable with Roussel's 22 (only ~12 overlap). Tangata manu: "no especial authority" vested in winner, contradicting Roussel. Primary source for the "arbitrary monarchy" framing later absorbed into chiefdom models. Traditions filtered through Salmon as translator; Ure Vaeiko could not actually read tablets.
+
 ## Altman n.d. (*Escape from Easter Island*)
 **File**: `post_slave_raid/altman_2004/Altman-nd-EscapeFromEasterIsland.pdf`
 **Tags**: (book review, not processed)

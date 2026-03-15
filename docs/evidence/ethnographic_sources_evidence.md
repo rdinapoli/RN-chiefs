@@ -14,7 +14,7 @@
 - Roussel 1869 **[PROCESSED]**
 - Loti 1872 **[PROCESSED]**
 - Pinart 1877 **[PROCESSED]**
-- Thompson 1891
+- Thompson 1891 **[PROCESSED]**
 - Routledge 1919
 - Metraux 1940
 - Englert (relevant edition)
@@ -95,14 +95,29 @@ This means that between 1862 and 1877, the population declined from ~3,000 to 11
 
 **Evidential type**: Direct observation (a) by a trained scientist. The complete silence on traditional political structure from a professional anthropologist is itself significant evidence of how thoroughly traditional knowledge had been lost by 1877.
 
+### Thompson 1891 [PROCESSED]
+
+**Recorded**: 24 years after slave raids (visit December 1886; published 1891)
+**Population context**: 155 people (68 men, 43 women, 17 boys, 27 girls); recovered from nadir of ~111 in 1877
+**Duration on island**: 12 days
+
+**Political organization described**: Thomson's "Government" section (p. 472) describes an "arbitrary monarchy" with a sacred hereditary king and subordinate hereditary district chiefs. However, Thomson immediately qualifies this: "no tax was exacted of the people," "it does not appear that any great homage was paid the king," each clan was "independent of all the rest," and "the people avenged their own injuries" (pp. 472-473). The description is a European political category ("monarchy") applied to reported traditions about a system that lacked the structural features of centralized authority.
+
+Key claims for political authority:
+
+1. **King list of 57 names** from Hotu-Matua to Maurata (pp. 533-534). IRRECONCILABLE with Roussel's 22-generation list: only ~12 names overlap out of 23; few in same order. This disagreement between lists recorded 17 years apart from the same small population demonstrates that the king lists cannot be treated as historical records of a stable dynasty.
+
+2. **Tangata manu**: "No especial authority was vested in him" (p. 483). The winner received food contributions and spiritual approval, NOT political power. This CONTRADICTS Roussel's description of the birdman exercising "the chief's authority." The king's only role was to start the race.
+
+3. **No tax, no homage, independent clans**: Thomson's own qualifications negate the structural requirements of a chiefdom: no tribute system, no regular homage to the paramount, and clans operating independently in perpetual warfare.
+
+4. **Image-makers exempt from other work**: One passage (p. 533) states fishermen were "taxed" to support image-makers. This contradicts Thomson's own statement about no taxes and, if accurate, describes a specific inter-group arrangement for craft production, not a general redistributive economy.
+
+5. **Post-raid absence of authority**: "Since that time there has been no recognized authority among the natives; every man is his own master" (p. 473). This is what Thomson directly observed; whether it represents collapse of functioning authority or removal of a nominal figurehead is the interpretive question.
+
+**Evidential type**: Almost entirely (b) reported tradition, filtered through Alexander P. Salmon as translator. Thomson's 12-day visit was predominantly devoted to archaeological survey; tradition-collection was confined to evenings. The session with Ure Vaeiko (the claimed tablet reader) involved coercion and alcohol. Thomson directly observed that Ure Vaeiko could not actually read the tablets (p. 516), demonstrating the complete destruction of the elite knowledge system by 1886.
+
 ## Later Sources (pending processing)
-
-### Thompson 1891
-
-**Recorded**: ~25 years after slave raids
-**Population context**: (to be determined from source)
-
-(Claims about political organization to be compiled from extraction)
 
 ### Routledge 1919
 
@@ -137,7 +152,9 @@ This means that between 1862 and 1877, the population declined from ~3,000 to 11
 
 **Pinart 1877**: No ariki mentioned. Only colonial "queen" (Dutrou-Bornier's daughter).
 
-**Assessment**: The ariki institution is described ONLY by Roussel, based on what survivors told him 3-6 years after the raids specifically targeted and removed ariki. The three other immediate post-raid observers describe no institutional hierarchy. This raises the question of whether Roussel's informants were describing a functioning institution or a memory of one, and whether that memory was accurate or idealized.
+**Thompson 1891**: Describes "arbitrary monarchy" with sacred hereditary king. King list of 57 names from Hotu-Matua to Maurata (pp. 533-534). King "reigned over the entire island" and could remove chiefs (p. 472). Kaitae identified as "nearest descendant of the last king," approximately 80 years old, holding no political authority (p. 461). BUT: "no tax was exacted of the people" and "it does not appear that any great homage was paid the king" (p. 473). Clans "independent of all the rest" (p. 472). King list irreconcilable with Roussel's 22-generation list. [REPORTED TRADITION from informants 24 years post-raids, through Salmon as translator]
+
+**Assessment**: The ariki institution is described by Roussel and Thomson, based on what survivors told them. The three other immediate post-raid observers (Eyraud, Loti, Pinart) describe no institutional hierarchy. Thomson's description of a "monarchy" without taxation, without homage, and with independently warring clans contradicts the structural requirements of centralized authority. The king list disagreement between Thomson and Roussel (57 vs. 22 generations, minimal overlap) further undermines the reliability of the dynastic narrative.
 
 ### Tangata Manu
 
@@ -145,7 +162,9 @@ This means that between 1862 and 1877, the population declined from ~3,000 to 11
 
 **Other immediate post-raid sources**: Not mentioned by Eyraud, Loti, or Pinart.
 
-**Assessment**: Roussel's description is the earliest post-raid reference. More detailed descriptions come from Thompson (1891) and Routledge (1919), recorded further from the events.
+**Thompson 1891**: Most detailed early description of the bird-egg ceremony (pp. 482-483). Explicitly states "No especial authority was vested in him." Winner received food contributions and spiritual approval from Meke-Meke, not political power. The king's role was to pronounce the word "go" to start the race; he was "about the only able-bodied man on the island who did not participate" (p. 483).
+
+**Assessment**: Roussel and Thomson CONTRADICT each other on the tangata manu's political significance. Roussel: the winner took "the chief's authority" and became matatoa. Thomson: "no especial authority was vested in him." Both cannot be correct. This disagreement between accounts recorded 17 years apart from the same small population undermines the use of either as evidence for a specific pre-contact political institution.
 
 ### Matatoa
 
@@ -163,7 +182,11 @@ This means that between 1862 and 1877, the population declined from ~3,000 to 11
 
 ### Mata Groups
 
-Not described by any of the four immediate post-raid sources. Mata group organization appears primarily in later sources (Thompson 1891, Routledge 1919, Métraux 1940).
+Not described by any of the four immediate post-raid sources (Eyraud, Roussel, Loti, Pinart).
+
+**Thompson 1891**: Thomson refers to "clans" throughout his account, describes the island divided into six districts for Hotu-Matua's six sons (pp. 527-528), and records traditions of inter-clan warfare. He does not use the term "mata" but describes territorial clans with hereditary chiefs who led them in battle (p. 476). Each clan is described as "independent of all the rest" (p. 472). The clan system as Thomson describes it is a territorial-kinship organization, not a hierarchical administrative system under the king.
+
+**Assessment**: The mata/clan system appears in later sources (Thompson, Routledge, Métraux) as a territorial-kinship organization. Thomson's description of independent, warring clans led by hereditary chiefs who acknowledged a nominal king is consistent with a segmentary political system rather than a centralized chiefdom.
 
 ## Cross-Cutting Patterns
 
@@ -175,11 +198,17 @@ Each successive observer encounters LESS traditional knowledge than the one befo
 - Loti (1872): Finds ~100 people, no traditional structure visible, dancing on overturned moai
 - Pinart (1877): Islanders have "retained no memory at all"; rongorongo used as fishing line spools
 
-This trajectory continues to Thompson (1891) and Routledge (1919), who are further removed and must reconstruct from even more attenuated oral tradition.
+- Thompson (1891): Population 155, recovered from bottleneck; records elaborate traditions but Ure Vaeiko cannot read the tablets; king list of 57 names irreconcilable with Roussel's 22
 
-### 2. Internal Contradiction in Roussel
+The paradox: later sources record MORE elaborate traditions from FEWER surviving informants, further from the events. Thomson's 57-king list is far more detailed than Roussel's 22-generation list, yet was recorded 17 years later from a population that had declined by 75% (from ~650 to ~111 to ~155). This suggests elaboration rather than preservation.
+
+### 2. Internal Contradiction in Roussel and Thomson
+
+Roussel and Thomson both describe hierarchical political systems while simultaneously reporting facts that contradict them.
 
 Roussel simultaneously describes: (a) kings with "absolute power," first-fruits privileges, and tapu; and (b) a system where royal authority is "absent or totally unrecognized" and matatoa "decided everything." He does not reconcile these descriptions. Later scholars have treated (a) as describing the "traditional" system and (b) as a recent development, but Roussel provides no basis for this temporal assignment.
+
+Thomson similarly describes: (a) an "arbitrary monarchy" with the king's supreme authority, hereditary chiefs, and the right to remove them; and (b) a system where "no tax was exacted," "no great homage was paid the king," clans were "independent of all the rest," and "the people avenged their own injuries." Both accounts present a chiefdom-like narrative contradicted by their own details.
 
 ### 3. Collective Action Evidence
 
@@ -188,6 +217,8 @@ Eyraud's boat-building episode ("national cooperation... Nobody would think of n
 ### 4. Property Without Redistribution
 
 Roussel describes land ownership, family-based plantations, rahui fishing rights, and first-fruits obligations, but NO centralized redistribution system. Property disputes arise from displacement, not from chiefly allocation. This is a property system, not the redistributive economy that chiefdom models predict.
+
+Thomson explicitly states "no tax was exacted of the people" (p. 473), directly negating a key chiefdom criterion. His one reference to a "tax" (fishermen supporting image-makers, p. 533) contradicts this and describes a specific craft-production arrangement, not general tribute. Community enforcement of property rights through collective action ("the entire community" aiding the weak against the strong, p. 465) is evidence for decentralized social control, not chiefly administration.
 
 ### 5. Religious Vacuum
 
