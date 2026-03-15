@@ -136,6 +136,12 @@ Each entry follows this format:
 **Pipeline**: claims / summary / evidence / index
 **Notes**: SMS Hyäne visit, September 19-23, 1882. German original (Fraktur OCR); English translation (Ayres & Ayres 1995) not yet in repo. Population 150. Political collapse total: no king, "old chief" without power, every man his own master. Former regime described as "almost despotic" with succession to BROTHER (contradicts Thomson and Roussel). Kings served as priests. CRITICAL: Salmon served as translator here AND for Thomson (1886), so convergence may reflect Salmon's framework. Rongorongo known only to kings and chiefs.
 
+## Routledge 1919 (*The Mystery of Easter Island*)
+**File**: `post_slave_raid/routledge_1919/Routledge_1919.pdf`
+**Tags**: post-slave-raid-ethnography, political-authority, chiefdom-attribution, circularity
+**Pipeline**: claims / summary / evidence / index
+**Notes**: Most extensive early ethnography; Katherine Routledge, Mana Expedition, 17 months (1914-1915). Population ~250. First account NOT filtered through Salmon. "No chiefs nor any form of government" except Miru (p. 224). Ariki-mau explicitly "neither a leader in war, nor the fount of justice, nor even a priest" (p. 242); unable to compel his own servant; captured and enslaved. Tangata manu: food gifts "the sole practical advantage of victory" (p. 264). Ao system rotated clan dominance annually. Matatoa/matakio as rotating statuses, not permanent classes. No king list provided; genealogies contradictory. No kio class, no priests, no tribute, no redistribution.
+
 ## Thompson 1891 (*Te Pito te Henua, or Easter Island*)
 **File**: `post_slave_raid/thompson_1891/Thompson_1891.pdf`
 **Tags**: post-slave-raid-ethnography, political-authority, chiefdom-attribution, circularity

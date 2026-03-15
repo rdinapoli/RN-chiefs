@@ -16,7 +16,7 @@
 - Pinart 1877 **[PROCESSED]**
 - Geiseler 1883 **[PROCESSED]**
 - Thompson 1891 **[PROCESSED]**
-- Routledge 1919
+- Routledge 1919 **[PROCESSED]**
 - Metraux 1940
 - Englert (relevant edition)
 - Haoa et al. 2017 (Boersema Ch. 8, Richards Ch. 9)
@@ -34,6 +34,7 @@ The trajectory of population collapse is now documented by four sequential witne
 | 1877 | Pinart | 111 (26 women) | 14 years post-raids; Dutrou-Bornier had removed most survivors to Tahiti |
 | 1882 | Geiseler | 150 (67 men, 39 women, 44 children) | 20 years post-raids; includes ~20 Tahitians; Salmon as translator |
 | 1886 | Thomson | 155 (68 men, 43 women, 44 children) | 24 years post-raids; Salmon again as translator |
+| 1914-15 | Routledge | ~250 | 52 years post-raids; first researcher independent of Salmon |
 | 1900 | Father Butaye | 231 (213 natives) | Recovery beginning under Chilean annexation |
 
 This means that between 1862 and 1877, the population declined from ~3,000 to 111, a reduction of approximately 96%. The decline was not a single event but a cascading catastrophe: slave raids (1862-1863), repatriation-borne smallpox (1863-1864), continued epidemic disease (tuberculosis), warfare among survivors (documented by Eyraud and Roussel), and Dutrou-Bornier's removal of population to Tahiti (1870s).
@@ -134,14 +135,39 @@ Key claims for political authority:
 
 **Evidential type**: Almost entirely (b) reported tradition, filtered through Alexander P. Salmon as translator. Thomson's 12-day visit was predominantly devoted to archaeological survey; tradition-collection was confined to evenings. The session with Ure Vaeiko (the claimed tablet reader) involved coercion and alcohol. Thomson directly observed that Ure Vaeiko could not actually read the tablets (p. 516), demonstrating the complete destruction of the elite knowledge system by 1886.
 
+### Routledge 1919 [PROCESSED]
+
+**Recorded**: 52 years after slave raids (visit March 1914 to August 1915; published 1919)
+**Population context**: ~250 people; recovered from nadir of ~111 in 1877
+**Duration on island**: 17 months (Mana Expedition)
+
+**Political organization described**: Routledge's account is paradoxical: it simultaneously provides the most explicit denial of centralized authority and the most detailed description of the one exception. "With the exception of the Miru, of which more will be said, there were no chiefs nor any form of government; any man who was expert in war became a leader" (p. 224). Only the Miru clan (one of ten) had a chief (ariki-mau). This ariki-mau was explicitly NOT a political leader: "Ngaara held official position for the whole island, but he was neither a leader in war, nor the fount of justice, nor even a priest; he can best be described as the custodian of certain customs and traditions" (p. 242).
+
+Key claims for political authority:
+
+1. **Ariki-mau's actual functions**: Supernatural food-increase magic (especially chickens), oversight of rongorongo knowledge (annual assembly at Anakena where he sat on tablet seats, addressed scholars, gave each a chicken), rain prayers (delegated to ariki-paka), house inauguration ceremonies, receiving the annual pua offering (visitors "retired backwards," p. 243). All ceremonial, ritualistic, or supernatural, not political.
+
+2. **Ariki-mau's lack of coercive power**: Could not compel his own servant to return a stolen tablet, resorting to attempted bribery and failing (p. 249). Captured by the Ngaure clan and held captive with his son and grandson for five years at Akahanga; required alliance with Tupahotu to be rescued (p. 246). Died at his daughter's home in Marama territory, not at Anakena (p. 246).
+
+3. **Tangata manu as rotating competitive institution**: The Ao (ascendant group) rotated among clans. "Only those who belonged to the clan in the ascendancy for the time being could enter on the quest" (p. 258). The tangata manu's benefits: food gifts were "the sole practical advantage of victory; those who did not contribute were apt to have their houses burnt" (p. 264). Winner spent five months in strict taboo "sleeping all day," then "returned to ordinary life" after one year (pp. 264-265).
+
+4. **Ariki-mau absent from the bird cult**: "it is noteworthy that he himself never appeared at Orongo" (p. 260). The hereditary office and the rotating competitive institution were separate, potentially competing spheres of authority.
+
+5. **Matatoa/matakio as rotating statuses, not permanent classes**: "The men of the ascendant clan are also often spoken of as the Mata-toa, or warriors, the other clans being the Mata-kio, or servants" (p. 259, footnote). This rotated with the Ao, contradicting Roussel's permanent four-class hierarchy.
+
+6. **No king list provided.** Routledge collected "all the lists" but found fundamental confusion: "The sons of Hotu-matua are not known exactly" (pp. 281-282). She does not reproduce a numbered king list.
+
+7. **No tribute, no redistribution, no taxation** described anywhere. The closest approach is the annual pua offering and the rongorongo assembly where the ariki distributed chickens.
+
+8. **No kio (servant/slave) class mentioned.** No succession rules elaborated beyond "resign in favour of his son" when "old and feeble" (p. 241). No priests (p. 239). No formal worship or sacrifice (p. 236).
+
+**CRITICAL FINDING: First account independent of Salmon.** Routledge worked directly with Rapanui informants in their own language. She explicitly questioned Thomson's data by noting Salmon "failed to understand" the surviving customs (p. 209). Divergences from Thomson and Geiseler on political organization may reflect Salmon's framework in the earlier accounts.
+
+**CRITICAL FINDING: Marriage unrestricted.** "No group restrictions on marriage, which took place indiscriminately between members of the same or of different clans" (p. 221). An ordinary Ureohei woman (Viriamo) married into the Miru clan at Anakena with no described restrictions (p. 227-228). Inconsistent with a hierarchical society maintaining rank through marriage rules.
+
+**Evidential type**: Mix of (a) direct observation (archaeological survey, informant behavior, language analysis), (b) reported tradition from named informants of multiple clans (Miru, Tupahotu, Marama, Ureohei), and (c) Routledge's own inference. The multi-clan informant base and cross-examination methodology make this the most carefully collected post-raid ethnographic data, but all political organization claims remain reported tradition from a post-catastrophe population.
+
 ## Later Sources (pending processing)
-
-### Routledge 1919
-
-**Recorded**: ~50 years after slave raids
-**Population context**: (to be determined from source)
-
-(Claims about political organization to be compiled from extraction)
 
 ### Metraux 1940
 
@@ -173,7 +199,11 @@ Key claims for political authority:
 
 **Thompson 1891**: Describes "arbitrary monarchy" with sacred hereditary king. King list of 57 names from Hotu-Matua to Maurata (pp. 533-534). King "reigned over the entire island" and could remove chiefs (p. 472). Kaitae identified as "nearest descendant of the last king," approximately 80 years old, holding no political authority (p. 461). BUT: "no tax was exacted of the people" and "it does not appear that any great homage was paid the king" (p. 473). Clans "independent of all the rest" (p. 472). King list irreconcilable with Roussel's 22-generation list. [REPORTED TRADITION from informants 24 years post-raids, through SAME Salmon as translator]
 
-**Assessment**: The ariki institution is described by Roussel, Geiseler (via Salmon), and Thomson (via the same Salmon). The three other immediate post-raid observers (Eyraud, Loti, Pinart) describe no institutional hierarchy. Thomson's description of a "monarchy" without taxation, without homage, and with independently warring clans contradicts the structural requirements of centralized authority. The king list disagreement between Thomson and Roussel (57 vs. 22 generations, minimal overlap) further undermines the reliability of the dynastic narrative. The succession rule disagreement is equally damaging: Roussel says abdication when son marries; Thomson says primogeniture (eldest son); Geiseler says succession to the brother. Three different rules from three sources within 17 years. The convergence between Geiseler and Thomson, both intermediated through Salmon, raises the question of whether we have three independent witnesses or two Salmon-filtered accounts plus one independent (Roussel).
+**Routledge 1919**: The most detailed and methodologically rigorous account. Only the Miru clan had a chief (ariki-mau): "The Miru were unique in other ways; they were the only group which had a headman or chief" (p. 241). That chief was explicitly NOT a political leader: "he was neither a leader in war, nor the fount of justice, nor even a priest; he can best be described as the custodian of certain customs and traditions" (p. 242). His functions were supernatural food-increase magic, rongorongo oversight, rain prayers (delegated), house inaugurations, and receiving the annual pua offering. He lacked coercive power: unable to recover stolen property from his own servant (p. 249), captured and enslaved for five years (p. 246). Hereditary within the Miru, with the ariki-mau required to marry within his own clan (p. 241). "It was customary when he was old and feeble that he should resign in favour of his son" (p. 241). [REPORTED TRADITION from multiple named informants 52 years post-raids, working directly in native language without Salmon]
+
+**Assessment**: The ariki institution is described by Roussel, Geiseler (via Salmon), Thomson (via the same Salmon), and now Routledge (independently, without Salmon). The four accounts diverge dramatically. Thomson and Geiseler (both through Salmon) describe "monarchy" and "despotic" authority. Roussel describes kings with "absolute power" but admits that power had "passed completely into the hands of the matatoa." Routledge, the most thorough researcher working independently, finds: (a) only one of ten clans had a chief; (b) that chief was explicitly not a leader, judge, or priest; (c) that chief could be captured and enslaved. The convergence between Geiseler and Thomson, both intermediated through Salmon, raises the question of whether we have four independent witnesses or two Salmon-filtered accounts, one missionary account, and one independent account (Routledge). Routledge's account, based on 17 months of direct fieldwork with multiple informants, carries the most methodological weight.
+
+The succession rule disagreement is now a four-source problem: Roussel says abdication when son marries; Thomson says eldest son; Geiseler says brother; Routledge says resign when "old and feeble" in favor of son. Four different rules from four sources within 50 years. Routledge partially overlaps with Roussel (abdication) and Thomson (son) but the triggers differ.
 
 ### Tangata Manu
 
@@ -183,7 +213,11 @@ Key claims for political authority:
 
 **Thompson 1891**: Most detailed early description of the bird-egg ceremony (pp. 482-483). Explicitly states "No especial authority was vested in him." Winner received food contributions and spiritual approval from Meke-Meke, not political power. The king's role was to pronounce the word "go" to start the race; he was "about the only able-bodied man on the island who did not participate" (p. 483).
 
-**Assessment**: Roussel and Thomson CONTRADICT each other on the tangata manu's political significance. Roussel: the winner took "the chief's authority" and became matatoa. Thomson: "no especial authority was vested in him." Both cannot be correct. This disagreement between accounts recorded 17 years apart from the same small population undermines the use of either as evidence for a specific pre-contact political institution.
+**Routledge 1919**: The most detailed account of the tangata manu. The Ao (ascendant group) system rotated clan dominance. "Only those who belonged to the clan in the ascendancy for the time being could enter on the quest" (p. 258). Entry required supernatural nomination by an ivi-atua through dreams (p. 260). Food gifts were "the sole practical advantage of victory; those who did not contribute were apt to have their houses burnt" (p. 264). Winner spent five months in strict taboo "sleeping all day," then "returned to ordinary life" after one year (pp. 264-265). The tangata manu feared entering enemy territory (p. 263). 86 bird-man names recorded (pp. 265-266), suggesting many generations of the institution. The ariki-mau "never appeared at Orongo" (p. 260), indicating the two institutions were separate. Even the Miru were victimized when another clan held Ao status (p. 259).
+
+**Assessment**: Routledge's account, the most detailed, aligns with Thomson rather than Roussel on the tangata manu's political significance. Thomson: "no especial authority." Routledge: food gifts were "the sole practical advantage." Roussel's brief description of "the chief's authority" being transferred is not supported by either of the two more detailed accounts recorded 17 and 45 years later, respectively. Routledge adds the house-burning coercion (absent from Thomson), indicating some enforcement mechanism, but her overall characterization ("sole practical advantage") is closer to Thomson's "no especial authority" than to Roussel's "chief's authority."
+
+The Ao system as described by Routledge is a rotating competitive institution, not a permanent hierarchy. The matatoa/matakio binary was not a permanent class system but a description of which clans currently held vs. did not hold Ao status (p. 259, footnote). This reframing undermines Roussel's four-class hierarchy (ariki, ivi atua, matatoa, kio) and suggests that what Roussel observed as permanent classes may have been a rotating dominance system.
 
 ### Matatoa
 
@@ -205,7 +239,9 @@ Not described by any of the four immediate post-raid sources (Eyraud, Roussel, L
 
 **Thompson 1891**: Thomson refers to "clans" throughout his account, describes the island divided into six districts for Hotu-Matua's six sons (pp. 527-528), and records traditions of inter-clan warfare. He does not use the term "mata" but describes territorial clans with hereditary chiefs who led them in battle (p. 476). Each clan is described as "independent of all the rest" (p. 472). The clan system as Thomson describes it is a territorial-kinship organization, not a hierarchical administrative system under the king.
 
-**Assessment**: The mata/clan system appears in later sources (Thompson, Routledge, Métraux) as a territorial-kinship organization. Thomson's description of independent, warring clans led by hereditary chiefs who acknowledged a nominal king is consistent with a segmentary political system rather than a centralized chiefdom.
+**Routledge 1919**: The most detailed description. Ten named clans (mata) grouped into two divisions: Kotuu/Mata-nui (western: Marama, Haumoana, Ngatimo, Miru, Hamea, Raa) and Hotu Iti/Mata-iti (eastern: Tupahotu, Koro-orongo, Hitiuira/Ureohei, Ngaure). Territorial boundaries "blend and overlap; members of one division settled not infrequently among those of another" (p. 221). The dual division was spoken of "more especially in legend or speaking of the remote past" (p. 221), suggesting a conceptual framework rather than an active political division. "No group restrictions on marriage" between clans (p. 221). Viriamo (Ureohei) married into three different clans including the Miru (pp. 227-228). Children belonged to father's clan but "the clan of the mother was not ignored" (p. 226). [REPORTED TRADITION from informants of multiple clans, confirmed by direct observation that each person still knew their clan]
+
+**Assessment**: The mata/clan system appears in later sources (Thomson, Routledge, Métraux) as a territorial-kinship organization. Routledge's account is the most detailed and reveals: flexible territorial boundaries, frequent inter-clan residence, unrestricted inter-clan marriage, and only one clan (Miru) with a hereditary chief. This describes a segmentary system with clan-level organization, not a centralized chiefdom. The absence of marriage restrictions between clans or between the "chiefly" Miru and other clans is particularly inconsistent with a ranked hierarchical society.
 
 ## Cross-Cutting Patterns
 
@@ -221,6 +257,8 @@ Each successive observer encounters LESS traditional knowledge than the one befo
 - Thompson (1886/1891): Population 155; records elaborate traditions through SAME Salmon; king list of 57 names irreconcilable with Roussel's 22
 
 The paradox: later sources record MORE elaborate traditions from FEWER surviving informants, further from the events. Thomson's 57-king list is far more detailed than Roussel's 22-generation list, yet was recorded 17 years later from a population that had declined by 75% (from ~650 to ~111 to ~155). This suggests elaboration rather than preservation. The discovery that Salmon served as intermediary for both Geiseler and Thomson deepens this concern: the convergence between these accounts may reflect Salmon's framework rather than independent traditions.
+
+Routledge (1919) partially resolves this paradox. Working independently of Salmon with multiple informants over 17 months, she found "no chiefs nor any form of government" outside the Miru (p. 224), no king list she considered reliable enough to reproduce, and an ariki-mau who was "neither a leader in war, nor the fount of justice, nor even a priest" (p. 242). The first researcher independent of Salmon found a markedly less hierarchical political picture than either Geiseler or Thomson. This suggests that the "arbitrary monarchy" and "almost despotic" regime described by those two sources may indeed reflect Salmon's interpretive framework. However, Routledge was also 28-32 years further from the events than Thomson and Geiseler, and her informants were children rather than adults during the period described.
 
 ### 2. Internal Contradiction in Roussel and Thomson
 
