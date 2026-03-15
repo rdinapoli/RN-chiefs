@@ -130,6 +130,12 @@ Each entry follows this format:
 **Pipeline**: index
 **Notes**: Compilation volume. Translations from French by Ann M. Altman. Editorial introduction by Georgia Lee. Endnotes provide valuable corrections and context. Appendix: ship arrivals list 1722-1879 (from McCall 1990).
 
+## Geiseler 1883 (*Die Oster-Insel*)
+**File**: `post_slave_raid/geiseler_1883/Geiseler_1883_German.pdf`
+**Tags**: post-slave-raid-ethnography, political-authority, circularity
+**Pipeline**: claims / summary / evidence / index
+**Notes**: SMS Hyäne visit, September 19-23, 1882. German original (Fraktur OCR); English translation (Ayres & Ayres 1995) not yet in repo. Population 150. Political collapse total: no king, "old chief" without power, every man his own master. Former regime described as "almost despotic" with succession to BROTHER (contradicts Thomson and Roussel). Kings served as priests. CRITICAL: Salmon served as translator here AND for Thomson (1886), so convergence may reflect Salmon's framework. Rongorongo known only to kings and chiefs.
+
 ## Thompson 1891 (*Te Pito te Henua, or Easter Island*)
 **File**: `post_slave_raid/thompson_1891/Thompson_1891.pdf`
 **Tags**: post-slave-raid-ethnography, political-authority, chiefdom-attribution, circularity

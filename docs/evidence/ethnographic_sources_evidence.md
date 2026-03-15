@@ -14,6 +14,7 @@
 - Roussel 1869 **[PROCESSED]**
 - Loti 1872 **[PROCESSED]**
 - Pinart 1877 **[PROCESSED]**
+- Geiseler 1883 **[PROCESSED]**
 - Thompson 1891 **[PROCESSED]**
 - Routledge 1919
 - Metraux 1940
@@ -31,6 +32,8 @@ The trajectory of population collapse is now documented by four sequential witne
 | 1869 | Roussel | ~650 | Census figure; 3-6 years post-raids; tuberculosis, continued decline |
 | 1872 | Loti | ~100 | 10 years post-raids; concentrated at Hanga Roa; rest of island deserted |
 | 1877 | Pinart | 111 (26 women) | 14 years post-raids; Dutrou-Bornier had removed most survivors to Tahiti |
+| 1882 | Geiseler | 150 (67 men, 39 women, 44 children) | 20 years post-raids; includes ~20 Tahitians; Salmon as translator |
+| 1886 | Thomson | 155 (68 men, 43 women, 44 children) | 24 years post-raids; Salmon again as translator |
 | 1900 | Father Butaye | 231 (213 natives) | Recovery beginning under Chilean annexation |
 
 This means that between 1862 and 1877, the population declined from ~3,000 to 111, a reduction of approximately 96%. The decline was not a single event but a cascading catastrophe: slave raids (1862-1863), repatriation-borne smallpox (1863-1864), continued epidemic disease (tuberculosis), warfare among survivors (documented by Eyraud and Roussel), and Dutrou-Bornier's removal of population to Tahiti (1870s).
@@ -95,6 +98,20 @@ This means that between 1862 and 1877, the population declined from ~3,000 to 11
 
 **Evidential type**: Direct observation (a) by a trained scientist. The complete silence on traditional political structure from a professional anthropologist is itself significant evidence of how thoroughly traditional knowledge had been lost by 1877.
 
+### Geiseler 1883 [PROCESSED]
+
+**Recorded**: 20 years after slave raids (visit September 19-23, 1882; published 1883)
+**Population context**: 150 people (67 men, 39 women, 44 children; ~20 Tahitians among them); recovered from nadir of ~111 in 1877
+**Duration on island**: 4 days
+
+**Political organization observed**: Total political collapse. "A king does not exist, since the last one died in the Peruvian slavery" (p. 5). "Since that time every man is his own master, who recognizes no authority over himself and seeks his own justice" (p. 22-23). "Old chief" title used but carries no actual power or respect; Geiseler notes these so-titled people "appear to be nothing less than 'chiefs'" and are compared unfavorably to Samoan chiefs (p. 22-23). "Complete dissolution of all political community" (p. 23). After the collapse, "the entire organization rests solely on the family" (p. 42). Chiefs "have no power" and cannot even punish theft (pp. 28-29).
+
+Former regime described as "almost despotic" (faft befpotifdjes Regiment) with succession going to "the brother" (not the son), contradicting both Thomson (primogeniture) and Roussel (abdication when son marries) (p. 42). Kings formerly served as priests; "they have no priests and are said never to have had them" (p. 33).
+
+**CRITICAL FINDING: Salmon as shared intermediary.** Alexander P. Salmon, a half-blood Tahitian related to the Tahitian royal family, served as translator and cultural broker for Geiseler in 1882 AND for Thomson in 1886. All traditions recorded in both accounts were filtered through the same individual. The convergence between Geiseler's and Thomson's accounts of "despotic" kingship may reflect Salmon's interpretive framework rather than independent traditions. Salmon spoke Rapanui fluently (p. 24), had strong opinions about Polynesian origins (he favored a Tuamotu origin, p. 43-44), and was related to a royal family, all of which may have predisposed him to interpret Rapanui politics through a hierarchical lens.
+
+**Evidential type**: Mix of (a) direct observation (political collapse, population, land ownership, tabu system) and (b) reported tradition (former regime, succession, idol-makers, origin stories), all filtered through Salmon. Based on the German original (Fraktur OCR); English translation (Ayres & Ayres 1995) not yet in repo.
+
 ### Thompson 1891 [PROCESSED]
 
 **Recorded**: 24 years after slave raids (visit December 1886; published 1891)
@@ -152,9 +169,11 @@ Key claims for political authority:
 
 **Pinart 1877**: No ariki mentioned. Only colonial "queen" (Dutrou-Bornier's daughter).
 
-**Thompson 1891**: Describes "arbitrary monarchy" with sacred hereditary king. King list of 57 names from Hotu-Matua to Maurata (pp. 533-534). King "reigned over the entire island" and could remove chiefs (p. 472). Kaitae identified as "nearest descendant of the last king," approximately 80 years old, holding no political authority (p. 461). BUT: "no tax was exacted of the people" and "it does not appear that any great homage was paid the king" (p. 473). Clans "independent of all the rest" (p. 472). King list irreconcilable with Roussel's 22-generation list. [REPORTED TRADITION from informants 24 years post-raids, through Salmon as translator]
+**Geiseler 1883**: No king exists (p. 5). Political authority completely dissolved. Former regime described as "almost despotic" with succession to "the brother" (not the son), contradicting both Thomson (eldest son) and Roussel (abdication when son marries) (p. 42). Kings formerly served as priests (p. 33). The term "ariki" appears only once, referring to a dead person in a special tomb (p. 10), not as a current political title. "Old chief" title carries no power or respect (pp. 22-23). ALL information filtered through Salmon. [REPORTED TRADITION from informants 20 years post-raids, through Salmon as translator]
 
-**Assessment**: The ariki institution is described by Roussel and Thomson, based on what survivors told them. The three other immediate post-raid observers (Eyraud, Loti, Pinart) describe no institutional hierarchy. Thomson's description of a "monarchy" without taxation, without homage, and with independently warring clans contradicts the structural requirements of centralized authority. The king list disagreement between Thomson and Roussel (57 vs. 22 generations, minimal overlap) further undermines the reliability of the dynastic narrative.
+**Thompson 1891**: Describes "arbitrary monarchy" with sacred hereditary king. King list of 57 names from Hotu-Matua to Maurata (pp. 533-534). King "reigned over the entire island" and could remove chiefs (p. 472). Kaitae identified as "nearest descendant of the last king," approximately 80 years old, holding no political authority (p. 461). BUT: "no tax was exacted of the people" and "it does not appear that any great homage was paid the king" (p. 473). Clans "independent of all the rest" (p. 472). King list irreconcilable with Roussel's 22-generation list. [REPORTED TRADITION from informants 24 years post-raids, through SAME Salmon as translator]
+
+**Assessment**: The ariki institution is described by Roussel, Geiseler (via Salmon), and Thomson (via the same Salmon). The three other immediate post-raid observers (Eyraud, Loti, Pinart) describe no institutional hierarchy. Thomson's description of a "monarchy" without taxation, without homage, and with independently warring clans contradicts the structural requirements of centralized authority. The king list disagreement between Thomson and Roussel (57 vs. 22 generations, minimal overlap) further undermines the reliability of the dynastic narrative. The succession rule disagreement is equally damaging: Roussel says abdication when son marries; Thomson says primogeniture (eldest son); Geiseler says succession to the brother. Three different rules from three sources within 17 years. The convergence between Geiseler and Thomson, both intermediated through Salmon, raises the question of whether we have three independent witnesses or two Salmon-filtered accounts plus one independent (Roussel).
 
 ### Tangata Manu
 
@@ -198,9 +217,10 @@ Each successive observer encounters LESS traditional knowledge than the one befo
 - Loti (1872): Finds ~100 people, no traditional structure visible, dancing on overturned moai
 - Pinart (1877): Islanders have "retained no memory at all"; rongorongo used as fishing line spools
 
-- Thompson (1891): Population 155, recovered from bottleneck; records elaborate traditions but Ure Vaeiko cannot read the tablets; king list of 57 names irreconcilable with Roussel's 22
+- Geiseler (1882): Population 150 (~20 Tahitians); political collapse total; "old chief" title without substance; traditions of "despotic" kingship reported through Salmon
+- Thompson (1886/1891): Population 155; records elaborate traditions through SAME Salmon; king list of 57 names irreconcilable with Roussel's 22
 
-The paradox: later sources record MORE elaborate traditions from FEWER surviving informants, further from the events. Thomson's 57-king list is far more detailed than Roussel's 22-generation list, yet was recorded 17 years later from a population that had declined by 75% (from ~650 to ~111 to ~155). This suggests elaboration rather than preservation.
+The paradox: later sources record MORE elaborate traditions from FEWER surviving informants, further from the events. Thomson's 57-king list is far more detailed than Roussel's 22-generation list, yet was recorded 17 years later from a population that had declined by 75% (from ~650 to ~111 to ~155). This suggests elaboration rather than preservation. The discovery that Salmon served as intermediary for both Geiseler and Thomson deepens this concern: the convergence between these accounts may reflect Salmon's framework rather than independent traditions.
 
 ### 2. Internal Contradiction in Roussel and Thomson
 
