@@ -142,6 +142,12 @@ Each entry follows this format:
 **Pipeline**: claims / summary / evidence / index
 **Notes**: Most extensive early ethnography; Katherine Routledge, Mana Expedition, 17 months (1914-1915). Population ~250. First account NOT filtered through Salmon. "No chiefs nor any form of government" except Miru (p. 224). Ariki-mau explicitly "neither a leader in war, nor the fount of justice, nor even a priest" (p. 242); unable to compel his own servant; captured and enslaved. Tangata manu: food gifts "the sole practical advantage of victory" (p. 264). Ao system rotated clan dominance annually. Matatoa/matakio as rotating statuses, not permanent classes. No king list provided; genealogies contradictory. No kio class, no priests, no tribute, no redistribution.
 
+## Métraux 1937 ("The Kings of Easter Island")
+**File**: `post_slave_raid/metraux_1937/Metraux_1937.pdf`
+**Tags**: post-slave-raid-ethnography, political-authority, circularity
+**Pipeline**: claims / summary / evidence / index
+**Notes**: Focused article on kingship. Independent confirmation that ariki-mau had no political power. "Certainly not a ruler or civilian chief." Strongest source assessment of all post-raid ethnographers, directly evaluating Roussel, Thomson, and Geiseler. Dismisses Roussel's claim of ancient absolute power as "entirely gratuitous assumption." Documents food flowing through king to tangata-honui (elite-to-elite, not downward redistribution).
+
 ## Thompson 1891 (*Te Pito te Henua, or Easter Island*)
 **File**: `post_slave_raid/thompson_1891/Thompson_1891.pdf`
 **Tags**: post-slave-raid-ethnography, political-authority, chiefdom-attribution, circularity
