@@ -81,6 +81,20 @@
 **Evidential type**: (b) Reported tradition. [POST-RAID]
 **Relevance**: Minimal marriage restrictions are inconsistent with a ranked hierarchical society maintaining rank through marriage rules. The Miru endogamy tradition suggests one clan had a notion of exclusivity, but this was not a general feature of the social system.
 
+### Claim B7: Lineage-based land tenure (henua poreko ranga)
+**Pages**: pp. 142-143 (PDF pp. 159-160)
+**Quote**: "The ground belonging to a lineage was called henua poreko ranga (the land where the ancestors were born)."
+**Summary**: Roussel describes hereditary family-based land ownership. Property was not centrally allocated: "Formerly, every family owned the land that either hereditary, compulsory, or voluntary occupation put into its hands." Sea rights belonged to estate owners: "the sea contiguous to an estate belonged to the owner of this estate. He was the only one who was authorized to fish, to look for squid and shellfish there. For his protection he placed a rahui." Property disputes arose from displacement and warfare, not from chiefly allocation: "The dishonesty of the natives, their continual changing of residence, resulting from their constant wars, have created the most confusing and entangled situation in matter of property."
+**Evidential type**: (b) Roussel's account (190, p. 429), quoted and analyzed by Métraux. [POST-RAID]
+**Relevance**: Land was held by lineages through hereditary descent, not allocated or redistributed by a paramount chief. Sea rights attached to estates, not to a central authority. This is inconsistent with the redistributive economy chiefdom models predict.
+
+### Claim B8: Missionary concentration severed land ties
+**Page**: p. 143 (PDF p. 160)
+**Quote**: "Since 1866, when the entire population was concentrated at Hanga-roa on the west coast, the ties between lineages and land have been broken."
+**Summary**: Despite this severing, "they have remembered the portions of land of which their families were the legitimate owners." Estella's attempted census shows "the districts of the island were once divided into fairly large portions which belonged to lineages, and that the hereditary land of a lineage was divided among households."
+**Evidential type**: (c) Métraux's assessment drawing on Roussel and Estella.
+**Relevance**: The remembered system is one of lineage-based ownership divided among households, not centralized allocation by a paramount chief.
+
 ---
 
 ## C. Classes of Society (Book pp. 135-140, PDF pp. 152-157)
@@ -132,6 +146,37 @@
 **Quote**: "The kio were defeated people who were obliged to serve their conquerors or to pay tribute to them with the produce of their lands... When a war was over, the defeated people were kept in caves which they could leave only during working hours. All became slaves and had to plant a certain portion of land for their respective masters."
 **Evidential type**: (b) Reported tradition. [POST-RAID]
 **Relevance**: NEW detail beyond 1937 article. The kio status was created by warfare (defeated peoples), not by hereditary class assignment. This describes a consequence of inter-clan warfare, not a stable hierarchical class system.
+
+### Claim C9: Secret societies and masked extortion
+**Pages**: pp. 139-141 (PDF pp. 156-158)
+**Summary**: A legend describes six young men (the Aamai) and their cousin who went from house to house at night claiming to be gods, demanding food, wooden images, and other goods: "We are gods; we are the god Makemake." People complied out of fear until men spying on them discovered the deception: "They are not gods but men who imitate the voice of the gods." Toka-gnutu was caught and killed.
+**Quote**: Métraux's assessment: "Those who advocate a Melanesian origin for the Easter Island culture might use this legend as a strong argument in favor of a possible connection between the Melanesian secret societies of masked people who begged food and terrified the uninitiated." However, Métraux concludes: "There is little doubt that the element of the masks is an addition made by Tepano." The original version (Routledge's, 20 years earlier) involved painting rather than masks; the deception was detected when the men were "surprised washing their faces in a well."
+**Evidential type**: (b) Reported tradition via Tepano. [POST-RAID]
+**Relevance**: Whether or not the mask element is Tepano's embellishment, the core story describes coercive power exercised through supernatural deception rather than institutional authority. Political goods were extracted by impersonating gods, not by claiming legitimate political authority. This is consistent with a society where coercive power operated through fear and religious fraud rather than established institutional mechanisms.
+
+---
+
+## Warfare (Book pp. 149-150, PDF pp. 167-168)
+
+### Claim W1: Endemic inter-clan warfare from trivial causes
+**Pages**: pp. 149-150 (PDF pp. 167-168)
+**Quote**: Thomson: "their traditions are filled with accounts of sanguinary conflicts originating from trivial causes and continued through generations, until one party or the other were entirely exterminated." Causes included "personal revenge, jealousy, greediness, and want." "Disputes over the name of a night of the moon or a breach in etiquette might lead to war."
+**Evidential type**: (b) Reported tradition via Thomson, Roussel, and missionary accounts. [POST-RAID]
+**Relevance**: Warfare was inter-clan and endemic, triggered by trivial causes without central authority to mediate or prevent it. This is incompatible with a functioning chiefdom maintaining social order.
+
+### Claim W2: Ritual pre-battle preparations without religious sanction
+**Page**: p. 150 (PDF p. 167)
+**Quote**: Roussel: "When war was declared, all those who intended to take part in it smeared themselves with black and spent a sleepless night. They were busy preparing their weapons and hiding their most precious belongings."
+**Summary**: Métraux notes in brackets: "There is no hint of human sacrifice or other offerings to the gods to procure favor." Warriors set out "followed by their wives and children who accompanied them with protective chants and moans."
+**Evidential type**: (b) Roussel's account (published manuscript). [POST-RAID]
+**Relevance**: The absence of ritual offerings to gods before battle is notable. In chiefdom societies, warfare typically involved priestly sanction and religious ritual. The preparations described are purely individual and practical.
+
+### Claim W3: Post-victory treatment and refugee patterns
+**Pages**: pp. 149-150 (PDF pp. 167-168)
+**Quote**: "When one party felt that it was overwhelmed and that victory (ao) was with their adversaries, the warriors fled and tried to take refuge in caves or on the rocks or islets off the coast." "Guards were set on the coast to prevent refugees on the islets from renewing their attacks or from getting food. They had to live on seaweed (auke) and on fish."
+**Quote**: Thomson: "The clans were always led to battle by the chief, but there was no particular formation. Every man acted in accordance with his individual fancy, or as occasion demanded, relying upon skill and strength."
+**Evidential type**: (b) Reported tradition via Thomson, Roussel, and legends. [POST-RAID]
+**Relevance**: Warfare operated at the clan level with no overarching military command. Individual warriors fought independently ("every man acted in accordance with his individual fancy"). Defeated populations fled to caves and islets where they were besieged. This describes lineage-level conflict, not the organized military apparatus a chiefdom model would predict.
 
 ---
 

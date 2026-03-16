@@ -46,6 +46,20 @@
 **Evidential type**: (c) Métraux's comparative analysis.
 **Relevance**: NEW emphasis. The 1957 book makes a stronger comparative claim than the monograph: Easter Island's warriors had more political power than Polynesian warriors elsewhere because they were not subordinate to the ariki. The caudillo analogy (personal power through force, not institutional authority) is new and vivid.
 
+### Claim A6: Kainga as most famous matatoa; warriors co-opted religious prestige
+**Pages**: pp. 96-97
+**Quote**: "The most famous of these great warriors was Kainga who, beginning as chief of the eastern tribes, eventually established his authority over the whole island."
+**Quote**: "Certain obscure occurrences that took place on Easter Island before the eyes of the missionaries acquire a meaning if they are interpreted as attempts on the part of matato'a to surround themselves with the religious prestige due to the king. Some matato'a had the first catch of the fishing season presented to them just as if they were the ariki-mau himself. The Orongo ceremonies bestowed divine sanction on their hegemony, for the matato'a whose servant found the first manu-tara egg became the 'vessel' of the great god Makemake."
+**Evidential type**: (c) Métraux's interpretive synthesis from legends and missionary accounts.
+**Relevance**: Kainga's authority was personal, achieved through conquest, not inherited through institutional succession. Matatoa attempted to co-opt the ariki-mau's religious functions (first-catch presentation, Orongo ceremonies) to legitimize their power, demonstrating that political authority derived from force and was distinct from the institutional sacred authority of the ariki. The tangata manu system served as a mechanism for warriors to acquire religious prestige, not as part of a chiefly hierarchy.
+
+### Claim A7: King's authority temporary, ended by heir's marriage
+**Pages**: pp. 92-93
+**Quote**: "In conformity with a custom frequent in Polynesia, the king lost his rank on the birth of his eldest son. The mana that had been in him passed into the little being, who became in his turn the intermediary between the tribe and the gods."
+**Quote**: The king "retained his power in his capacity of regent until his heir was old enough to fulfil his functions. This date was determined by his marriage; after which the old king sank into oblivion."
+**Evidential type**: (c) Métraux's synthesis from Polynesian comparative framework.
+**Relevance**: The ariki-mau's authority was not continuous political rule but a temporary custodianship of mana, ending when the heir married. The "old king sank into oblivion" indicates no permanent political authority attached to the individual; authority was a function of mana transmission, not personal governance. This is ritual succession, not the political succession chiefdom models require.
+
 ---
 
 ## B. Warfare and Cannibalism (Ch. V)
@@ -124,6 +138,37 @@
 
 ---
 
+## G. Feast System (Ch. X "Feasts", pp. 171-176)
+
+### Claim G1: Feasts organized by lineage heads for prestige
+**Page**: p. 171
+**Quote**: "They were no doubt organized by chiefs of lineages or extended families anxious to consolidate or enhance their prestige. One feast led to another, because the gifts received created an obligation to return them."
+**Evidential type**: (c) Métraux's interpretive synthesis from informant recollections. [POST-RAID]
+**Relevance**: Feasts were organized by lineage heads (plural, competitive) seeking to "consolidate or enhance their prestige," not by a paramount chief redistributing resources. The obligatory gift cycle is a reciprocal prestige economy, not centralized redistribution.
+
+### Claim G2: Koro as food-distribution feast
+**Pages**: pp. 171-172
+**Quote**: "a koro was more specifically a feast given by a young man in honour of his father or father-in-law." Extended meaning: "every festival involving the distribution of food, as was notably the case when, after the harvest, a rich landowner organized celebrations for the friends and relatives who had lent him their assistance."
+**Summary**: Koro feasts were characterized by gifts of food: "Potatoes, yams and other foodstuffs heaped on trestles demonstrated the wealth and generosity of the person or family giving the feast."
+**Evidential type**: (b) Reported tradition. [POST-RAID]
+**Relevance**: Feasts celebrated reciprocal labor assistance and kinship obligations, not centralized tribute collection. The feast organizer was typically a "rich landowner" or young man, not a paramount chief.
+
+### Claim G3: Obligatory gift circulation
+**Pages**: pp. 173-174
+**Quote**: "Those who received a chicken immediately gave it away, so that the fowls circulated from one person to another. The obligatory nature of these exchanges was expressed in the belief that a chicken could not be eaten until it had changed hands five times."
+**Quote**: "Those who had received gifts had to return them on the occasion of another koro, so that sooner or later the man who had ruined himself by his generosity was able to restock his farmyard with the gifts he received in return."
+**Evidential type**: (b) Reported tradition. [POST-RAID]
+**Relevance**: Gift circulation was lateral (person to person, passing through multiple hands) and reciprocal (obligatory return at future feasts), not top-down redistribution from a central authority. The five-hand circulation rule and obligatory return cycle describe a gift economy, not a tributary system.
+
+### Claim G4: Hareauti festivals as prestige displays
+**Pages**: pp. 174-175
+**Quote**: "The festivals called hareauti were held in autumn and winter. If our sources are to be believed, they were essentially profane in character, for they were organized by individuals in whom ambition or vanity inspired the wish to increase their prestige by a display of generosity."
+**Summary**: Métraux's analysis frames the feast system as "a whole system of contractual gifts analogous to those described in connexion with other Pacific cultures" (p. 174), connecting it to comparative Polynesian prestige exchange systems.
+**Evidential type**: (b) Reported tradition with (c) Métraux's comparative analysis. [POST-RAID]
+**Relevance**: Hareauti festivals were explicitly organized by ambitious individuals seeking personal prestige through generosity, not by chiefs fulfilling institutional obligations. This is a competitive prestige model, directly comparable to systems in Western Polynesia and among the Maori that operate without centralized redistribution. Directly supports the collective action interpretation of monument production.
+
+---
+
 ## F. Convergences and Divergences with the 1940 Monograph
 
 ### What's UNIQUE to the 1957 book:
@@ -131,10 +176,13 @@
 1. **"The political authority of the ariki-mau is not clear"**: More explicit statement of uncertainty than the 1940 monograph.
 2. **Caudillo analogy for matatoa**: New and vivid comparison to South American strongmen.
 3. **Matatoa "much stronger" than Polynesian warriors elsewhere**: Explicit comparative claim about Easter Island's distinctive warrior power.
-4. **Feast-sponsorship model of statue transport**: "Heads of lineages organized feasts... The guests harnessed themselves to the statue... A half-serious, half-humorous rivalry turned the undertaking into an immense pleasure party."
-5. **Statues as "noa" (profane)**: Without active ritual, statues were "simply an ornament, a lifeless block of stone."
-6. **"Vast resources" passage**: The closest Métraux comes to a chiefly-command model, but attributed to plural lineage chiefs competing, not a paramount.
-7. **Explicit statement that priestly class "disappeared" in 1862**: Clearer than the monograph about the implications for religious knowledge.
+4. **Kainga as island-wide matatoa authority**: "beginning as chief of the eastern tribes, eventually established his authority over the whole island" (p. 97). Warriors co-opted religious prestige through Orongo ceremonies and first-catch presentations.
+5. **King's authority terminated by heir's marriage**: "the old king sank into oblivion" after his heir married (p. 93). Mana was the substance of kingship, not political power.
+6. **Feast-sponsorship model of statue transport**: "Heads of lineages organized feasts... The guests harnessed themselves to the statue... A half-serious, half-humorous rivalry turned the undertaking into an immense pleasure party."
+7. **Koro feast system**: Feasts organized by "chiefs of lineages or extended families anxious to consolidate or enhance their prestige" (p. 171). Obligatory gift circulation where chickens "could not be eaten until changed hands five times." Hareauti festivals organized by individuals seeking prestige through generosity.
+8. **Statues as "noa" (profane)**: Without active ritual, statues were "simply an ornament, a lifeless block of stone."
+9. **"Vast resources" passage**: The closest Métraux comes to a chiefly-command model, but attributed to plural lineage chiefs competing, not a paramount.
+10. **Explicit statement that priestly class "disappeared" in 1862**: Clearer than the monograph about the implications for religious knowledge.
 
 ### What's CONFIRMED from 1940:
 
