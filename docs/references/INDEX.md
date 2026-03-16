@@ -148,6 +148,24 @@ Each entry follows this format:
 **Pipeline**: claims / summary / evidence / index
 **Notes**: Focused article on kingship. Independent confirmation that ariki-mau had no political power. "Certainly not a ruler or civilian chief." Strongest source assessment of all post-raid ethnographers, directly evaluating Roussel, Thomson, and Geiseler. Dismisses Roussel's claim of ancient absolute power as "entirely gratuitous assumption." Documents food flowing through king to tangata-honui (elite-to-elite, not downward redistribution).
 
+## Métraux 1937 ("Easter Island Sanctuaries")
+**File**: `post_slave_raid/metraux_1937_sanctuaries/Metraux_1937_Sanctuaries.pdf`
+**Tags**: archaeological-evidence, monument-production, settlement-patterns
+**Pipeline**: claims / summary / evidence / index
+**Notes**: Most detailed analytical study of ahu architecture, typology, and construction from the early 20th century. Four-type ahu classification, construction techniques, distribution patterns. Comprehensive treatment of statue transport with Polynesian parallels. Walking statues legend dismissed as myth; Roussel's alternative (each tribe dragging its family gods to its district) implies decentralized, clan-level organization. Contains NO claims of chiefly command over monument construction. Significant absence from the ethnographer who wrote the most detailed ahu study.
+
+## Métraux 1940 (*Ethnology of Easter Island*)
+**File**: `post_slave_raid/metraux_1940/Metraux_1940.pdf`
+**Tags**: post-slave-raid-ethnography, political-authority, chiefdom-attribution, circularity, monument-production
+**Pipeline**: claims / summary / evidence / index
+**Notes**: Most comprehensive ethnographic monograph on Easter Island (Bishop Museum Bulletin 160, 463 pages). Confirms 1937 article: ariki-mau "certainly not a ruler or civilian chief" (p. 136). King list comparison (Table 2, pp. 88-93) shows only 7 names common to all four independently recorded lists; shared names are tribal eponyms, not historical individuals. Roussel's four-class hierarchy "only superficially exact"; matatoa identified as "actual rulers of the tribes"; kio were war captives, not hereditary caste. Stone image significance: "no direct evidence that they were ever worshipped"; "tribal pride and competitive instinct" as motivation. Bird cult: tangata manu coexisted with but separate from ariki-mau; privileges limited to marauding and food extraction.
+
+## Métraux 1957 (*Easter Island: A Stone-Age Civilization of the Pacific*)
+**File**: `post_slave_raid/metraux_1957/Metraux_1957.pdf`
+**Tags**: post-slave-raid-ethnography, political-authority, monument-production
+**Pipeline**: claims / summary / evidence / index
+**Notes**: Popular synthesis of the 1940 monograph. Contains Métraux's clearest formulations: ariki-mau political authority "not clear"; matatoa had "much stronger" political position than Polynesian warriors elsewhere (caudillo analogy); statue transport organized by "heads of lineages" through competitive feast sponsorship ("immense pleasure party"); statues became "noa—profane" without active ritual. No evolution toward chiefdom model between 1940 and 1957.
+
 ## Thompson 1891 (*Te Pito te Henua, or Easter Island*)
 **File**: `post_slave_raid/thompson_1891/Thompson_1891.pdf`
 **Tags**: post-slave-raid-ethnography, political-authority, chiefdom-attribution, circularity
