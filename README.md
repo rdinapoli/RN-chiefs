@@ -4,6 +4,8 @@ Prehistoric Rapa Nui (Easter Island) society has been classified as a Polynesian
 
 This paper demonstrates that the chiefdom attribution rests on a five-step circular inferential chain combining insufficient contact-era European accounts, compromised post-slave-raid ethnography (recorded after the 1862-1863 demographic catastrophe reduced the population from roughly 3,000 to fewer than 200), and an unwarranted structural analogy from other Polynesian islands. The archaeological evidence, when analyzed independently of these imported frameworks, is better explained by collective action and cooperative production without centralized chiefly command.
 
+This paper is a precursor to a broader piece targeting *Current Anthropology*, which will make the same epistemological argument across anthropological archaeology as a whole.
+
 ## Directory Structure
 
 ```
@@ -27,16 +29,21 @@ RN-chiefs/
       summary_template.md            # Template for paper summaries
       claims_template.md             # Template for claims extraction
       summaries/                     # Completed paper summaries
-      claims/                        # Completed claims extractions
+      claims/                        # Completed claims extractions (32 files)
       pdfs/                          # Source PDFs
-        european_accounts/           # Contact-era account PDFs
+        european_accounts/           # Contact-era account PDFs (1722-1862)
+        post_slave_raid/             # Post-slave-raid ethnography PDFs (1864-1957)
+        sahlins_1954/                # Sahlins dissertation + OCR text
     evidence/
       contact_accounts_evidence.md   # Contact-era accounts evidence
       ethnographic_sources_evidence.md  # Post-slave-raid sources evidence
       polynesian_analogy_evidence.md # Polynesian analogy evidence
       archaeological_record_evidence.md # Archaeological record evidence
+      chiefdom_attribution_evidence.md  # Chiefdom attribution chain evidence
       circularity_demonstration.md   # Five-step circularity evidence
     working/
+      bibliography_checklist.md      # Master bibliography (82 sources)
+      narrative_construction_analysis.md  # Narrative construction analysis (1722-1957)
       rapa_nui_paper_outline.md      # Working paper outline
   R/                                 # R scripts for figures
   figures/                           # Figure output

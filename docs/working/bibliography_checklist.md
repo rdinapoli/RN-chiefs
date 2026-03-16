@@ -53,7 +53,7 @@ All sources except Englert 1948 have been processed through the full pipeline.
 
 | # | Citation | Relevance | Category | In repo? | Pipeline | Priority | Notes |
 |---|----------|-----------|----------|----------|----------|----------|-------|
-| 23 | Sahlins 1958, *Social Stratification in Polynesia* | Established Polynesia as chiefdom paradigm; positioned Rapa Nui on stratification gradient | Polynesian chiefdom framework | **NO** | not started | critical | Need to acquire relevant chapters |
+| 23 | Sahlins 1954/1958, *Social Stratification in Polynesia* | Established Polynesia as chiefdom paradigm; positioned Rapa Nui on stratification gradient (Group IIa). 1954 dissertation processed in full (464pp); 1958 is published version. | Polynesian chiefdom framework | **yes** (1954 dissertation: `pdfs/sahlins_1954/Sahlins_1954.pdf`) | **complete** | critical | Full dissertation read chapter by chapter. 133 claims extracted. Easter Island section relies entirely on post-raid sources; redistribution gap filled by analogy. |
 | 24 | Heyerdahl & Ferdon (eds.) 1961, *Reports of the Norwegian Archaeological Expedition to Easter Island*, Vol. 1 | First systematic excavations; 3-phase cultural chronology; chapters by Mulloy, Ferdon, Smith, Skjølsvold | Rapa Nui archaeological | **NO** | not started | important | Multiple authors; need to determine which chapters are relevant |
 | 25 | Service 1962, *Primitive Social Organization* | Defined the chiefdom typology; foundational for the concept everyone uses | Polynesian chiefdom framework | in `papers_config.json` | not started | important | For Section II (chiefdom concept genealogy) |
 | 26 | Sahlins 1963, "Poor Man, Rich Man, Big Man, Chief" | Big-man vs. chief distinction; Melanesia-Polynesia contrast | Polynesian chiefdom framework | in `papers_config.json` | not started | important | |
@@ -189,7 +189,7 @@ Critical subset for this paper. Many are cataloged in the CA bibliography; only 
 ### Batch 3: Need acquisition (highest priority first)
 - Kirch 1984 (relevant chapters)
 - Kirch 2010 (relevant chapters)
-- Sahlins 1958 (relevant chapters)
+- ~~Sahlins 1958 (relevant chapters)~~ — **DONE** (2026-03-16, via 1954 dissertation)
 - Goldman 1970
 - Hunt & Lipo 2006 (*Science*)
 - Martinsson-Wallin 1994
@@ -210,7 +210,7 @@ Critical subset for this paper. Many are cataloged in the CA bibliography; only 
 |----------|-------|---------|-----------|-------------|
 | Contact-era (Era 0) | 10 | 10 | 10 | 0 |
 | Post-slave-raid (Era 1) | 12 | 11 | 11 | 1 (Englert) |
-| Chiefdom model foundations (Era 2) | 6 | 0* | 0 | 6 |
+| Chiefdom model foundations (Era 2) | 6 | 1 | 1 | 5 |
 | First archaeological models (Era 3) | 4 | 1 | 1 | 3 |
 | Kirch era (Era 4) | 5 | 0* | 0 | 5 |
 | Consolidation (Era 5) | 6 | 0* | 0 | 6 |
@@ -218,9 +218,10 @@ Critical subset for this paper. Many are cataloged in the CA bibliography; only 
 | Active debate (Era 7) | 15 | 6 | 6 | 9 |
 | Current research (Era 8) | 8 | 5+ | 4 | 4 |
 | Theoretical | 9 | 0* | 0 | 9 |
-| **Total** | **82** | **33+** | **32** | **50** |
+| **Total** | **82** | **34+** | **33** | **49** |
 
 \* In `papers_config.json` but PDFs not yet downloaded/verified
 
 **Batch 1 status**: 11 of 12 in-repo sources processed. DiNapoli et al. 2021 (Sustainability) PDF needs re-adding to repo.
-**Total pipeline files**: 31 claims files, 27 summaries, 5 evidence files populated.
+**Chiefdom model foundations**: Sahlins 1954 dissertation processed in full (2026-03-16).
+**Total pipeline files**: 32 claims files, 28 summaries, 5 evidence files populated.

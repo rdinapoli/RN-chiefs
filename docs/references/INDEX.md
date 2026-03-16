@@ -180,6 +180,14 @@ Each entry follows this format:
 
 ---
 
+## Sahlins 1954 (*Social Stratification in Polynesia*)
+**File**: `pdfs/sahlins_1954/Sahlins_1954.pdf` (464pp, ABBYY OCR; full text: `Sahlins_1954_ocr.txt`)
+**Tags**: polynesian-analogy, chiefdom-attribution, circularity, political-authority
+**Pipeline**: claims / summary / evidence / index
+**Notes**: Columbia PhD dissertation (published 1958). Established the Polynesian stratification gradient that positions Rapa Nui as a moderately stratified (Group IIa) ramage society. Easter Island section (pp. 99-106) relies entirely on post-slave-raid sources (Metraux 1940, Thomson 1889, Routledge 1919). Sahlins admitted "little direct evidence" of redistribution and filled the gap by Polynesian analogy. Acknowledged Easter Island was ecologically anomalous for ramage classification. The three-stage evolutionary scheme (egalitarian / stratified kin societies / states) is the direct precursor to Service's band-tribe-chiefdom-state typology.
+
+---
+
 ## McCoy 1976 (*Easter Island Settlement Patterns*)
 **File**: `mccoy_1976.pdf`
 **Tags**: settlement-patterns, chiefdom-attribution, archaeological-evidence, circularity

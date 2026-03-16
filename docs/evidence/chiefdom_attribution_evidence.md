@@ -23,9 +23,31 @@ Key facts from the ethnographic period:
 
 ### Stage 1: The chiefdom concept is created and applied to Polynesia
 
-(Sahlins 1958, Service 1962, Sahlins 1963, Goldman 1970)
+**The genealogy of the concept:**
 
-*To be populated from claims extraction*
+The chiefdom typology did not emerge from Polynesian data; it was imposed on Polynesia from a neoevolutionary framework developed in the Columbia school (Steward's students):
+
+- **Oberg 1955**: Coined the term "chiefdom" as a typological category for South American lowland societies.
+- **Steward 1955**: Multilinear cultural evolution framework; the intellectual context for Service and Sahlins.
+- **White 1959**: Unilinear cultural evolution; the broader neoevolutionary backdrop.
+- **Service 1962**: Formalized band/tribe/chiefdom/state as universal evolutionary stages. Drew partly on Sahlins's Polynesian work, creating a feedback loop.
+- **Fried 1967**: Alternative typology (egalitarian/ranked/stratified/state) that competes with Service's scheme. Relevant because it shows the typology was contested from the start.
+
+**The Polynesian application:**
+
+- **Sahlins 1954/1958** (*Social Stratification in Polynesia*): The 1954 Columbia PhD dissertation (published 1958 by University of Washington Press) established the Polynesian stratification gradient. Sahlins placed Rapa Nui in **Group IIa** (moderate-high stratification), alongside Mangareva, Mangaia, and Uvea, below Group I (Hawaii, Tonga, Samoa, Tahiti) but above Group IIb (Marquesas, Tikopia, Futuna). The Easter Island section (1954, pp. 99-106) relies **entirely on post-slave-raid sources**: Metraux 1940 (~30+ citations), Metraux 1937b, Thomson 1889, Routledge 1919, and Williamson 1924. No contact-era accounts (Roggeveen, González, Cook, La Pérouse) are cited. Sahlins himself admitted "there is little direct evidence that the ariki mau and the birdmen were focal points of accumulation and redistribution" (p. 101) and filled this gap by Polynesian analogy: "We may surmise from comparative data" that they served this function. He reported Metraux's own conclusion that government was "decentralized and localized" (p. 104), that Thomson found "no great homage" for the ariki mau (p. 106), and that confiscation of surplus "does not seem to have been enforced" (p. 101). He classified Easter Island as a ramage society but acknowledged it was ecologically anomalous for this category (pp. 361-362). The matatoa claim was challenged as resting on "tenuous evidence" (p. 284). Full claims extraction: `docs/references/claims/sahlins_1954_claims.md` (133 claims).
+- **Sahlins 1963** ("Poor Man, Rich Man, Big Man, Chief"): Formalized the big-man vs. chief distinction, with Melanesia as big-man and Polynesia as chief. Rapa Nui implicitly placed on the "chief" side by geographic/cultural association.
+- **Goldman 1970** (*Ancient Polynesian Society*): Status rivalry framework. Critically, Goldman classified Rapa Nui as an **"open society"** rather than "traditional" or "stratified." This classification places Rapa Nui in the least hierarchical of Goldman's three categories. If Kirch later positions Rapa Nui within a chiefdom evolutionary trajectory, he departs from Goldman's own classification.
+
+**The feedback loop:** Sahlins uses Polynesia to illustrate evolutionary stages → Service formalizes those stages partly based on Sahlins's Polynesian data → Kirch applies Service's formalized stages back to Polynesia archaeologically. This loop is itself part of the circularity: the Polynesian data that "confirm" the chiefdom model are the same data from which the model was partly constructed. For Rapa Nui specifically, the circularity is compounded: Sahlins admitted the redistribution evidence was lacking and filled the gap by analogy with better-documented islands (1954, p. 101). When Kirch later treats Rapa Nui as a chiefdom, he inherits Sahlins's analogical inference as if it were an empirical finding.
+
+**For this paper (Section II):** Mention the Oberg-Steward-Service genealogy in a paragraph to establish that the chiefdom concept was not derived from Polynesian data but imposed on it. Focus the detailed analysis on the Sahlins 1958 → Service 1962 → Goldman 1970 → Kirch 1984 chain, since that is the sequence that specifically positions Rapa Nui. The deeper intellectual history (Oberg, Steward, White, Fried) is more appropriate for the CA paper.
+
+**Processing order:** Sahlins 1954/1958 → Service 1962 → Sahlins 1963 → Goldman 1970 → Kirch 1984. Foundations before Kirch so we can distinguish what Kirch inherits vs. transforms vs. adds.
+
+**Sahlins 1954 processed** (2026-03-16): Full 464-page dissertation read chapter by chapter. 133 claims extracted. See `docs/references/claims/sahlins_1954_claims.md` and `docs/references/summaries/sahlins_1954_summary.md`.
+
+*Remaining sources awaiting PDFs for claims extraction*
 
 ### Stage 2: First archaeological application to Rapa Nui
 
