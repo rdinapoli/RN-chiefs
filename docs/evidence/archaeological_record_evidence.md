@@ -111,6 +111,16 @@ McCoy 1976 (south corner survey, 1,738 sites in 1,973 hectares):
 
 **Assessment**: McCoy's settlement data shows dispersed, ahu-centered communities organized around marine resources and freshwater access. The pattern is compatible with, and perhaps better explained by, resource-centered collective organization than by chiefly territorial hierarchy. McCoy himself did not interpret the pattern as evidence for a chiefdom.
 
+Stevenson 1984 (southern coastal survey, 65 ceremonial + 184 residential sites):
+- Four residential site types identified plus elite dwellings (hare paenga clusters up to 10 houses)
+- Settlement concentrated within 1 km of coast throughout all phases
+- Population growth from sparse occupation (pre-1300 AD) to peak at Phase 9-10 (~1500-1700 AD), then decline
+- "four politically autonomous groups" identified by distribution of multiple lineage centers (p. 163)
+- No competitive spacing between groups demonstrated; boundaries "not possible to draw" (p. 162)
+- Corporate group strength "relatively weak" for majority of period; "Descent groups most likely exercised a significant amount of autonomy" (p. 176)
+- All site types contemporaneous, used continuously until depopulation
+- Non-uniform distribution of garden enclosures within 1 km of coast suggests localized agricultural adaptation
+
 ### Mortuary Evidence
 
 **Chiefdom prediction**: Differential treatment reflecting hereditary ranking

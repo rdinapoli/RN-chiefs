@@ -222,6 +222,18 @@ Each entry follows this format:
 **Pipeline**: claims / summary / index
 **Notes**: Theoretical manifesto defining general vs. specific evolution. The intellectual scaffolding for Service 1962's band/tribe/chiefdom/state typology. "Chiefdom" appears exactly once (Sahlins Ch. II, p. 36) in an embryonic sketch of evolutionary stages; not elaborated. Easter Island appears 6 times, all citing Sahlins 1955: moai as "esoteric efflorescence," an adaptive specialization within a ramage organization, not evidence for chiefdom-level organization. Service's chapter (V) is about evolutionary potential, not sociopolitical typology. No Polynesian island besides Easter Island mentioned. No redistribution discussion in connection with political typology. Position in genealogy: Sahlins 1954/1958 -> **this book** -> Service 1962 -> Kirch 1984.
 
+## Stevenson 1986 ("Socio-Political Structure of the Southern Coastal Area of Easter Island")
+**File**: `pdfs/stevenson_1986/Stevenson_1986.pdf` (9pp, in Kirch ed. *Island Societies*, Cambridge)
+**Tags**: settlement-patterns, political-authority, archaeological-evidence, circularity
+**Pipeline**: claims / summary / evidence / index
+**Notes**: Published version of Stevenson 1984 dissertation, condensed from 377pp to 9pp and placed in Kirch's chiefdom-evolution volume. "Chiefdom" does NOT appear in text; Service 1962 and Kirch 1984 not cited. Same four autonomous groups, same corporate descent group framework, same Ibo analogue. But theoretical infrastructure (Fortes, Firth, Kirchhoff, Hayden & Cannon) stripped away; explicit rejection of unilinear evolution dropped; reversion to non-ranked structure reframed as "weakened" corporate solidarity. Editorial context transforms findings into chiefdom-literature contribution without authorial adoption of the label. Documents Step 3 of the circularity: independent archaeological analysis absorbed into chiefdom framework through editorial recontextualization.
+
+## Stevenson 1984 (*Corporate Descent Group Structure in Easter Island Prehistory*)
+**File**: `pdfs/stevenson_1984/Stevenson_1984.pdf` (377pp, Acrobat Paper Capture scan, re-OCR'd; full text: `Stevenson_1984_ocr.txt`)
+**Tags**: settlement-patterns, political-authority, archaeological-evidence, circularity
+**Pipeline**: claims / summary / evidence / index
+**Notes**: First corporate descent group model for Rapa Nui. Studies 65 ceremonial centers and 184 residential sites on the southern coast. Identifies four politically autonomous groups by 1600 AD that revert to non-ranked structure after 1680 AD. Does NOT use "chiefdom" as analytical category; Service 1962 not cited. Goldman 1970's "Open" classification IS engaged. Explicitly rejects unilinear evolution: "it is not assumed a priori that the prehistoric social system of Easter Island is headed full tilt on a course of increased social complexity" (p. 50). Conclusions stated as "tentative" and "preliminary propositions" (p. 20). No institutionalized rank differences found in burial data (p. 180). Population estimates of 8,927-12,000 vastly exceed current evidence (Davis et al. 2024: max ~3,900). Stevenson had chapter "In Press" for Kirch's forthcoming *Island Societies* volume, which becomes Stevenson 1986 and marks the transition to chiefdom framing. Theoretical framework from British social anthropology (Fortes, Firth) and corporate group theory (Hayden & Cannon 1982), not neoevolutionary typology.
+
 ---
 
 ## Kirch 1984 (*The Evolution of the Polynesian Chiefdoms*)

@@ -75,6 +75,46 @@ McCoy 1976 is the pivotal source. His monograph (*Easter Island Settlement Patte
 
 **The attribution gap:** The distance between what McCoy wrote and how his work was subsequently used is itself evidence of the circularity problem. McCoy's careful settlement data was later reinterpreted through Kirch's (1984) framework as confirming the chiefdom model that McCoy himself said did not develop.
 
+**Stevenson 1984** (*Corporate Descent Group Structure in Easter Island Prehistory*), Pennsylvania State University PhD dissertation:
+
+Stevenson 1984 is the first work to systematically apply a political-organizational model to Rapa Nui archaeological settlement data. However, the model applied is NOT the chiefdom typology. Key findings:
+
+1. **Service 1962 is not cited.** The band/tribe/chiefdom/state framework is entirely absent. Stevenson's theoretical framework draws on British social anthropology (Fortes 1953, Firth 1936/1957), corporate group theory (Hayden & Cannon 1982, Brown 1974), and the conical clan concept (Kirchhoff 1955). The term "chiefdom" is not used as an analytical category.
+
+2. **Goldman 1970 IS engaged** (pp. 16, 178). Stevenson cites Goldman for the dual status system: hereditary chiefs had sacred but not secular authority; warrior chiefs (matatoa) controlled positions of force. This contrasts with Kirch 1984, who includes Goldman's "Open" classification in Table 2 but never engages with it.
+
+3. **Four politically autonomous groups** are identified by Phase 9 (1501-1600 AD), persisting until Phase 11 (p. 163). These are NOT hierarchically organized relative to each other.
+
+4. **No institutionalized rank differences**: "each of these groups does not exhibit internal or between group differences in ascribed social rank" (p. 180). Burial data from semipyramidal interment structures show "none of the data indicates the possibility of social ranking" (p. 161).
+
+5. **System reverted to non-ranked structure** after ~1680 AD: "the ranked corporate descent group structure is not present... reverted to a non-ranked corporate structure" (p. 168).
+
+6. **Explicit rejection of unilinear evolution**: "it is not assumed a priori that the prehistoric social system of Easter Island is headed full tilt on a course of increased social complexity, but that it may adopt alternate forms of social structure as conditions dictate" (p. 50).
+
+7. **Multiple hedging statements**: Conclusions are "tentative in nature and require verification through future research" (p. 20); the model is "preliminary" and "needs to be evaluated by additional research" (p. 181).
+
+**The progressive hardening problem:** The 1984 dissertation describes autonomous, non-hierarchical descent groups and explicitly avoids the chiefdom framework. By 1986 (Stevenson's chapter in Kirch's *Island Societies*), the same data is reframed within a chiefdom context. By later publications (Stevenson 1997, 2002), the "Chiefdom Integration" periodization (AD 1425-1680) becomes established terminology. This trajectory parallels the Sahlins 1954-to-1958 hardening: tentative, qualified findings are progressively stripped of caveats and absorbed into a framework the original author did not use.
+
+**Stevenson 1986** ("The Socio-Political Structure of the Southern Coastal Area of Easter Island: AD 1300-1864," in Kirch ed. *Island Societies*, pp. 69-77):
+
+Stevenson 1986 documents the critical transition between the independent corporate group analysis (1984) and its absorption into the chiefdom framework. The chapter is the 1984 dissertation condensed to 9 pages and placed in Kirch's programmatic volume on evolutionary approaches to island societies. Key findings for the chiefdom attribution chain:
+
+1. **"Chiefdom" still absent from Stevenson's text.** Service 1962 and Kirch 1984 are not cited. The analytical framework remains corporate descent groups; the term "chiefdom" does not appear on any of the 9 pages. Stevenson did not adopt the chiefdom label.
+
+2. **But the theoretical infrastructure that made this an alternative is stripped away.** The 1984 dissertation was grounded in British social anthropology (Fortes, Firth) and corporate group archaeology (Hayden & Cannon), constituting a principled intellectual alternative to the Sahlins-Service-Kirch framework. In 1986, every one of these theoretical citations is absent. The method survives; the theory that positioned it as an alternative does not.
+
+3. **Strongest anti-chiefdom commitments dropped.** The 1984 statement that "it is not assumed a priori that the prehistoric social system of Easter Island is headed full tilt on a course of increased social complexity" (p. 50) is absent. The three-model framework (organizational alternatives, not evolutionary stages) is absent. The "tentative in nature and require verification" caveat is absent.
+
+4. **Reversion reframed as weakening.** The 1984 finding that the system "reverted to a non-ranked corporate structure" (p. 168) becomes "corporate solidarity of these communities had been weakened" (p. 77). Structural flexibility (the system can adopt simpler forms) becomes degradation (the system declined).
+
+5. **Editorial context does the reframing.** The volume title (*Island Societies: Archaeological Approaches to Evolution and Transformation*), Kirch's editorship, and Cambridge University Press positioning transform the reader's interpretation of the data. Four autonomous groups become chiefdom-level polities; Type 1 ahu become chiefly centers; the late-period "weakening" becomes chiefdom collapse. None of these readings are in Stevenson's text; the volume's framing invites them.
+
+6. **Four autonomous groups and no higher-level integration retained.** "Whether these groups were integrated at a higher level has not been detected archaeologically within the study area" (p. 77). This hedge survives and directly contradicts the chiefdom interpretation's assumption of supra-local authority.
+
+7. **Ibo analogue retained over Polynesian models.** Stevenson explicitly states that Polynesian ethnographic data are "limited and often anecdotal" (p. 70) and selects an African corporate group case study instead. This is a deliberate rejection of Polynesian chiefdom models as the interpretive frame, retained from 1984.
+
+**The progressive hardening trajectory:** The 1984-to-1986 transition is the first step in a three-stage hardening: tentative corporate group analysis (1984) -> editorial reframing within chiefdom volume (1986) -> "Chiefdom Integration" periodization (Stevenson 1997, 2002). By the late 1990s, the "Chiefdom Integration" phase (AD 1425-1680) becomes established terminology for the period that the 1984 dissertation described using non-chiefdom, non-evolutionary corporate group models. This parallels the Sahlins 1954-to-1958 hardening but operates through editorial context and selective attrition rather than the author's own theoretical shift.
+
 ### Stage 3: Kirch's comprehensive evolutionary framework
 
 **Kirch 1984 processed** (2026-03-16): *The Evolution of the Polynesian Chiefdoms*, Cambridge University Press, 312 pp. Full claims extraction: `docs/references/claims/kirch_1984_claims.md` (121 claims).

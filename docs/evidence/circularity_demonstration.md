@@ -40,6 +40,20 @@ All evidence files feed into this one. Key passages needed from: Kirch 1984, McC
 
 (Specific publications where the model is applied to Rapa Nui)
 
+**Stevenson 1984 as counter-example within Step 3:** Stevenson's 1984 dissertation represents an important counter-example: the first systematic archaeological model for Rapa Nui political organization that does NOT import the Polynesian chiefdom framework. Service 1962 is absent from the bibliography. The theoretical framework draws on British social anthropology (Fortes) and corporate group archaeology (Hayden & Cannon), not on Sahlins/Service neoevolutionary typology. However, by 1986 (Stevenson's chapter in Kirch's *Island Societies*), the same data was absorbed into the chiefdom framework. The transition from the 1984 dissertation to the 1986 published chapter documents the moment when an independent archaeological analysis was reframed to fit Polynesian chiefdom expectations, making it a direct illustration of Step 3 in action.
+
+**The Stevenson 1984-to-1986 transition: Step 3 documented in detail.** Processing Stevenson 1986 (90 claims) against the 1984 baseline (95 claims) reveals the specific mechanism by which an independent analysis is absorbed into the chiefdom framework. The transition operates through four changes:
+
+(1) **Decontextualization**: The theoretical citations that positioned corporate group analysis as an alternative to neoevolutionary typology (Fortes 1953/1959, Firth 1936/1957, Kirchhoff 1955, Hayden & Cannon 1982, Fried 1957) are all absent from 1986. The method survives; the intellectual tradition that made it a principled alternative does not.
+
+(2) **Recontextualization**: The same findings appear in Kirch's *Island Societies: Archaeological Approaches to Evolution and Transformation* (Cambridge, 1986). The volume's title, editor, and organizing framework position the data within the chiefdom-evolution literature. A reader encountering "four politically autonomous groups" in this volume reads them as four chiefdom-level polities, even though Stevenson's text says nothing of the kind.
+
+(3) **Selective attrition of anti-chiefdom commitments**: The 1984 dissertation contained six major anti-evolutionary/anti-chiefdom statements: (a) explicit rejection of unilinear evolution; (b) three models as alternatives, not stages; (c) conclusions "tentative in nature"; (d) model "needs to be evaluated"; (e) boundaries cannot be drawn; (f) arbitrary political divisions "probably misleading." Of these, only detail-level hedging survives in 1986 ("preliminary," "hypothesized," "tentative"). The framework-level commitments that distinguish the corporate group approach from the chiefdom approach are absent.
+
+(4) **Reversion reframed as weakening**: The 1984 finding that the system "reverted to a non-ranked corporate structure" (p. 168, a finding directly incompatible with chiefdom models of progressive complexity) becomes "corporate solidarity weakened" (p. 77 of 1986). Structural flexibility becomes degradation. This subtle shift makes the late-period data compatible with a chiefdom-collapse narrative rather than challenging evolutionary expectations.
+
+Critically, "chiefdom" does not appear in Stevenson's 1986 text. Service 1962 and Kirch 1984 are not cited. The interpretive drift does not require the author's adoption of the chiefdom label; it requires only that the editorial context transform how the findings are read. This is the most common mechanism by which Step 3 operates: not through explicit theoretical conversion, but through the publication apparatus of edited volumes, prestige presses, and disciplinary framing.
+
 ### Step 4: Expectations Satisfied at General Level
 
 **What happened**: The expectations are framed at a level of generality that the record always satisfies (there are ahu, moai, differential site elaboration).
