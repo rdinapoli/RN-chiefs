@@ -2,9 +2,9 @@
 
 ## Current Phase
 
-**Phase 1: Foundation** (active)
+**Phase 2: Post-Métraux Literature** (active, 2026-03-16)
 
-Contact-era accounts claims extraction complete, including Cook's own narrative (2026-03-13). Second-pass review of all pre-slave-raid accounts complete (2026-03-13). Post-slave-raid early sources (Altman 2004 compilation) processed (2026-03-13): Eyraud 1864, Roussel 1869, Loti 1872, Pinart 1877. Thompson 1891 processed (2026-03-14). Geiseler 1883 processed from German original (2026-03-14). Routledge 1919 processed (2026-03-14). Métraux 1937, 1940, 1957 processed (2026-03-15). Eleven post-raid claims files, eleven summaries, INDEX.md updated, ethnographic_sources_evidence.md populated with all sources through Métraux 1957. Narrative construction analysis (1722-1957) complete (2026-03-15): chronological register of all 14 sources, seven analytical threads, five-step circularity mapping, honest complications. Immediate next steps: (1) Acquire Geiseler 1883 (Ayres & Ayres 1995 English translation) for cross-check. (2) Process chiefdom-attribution sources (Kirch, Sahlins) when PDFs are provided. (3) Begin manuscript drafting for Sections III and IV using narrative construction analysis as foundation.
+Contact-era and post-slave-raid ethnographic sources fully processed (Eras 0-1, 21 sources through Métraux 1957). Master bibliography checklist created (`docs/working/bibliography_checklist.md`) covering 82 sources across 8 chronological eras. Batch 1 (in-repo PDFs) complete: 11 of 12 sources processed through full pipeline on 2026-03-16. Total: 32 sources processed, 31 claims files, 27 summaries, 5 evidence files populated. DiNapoli et al. 2021 (Sustainability) PDF not on disk, needs re-adding. Next: Batch 2 (Rull & Stevenson 2022, Englert 1948, Geiseler English translation) and Batch 3 (Kirch 1984, Kirch 2010, Sahlins 1958, and other acquisitions).
 
 ## PDF Inventory
 
@@ -12,9 +12,9 @@ Contact-era accounts claims extraction complete, including Cook's own narrative 
 
 | Filename | Version | Pipeline |
 |----------|---------|----------|
-| `kirch_1984_relevant_chs.pdf` | | pending |
+| `kirch_1984_relevant_chs.pdf` | | pending (user acquiring) |
 | `kirch_2010_relevant_chs.pdf` | | pending |
-| `mccoy_1976.pdf` | scan, transferred from RN-IIM | pending |
+| `mccoy_1976.pdf` | scan, transferred from RN-IIM | **claims + summary + evidence + index** |
 | `sahlins_1958_relevant_chs.pdf` | | pending |
 | `sahlins_1963.pdf` | | pending |
 
@@ -33,14 +33,14 @@ Contact-era accounts claims extraction complete, including Cook's own narrative 
 
 | Filename | Version | Pipeline |
 |----------|---------|----------|
-| `dinapoli_et_al_2019.pdf` | published, transferred from RN-IIM | pending |
-| `dinapoli_et_al_2020.pdf` | published, transferred from RN-IIM | pending |
-| `dinapoli_et_al_sustainability_2021.pdf` | published, transferred from RN-IIM | pending |
-| `lipo_et_al_2013.pdf` | published, transferred from RN-IIM | pending |
-| `lipo_et_al_2025.pdf` | published, transferred from RN-IIM | pending |
-| `moreno-mayar_et_al_2024.pdf` | published, transferred from RN-IIM | pending |
-| `davis_et_al_2024.pdf` | published, transferred from RN-IIM | pending |
-| `mulrooney_2013.pdf` | published, transferred from RN-IIM | pending |
+| `dinapoli_et_al_2019.pdf` | published, transferred from RN-IIM | **claims + summary + evidence + index** |
+| `dinapoli_et_al_2020.pdf` | published, transferred from RN-IIM | **claims + summary + evidence + index** |
+| `dinapoli_et_al_sustainability_2021.pdf` | NOT ON DISK (gitignored, needs re-adding) | pending |
+| `lipo_et_al_2013.pdf` | published, transferred from RN-IIM | **claims + summary + index** |
+| `lipo_et_al_2025.pdf` | published, transferred from RN-IIM | **claims + summary + evidence + index** |
+| `moreno-mayar_et_al_2024.pdf` | published, transferred from RN-IIM | **claims + summary + evidence + index** |
+| `davis_et_al_2024.pdf` | published, transferred from RN-IIM | **claims + summary + evidence + index** |
+| `mulrooney_2013.pdf` | published, transferred from RN-IIM | **claims + summary + evidence + index** |
 | `hunt_lipo_2011_relevant_chs.pdf` | | pending |
 | `dinapoli_et_al_2021_jpa.pdf` | | pending |
 
@@ -48,9 +48,9 @@ Contact-era accounts claims extraction complete, including Cook's own narrative 
 
 | Filename | Version | Pipeline |
 |----------|---------|----------|
-| `haoa_et_al_2017.pdf` | published, transferred from RN-IIM | pending |
-| `pollard_et_al_2010.pdf` | published, transferred from RN-IIM | pending |
-| `robinson_stevenson_2017.pdf` | published, transferred from RN-IIM | pending |
+| `haoa_et_al_2017.pdf` | published, transferred from RN-IIM | **claims + summary + index** |
+| `pollard_et_al_2010.pdf` | published, transferred from RN-IIM | **claims + summary + index** |
+| `robinson_stevenson_2017.pdf` | published, transferred from RN-IIM | **claims + summary + index** |
 
 ### Priority 4: Comparative and critical literature
 
@@ -84,8 +84,9 @@ Contact-era accounts claims extraction complete, including Cook's own narrative 
 |------|--------|-------|---------------------|
 | `contact_accounts_evidence.md` | **populated (second-pass complete)** | ~330 | Roggeveen 1722, González 1770, Cook 1774, La Pérouse 1786, Richards 2008 |
 | `ethnographic_sources_evidence.md` | **populated (11 post-raid sources)** | ~430 | Eyraud 1864, Roussel 1869, Loti 1872, Pinart 1877, Geiseler 1883, Thompson 1891, Routledge 1919, Métraux 1937, Métraux 1940, Métraux 1957 |
-| `polynesian_analogy_evidence.md` | skeleton | 0 | none |
-| `archaeological_record_evidence.md` | skeleton | 0 | none |
+| `polynesian_analogy_evidence.md` | skeleton | 0 | none (awaiting Kirch 1984, Sahlins 1958) |
+| `archaeological_record_evidence.md` | **populated (7 categories)** | ~200+ | McCoy 1976, Lipo et al. 2013, DiNapoli et al. 2019, DiNapoli et al. 2020, Lipo et al. 2025, Mulrooney 2013, Davis et al. 2024, Moreno-Mayar et al. 2024 |
+| `chiefdom_attribution_evidence.md` | **populated (Stages 2, 5)** | ~150+ | McCoy 1976, Robinson & Stevenson 2017, Pollard et al. 2010, plus all Batch 1 sources |
 | `circularity_demonstration.md` | skeleton | 0 | none |
 
 ## Manuscript Status
@@ -118,7 +119,9 @@ Contact-era accounts claims extraction complete, including Cook's own narrative 
 
 - **~~Cook 1846 compilation PDF missing from repo~~**: RESOLVED (2026-03-13). Cook 1846 Vol. I added to repo root (`Cook-1876-TheVoyagesOfCaptainCookRoundTheWorld.pdf`). Easter Island pages (PDF pp. 477-495) OCR'd at 300 DPI; OCR text at `docs/references/pdfs/european_accounts/03_cook_1774/cook_1846_easter_island_ocr.txt`. Claims and summary files updated with Cook's own narrative. Note: the 1846 compiled edition, not the Beaglehole (1961) scholarly edition. Cross-reference with Beaglehole advisable for critical passages when available.
 - **Jakubowska papers: verify completeness**: Jakubowska's translation analyses are critical for assessing the reliability of Corney's English translations of the primary accounts. We have 5 unique Jakubowska works in the repo (Behrens 2012, Spanish expedition 2014, Forster RNJ article 2014, *Still More to Discover* book 2014, Jakubowska-Vorbrich 2019). Check whether she has published additional analyses of (a) Corney's Roggeveen translations or (b) any other contact-era translation issues beyond what we have. Her González paper was pivotal; comparable work on the Dutch or Cook translations would be equally important.
-- **Book access needed**: Kirch 1984 (*Evolution of the Polynesian Chiefdoms*), Kirch 2010 (*How Chiefs Became Kings*), and Sahlins 1958 (*Social Stratification in Polynesia*) are the highest-priority book sources. Ask user about physical/digital/institutional access when ready to begin Phase 2.
+- **Kirch 1984**: User acquiring PDF. This is the single most important unprocessed source: defines the Polynesian chiefdom model that is then applied to Rapa Nui. Ready to process as soon as PDF is in repo.
+- **Book access still needed**: Kirch 2010 (*How Chiefs Became Kings*) and Sahlins 1958 (*Social Stratification in Polynesia*).
+- **DiNapoli et al. 2021 (Sustainability)**: PDF not on disk (was gitignored, not present locally). User needs to re-add.
 - **Englert access**: Need to determine which edition is appropriate and how to acquire it.
 - **~~Thompson 1891~~**: RESOLVED (2026-03-14). PDF moved to `docs/references/pdfs/post_slave_raid/thompson_1891/`. Full pipeline complete. Key findings: "arbitrary monarchy" framing undercut by Thomson's own qualifications (no tax, no homage, independent clans); 57-king list irreconcilable with Roussel's 22 generations; tangata manu "no especial authority" contradicts Roussel.
 - **Geiseler 1883 (SMS Hyäne visit)**: CRITICAL GAP. Geiseler visited September 1882 (report published 1883), between Pinart 1877 (population nadir, "no memory at all") and Thomson 1886 (elaborate traditions, 57-king list). Original German text (97pp, Fraktur OCR) downloaded from Internet Archive; initial extraction in progress. English translation: Ayres & Ayres 1995, *Geiseler's Easter Island Report*, University of Hawaii Press, Asian and Pacific Archaeology Series 12. **User looking for English translation PDF through university library.** Key early finding: Salmon was translator for BOTH Geiseler (1882) and Thomson (1886), meaning convergence between accounts may reflect Salmon's framework rather than independent traditions.
@@ -139,3 +142,4 @@ Contact-era accounts claims extraction complete, including Cook's own narrative 
 | 2026-03-14 | Thompson 1891 processed through full pipeline. PDF moved to `docs/references/pdfs/post_slave_raid/thompson_1891/`. Claims file (9 sections, all [POST-RAID] flagged), summary, evidence integration, INDEX entry. Key findings: "arbitrary monarchy" contradicted by own qualifications (no tax, no homage, independent clans); 57-king list irreconcilable with Roussel's 22; tangata manu "no especial authority" contradicts Roussel. Gap identified: Geiseler 1883 (SMS Hyäne visit, 1882) is between Pinart 1877 and Thomson 1886 and not in repo. Ayres & Ayres 1995 English translation needed. |
 | 2026-03-15 | Métraux 1937, 1940, 1957 processed through full pipeline. Three claims files, three summaries, evidence file updated, INDEX entries added. Key findings: ariki-mau "certainly not a ruler or civilian chief"; Roussel's "absolute power" an "entirely gratuitous assumption"; king list comparison (Table 2) shows only 7/~80 names common across four lists; matatoa as "actual rulers"; feast-sponsorship model of monument production; food flows elite-to-elite, not centralized redistribution. |
 | 2026-03-15 | Narrative construction analysis (1722-1957) completed at `docs/working/narrative_construction_analysis.md`. Chronological register of all 14 sources from Roggeveen through Métraux. Seven analytical threads: paradox of increasing elaboration, first-appearance timeline of chiefdom elements, Salmon effect, succession rule test, Routledge/Métraux paradox, property without redistribution, religious vacuum. Mapping to five-step circularity. Six honest complications addressed. All 20 claims files consulted; existing evidence file and second-pass analysis incorporated. |
+| 2026-03-16 | Master bibliography checklist created (`docs/working/bibliography_checklist.md`): 82 sources across 8 chronological eras (1722-2025) plus theoretical/epistemological. Chiefdom attribution evidence file created (`docs/evidence/chiefdom_attribution_evidence.md`). Batch 1 (in-repo PDFs) processed: McCoy 1976, Pollard et al. 2010, Lipo et al. 2013, Mulrooney 2013, Haoa et al. 2017, Robinson & Stevenson 2017, DiNapoli et al. 2019, DiNapoli et al. 2020, Davis et al. 2024, Moreno-Mayar et al. 2024, Lipo et al. 2025. Total: 11 new claims files, 11 new summaries. Evidence files populated with sourced, page-numbered claims across all 7 archaeological evidence categories. KEY FINDINGS: (1) McCoy 1976 concluded chiefdom was "retarded" by warrior class, not confirmed (p. 145); (2) Robinson & Stevenson 2017 admit paramountcy "not discovered archaeologically" (p. 90); (3) Mulrooney 2013 shows settlement continuity, not collapse; (4) DiNapoli 2019 shows ahu placement by freshwater, not territories; (5) Lipo 2013 shows 18-person moai transport; (6) Lipo 2025 shows decentralized quarry production; (7) DiNapoli 2020 shows steady ahu tempo through contact; (8) Davis 2024 shows rock gardens 1/5 prior estimates; (9) Moreno-Mayar 2024 aDNA rejects population collapse. DiNapoli 2021 Sustainability PDF not on disk. |

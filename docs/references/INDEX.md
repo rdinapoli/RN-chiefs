@@ -177,3 +177,71 @@ Each entry follows this format:
 **Tags**: (book review, not processed)
 **Pipeline**: index only
 **Notes**: Book review of Mieth & Bork ecology book. Not a primary source; filed but not processed through pipeline.
+
+---
+
+## McCoy 1976 (*Easter Island Settlement Patterns*)
+**File**: `mccoy_1976.pdf`
+**Tags**: settlement-patterns, chiefdom-attribution, archaeological-evidence, circularity
+**Pipeline**: claims / summary / evidence / index
+**Notes**: First comprehensive settlement pattern analysis for Rapa Nui. Often miscited as applying chiefdom framework; McCoy actually concluded chiefdom development was "retarded" by warrior class ascendancy (p. 145). Explicitly projects ethnohistoric data back in time as interpretive baseline (p. 70), documenting the circularity this paper identifies. Describes ranked society under stress, not a consolidated chiefdom. Notable: Sahlins himself treated Easter Island as an exception to his model (p. 152). Anticipates DiNapoli et al. 2019 freshwater-settlement finding (p. 142).
+
+## Robinson & Stevenson 2017 ("The Cult of the Birdman: religious change at 'Orongo, Rapa Nui")
+**File**: `robinson_stevenson_2017.pdf`
+**Tags**: archaeological-evidence, political-authority, contact-era, circularity
+**Pipeline**: claims / summary / index
+**Notes**: Reassesses 'Orongo chronology using radiocarbon and obsidian hydration data. Conventional date of c. AD 1540 for stone house construction rests on unreliable bulk charcoal; revised timeline places peak activity at AD 1795 and hypothesized house construction c. AD 1800. Birdman Cult formalization is a contact-period phenomenon. Paramountcy "has not been discovered archaeologically or reported in the ethnohistoric oral history" (p. 90). Causal chain from ecological stress to cult emergence acknowledged as lacking empirical support. Relies on Metraux 1940 (post-slave-raid) for political characterization without critical assessment.
+
+## Pollard et al. 2010 ("*Te Miro o'one*: the archaeology of contact on Rapa Nui")
+**File**: `pollard_et_al_2010.pdf`
+**Tags**: contact-era, archaeological-evidence, political-authority, circularity
+**Pipeline**: claims / summary / index
+**Notes**: Archaeology of European contact, 1722-1868. Key claims: birdman cult (*tangata manu*) replaced hereditary chiefly authority with performative warrior-leadership (p. 566); 'Orongo chronology insecure, stone structures potentially post-contact (p. 567); moai toppling may be contact-driven, triggered by Gonzalez 1770 visit (p. 569); geographic differentiation in rock art suggests competing groups, not unified polity (p. 574); total European contact before 1795 was approximately two weeks over 80 years (p. 567). Does not present new data but reinterprets existing material within contact-archaeology framework.
+
+## DiNapoli et al. 2019 ("Rapa Nui monument (*ahu*) locations explained by freshwater sources")
+**File**: `dinapoli_et_al_2019.pdf`
+**Tags**: own-work, archaeological-evidence, settlement-patterns, collective-action
+**Pipeline**: claims / summary / index
+**Notes**: First formal spatial analysis of ahu placement relative to subsistence resources. Point-process modeling demonstrates ahu locations are most parsimoniously explained by proximity to freshwater sources (coastal groundwater seeps) and the coastline. Rock mulch gardens do not predict ahu locations; marine resource correlation is spurious once coastline and freshwater are accounted for. Challenges Kirch's marine-control and Stevenson's agricultural-territory interpretations. Framed through community-level costly signaling theory, not chiefly command. Monument construction did not require large labor forces.
+
+## DiNapoli et al. 2020 ("A model-based approach to the tempo of 'collapse': The case of Rapa Nui")
+**File**: `dinapoli_et_al_2020.pdf`
+**Tags**: own-work, archaeological-evidence, monument-production, data-quality, critique
+**Pipeline**: claims / summary / index
+**Notes**: First formal Bayesian chronological model for ahu construction timing using tempo plots (Dye 2016). Integrates radiocarbon dates from 11 platform ahu with architectural stratigraphy. Central finding: ahu construction began early 14th to mid-15th centuries AD and continued at a steady rate through European contact in 1722 and into the post-contact era. No evidence for pre-contact cessation. Provides "important falsifying evidence that directly challenges core components of Rapa Nui's collapse narrative." Previous chronologies based on ad hoc SPD interpretation, not formal models. Tempo shows rapid onset then steady activity, not escalating competition followed by collapse. Construction framed as group-level community activity, not chiefly command.
+
+## Mulrooney 2013 ("An island-wide assessment of the chronology of settlement and land use on Rapa Nui")
+**File**: `mulrooney_2013.pdf`
+**Tags**: archaeological-evidence, settlement-patterns, data-quality, critique
+**Pipeline**: claims / summary / index
+**Notes**: First island-wide radiocarbon chronology assessment for Rapa Nui (313 dates from archaeological contexts). Central finding: settlement and land use show continuity, not collapse. Inland agricultural areas (1-3.5 km from coast) were not abandoned prior to European contact, contradicting the collapse scenario tied to the "breakdown of the chiefly economy." Demonstrates calibration curve effects can mimic cultural disruption. Documents severe coastal sampling bias (72.8% of dates within 500 m of coast). Previous chronological models (including Stevenson's "Chiefdom Integration" phase) built on uncritically assessed dates. Settlement by at least AD 1200, broadly consistent with late colonization model.
+
+## Lipo et al. 2013 ("The 'Walking' Megalithic Statues of Easter Island")
+**File**: `lipo_et_al_2013.pdf`
+**Tags**: own-work, monument-production, collective-action, archaeological-evidence
+**Pipeline**: claims / summary / index
+**Notes**: Walking moai experiment. Demonstrates vertical transport of a 4.35-ton scaled replica by 18 people with three ropes. Archaeological analysis of 62 road moai shows systematic shape differences from ahu moai consistent with engineering for vertical transport. Concave road cross-sections rule out rollers. Directly undermines the claim that moai transport required large labor forces under chiefly command: "activities by small-scale social groups rather than the product of laborers unified under a powerful centralized chiefdom" (p. 2866). No timber required; severs deforestation link. Scaling argument: larger moai proportionally easier to walk.
+
+## Lipo et al. 2025 ("Megalithic statue (*moai*) production on Rapa Nui (Easter Island, Chile)")
+**File**: `lipo_et_al_2025.pdf`
+**Tags**: own-work, monument-production, collective-action, archaeological-evidence
+**Pipeline**: claims / summary / index
+**Notes**: First comprehensive 3D photogrammetric documentation of Rano Raraku quarry (11,686 UAV images, sub-cm resolution). Identifies 30 distinct quarrying foci with redundant production features and varied carving methods (face-outline, block, lateral), consistent with contemporaneous operation by multiple autonomous groups. Physical constraints limited active carvers to 4-6 per moai. Workshop boundaries follow natural bedrock features, not imposed barriers: no evidence of restricted access or centralized management. Standardized moai forms coexisted with organizational autonomy, demonstrating cultural convergence through horizontal information sharing without hierarchical oversight. Extends evidence for decentralized, clan-based organization from settlement, transport, and lithic patterns to the island's primary production center. "These findings challenge assumptions that monumentality requires hierarchical control" (p. 1).
+
+## Davis et al. 2024 ("Island-wide characterization of agricultural production challenges the demographic collapse hypothesis for Rapa Nui")
+**File**: `davis_et_al_2024.pdf`
+**Tags**: own-work, archaeological-evidence, settlement-patterns, critique
+**Pipeline**: claims / summary / index
+**Notes**: SWIR satellite imagery and machine learning classification of rock garden extent. Rock gardens cover 0.76 km^2, approximately one-fifth of the most conservative prior estimate (Ladefoged et al. 2013). Maximum population supportable by rock gardening drops from ~17,000 to ~3,900; average carrying capacity ~2,000, rising to ~3,000 with marine and non-mulched foods. Matches contact-era population estimate of ~3,000. Directly challenges Malthusian overshoot/ecocide narrative: agricultural base was never extensive enough to support the large populations the collapse model requires. Rock gardens concentrated in coastal areas, not spread across interior under chiefly administration.
+
+## Haoa Cardinali et al. 2017 (eds.) (*Cultural and Environmental Change on Rapa Nui*)
+**File**: `haoa_et_al_2017.pdf`
+**Tags**: archaeological-evidence, settlement-patterns, contact-era, political-authority, monument-production, circularity
+**Pipeline**: claims / summary / index
+**Notes**: Routledge edited volume (11 chapters). Key chapters: Boersema (Ch. 8) systematically reviews all four 18th-century expedition accounts and finds no evidence of collapse, warfare, or starvation; Richards (Ch. 9) documents prosperous whaling-era trade (1805-1862) and references to "King" and "chiefs"; Vogt and Kuhlem (Ch. 6) interpret Ava Ranga Uka A Toroke Hau as elite-controlled ritual complex (using Metraux 1940 analogy); Lee et al. (Ch. 7) assume chiefly command of monument construction as premise for pukao analysis; editors' reflections (Ch. 11) explicitly acknowledge collapse framework shapes interpretation of Orongo, ana kionga, and mata'a without adequate evidence.
+
+## Moreno-Mayar et al. 2024 ("Ancient Rapanui genomes reveal resilience and pre-European contact with the Americas")
+**File**: `moreno-mayar_et_al_2024.pdf`
+**Tags**: archaeological-evidence, data-quality, critique
+**Pipeline**: claims / summary / index
+**Notes**: First high-quality ancient whole-genome data from Rapa Nui (15 individuals, 0.4-25.6x, 1670-1950 CE). Multiple genomic analyses (HapNe-LD, coalescent simulations, ROH distributions) reject a 1600s population collapse. Population grew steadily from founding bottleneck through European contact. Contact-era estimates of 1,500-3,000 consistent with gradual growth, not post-collapse remnant. ~10% Native American admixture in both ancient and modern Rapanui dated to 1250-1430 CE (pre-European). No European admixture in ancient individuals. Late colonization (~1200-1250 CE) confirmed by independent genetic evidence. Directly undermines ecocide narrative; indirectly challenges demographic basis for chiefdom attribution.
