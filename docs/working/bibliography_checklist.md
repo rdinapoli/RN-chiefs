@@ -54,11 +54,14 @@ All sources except Englert 1948 have been processed through the full pipeline.
 | # | Citation | Relevance | Category | In repo? | Pipeline | Priority | Notes |
 |---|----------|-----------|----------|----------|----------|----------|-------|
 | 23 | Sahlins 1954/1958, *Social Stratification in Polynesia* | Established Polynesia as chiefdom paradigm; positioned Rapa Nui on stratification gradient (Group IIa). 1954 dissertation processed in full (464pp); 1958 is published version. | Polynesian chiefdom framework | **yes** (1954 dissertation: `pdfs/sahlins_1954/Sahlins_1954.pdf`) | **complete** | critical | Full dissertation read chapter by chapter. 133 claims extracted. Easter Island section relies entirely on post-raid sources; redistribution gap filled by analogy. |
+| 23b | Sahlins 1955, "Esoteric Efflorescence in Easter Island" (*AA* 57:1045-1052) | Only Sahlins article entirely on Easter Island. Environmental channeling hypothesis: moai as redirection of communal labor. Stone carver passage (Metraux p. 137) describes lineage-level commissioning. Redistribution asserted flatly; dissertation qualifications stripped. | Polynesian chiefdom framework | **yes** (`pdfs/sahlins_1955/Sahlins_1955.pdf`) | **complete** | important | Processed 2026-03-16. Key finding: environmental channeling argument more compatible with collective action than chiefly command. |
+| 23c | Sahlins 1957, "Differentiation by Adaptation in Polynesian Societies" (*JPS* 66:291-300) | Published journal version of dissertation Part Two (form of organization only). Easter Island: 3 mentions, no political analysis, no data gaps. Ramage classification and ecological anomaly retained; all other qualifications absent. | Polynesian chiefdom framework | **yes** (`pdfs/sahlins_1957/Sahlins_1957.pdf`) | **complete** | important | Processed 2026-03-16. Comparison with 1954 dissertation complete. |
+| 23d | Sahlins & Service (eds.) 1960, *Evolution and Culture* | Theoretical manifesto defining general vs. specific evolution. Intellectual scaffolding for Service 1962's typology. "Chiefdom" appears once (p. 36), not elaborated. Easter Island 6 mentions, all citing Sahlins 1955: moai as adaptive specialization within ramage. Service's chapter has no sociopolitical typology. | Neoevolutionary theory | **yes** (`pdfs/sahlins_service_1960/Sahlins_Service_1960.pdf`) | **complete** | important | Processed 2026-03-16. 31 claims. Bridge between Sahlins's Polynesian work and Service 1962 typology. |
 | 24 | Heyerdahl & Ferdon (eds.) 1961, *Reports of the Norwegian Archaeological Expedition to Easter Island*, Vol. 1 | First systematic excavations; 3-phase cultural chronology; chapters by Mulloy, Ferdon, Smith, Skjølsvold | Rapa Nui archaeological | **NO** | not started | important | Multiple authors; need to determine which chapters are relevant |
-| 25 | Service 1962, *Primitive Social Organization* | Defined the chiefdom typology; foundational for the concept everyone uses | Polynesian chiefdom framework | in `papers_config.json` | not started | important | For Section II (chiefdom concept genealogy) |
-| 26 | Sahlins 1963, "Poor Man, Rich Man, Big Man, Chief" | Big-man vs. chief distinction; Melanesia-Polynesia contrast | Polynesian chiefdom framework | in `papers_config.json` | not started | important | |
+| 25 | Service 1962, *Primitive Social Organization* | Formalizes band/tribe/chiefdom/state as universal stages. Chiefdom = "redistributional societies with a permanent central agency of coordination" (p. 144). Easter Island NEVER MENTIONED. Polynesia is paradigmatic chiefdom region but only Hawaii, Tahiti, Tonga, Maori, Samoa cited. Easter Island fails every defining criterion. | Polynesian chiefdom framework | **yes** (`pdfs/service_1962/Service_1962.pdf`) | **complete** | **critical** | Processed 2026-03-16. 42 claims. The feedback loop: Sahlins -> Service -> Kirch. Completes the conceptual infrastructure for the chiefdom attribution. |
+| 26 | Sahlins 1963, "Poor Man, Rich Man, Big Man, Chief" | Big-man vs. chief distinction; places all Polynesia on "chief" side by default. Easter Island mentioned once (geographic boundary), never analyzed. "Polynesian chief" built from Hawaii/Tahiti/Tonga. Service 1962 "in press." | Polynesian chiefdom framework | **yes** (`pdfs/sahlins_1963/Sahlins_1963.pdf`) | **complete** | important | Processed 2026-03-16. 40 claims. Key finding: Easter Island's matatoa system fits "big-man" pattern better than the "chief" type Sahlins describes. |
 | 27 | Heyerdahl & Ferdon (eds.) 1965, *Reports*, Vol. 2 | Additional analyses from Norwegian expedition | Rapa Nui archaeological | **NO** | not started | supplementary | Lower priority than Vol. 1 |
-| 28 | Goldman 1970, *Ancient Polynesian Society* | Status rivalry framework; classified Rapa Nui as "open society" (not "traditional" or "stratified") | Polynesian chiefdom framework | **NO** | not started | important | Goldman's "open" classification significant for argument |
+| 28 | Goldman 1970, *Ancient Polynesian Society* | Status rivalry framework; classified Rapa Nui as "Open" society that "had never evolved a central authority" (p. 94). Redistribution lay with commoner heads, not ariki mau (pp. 114-115). No central authority ever undertook local monument construction (pp. 106-107). | Polynesian chiefdom framework | **yes** (`pdfs/goldman_1970/Goldman_1970.pdf`) | **complete** | **critical** | Full 632-page book processed 2026-03-16. 141 claims extracted. Goldman's "Open" classification is the counter-voice to Sahlins Group IIA and Kirch's APS inheritance argument. Kirch included Goldman in Table 2 (p. 37) but never engaged with it. |
 
 ---
 
@@ -78,7 +81,7 @@ All sources except Englert 1948 have been processed through the full pipeline.
 | # | Citation | Relevance | Category | In repo? | Pipeline | Priority | Notes |
 |---|----------|-----------|----------|----------|----------|----------|-------|
 | 33 | Cristino et al. 1981, *Atlas Arqueológico de Isla de Pascua* | Comprehensive island-wide archaeological survey | Rapa Nui archaeological | **NO** | not started | supplementary | Data resource, not a chiefdom argument |
-| 34 | **Kirch 1984, *Evolution of the Polynesian Chiefdoms*** | **THE key source: first comprehensive archaeological chiefdom framework for Polynesia; Rapa Nui positioned within it** | chiefdom-attribution | **NO** | not started | **critical** | Highest-priority acquisition; need relevant chapters |
+| 34 | **Kirch 1984, *Evolution of the Polynesian Chiefdoms*** | **THE key source: first comprehensive archaeological chiefdom framework for Polynesia; Rapa Nui positioned within it** | chiefdom-attribution | **yes** (`pdfs/kirch_1984/Kirch_1984.pdf`) | **complete** | **critical** | Full 334-page book processed 2026-03-16. 121 claims extracted. KEY: Kirch states ahu were descent group structures, NOT centralized authority (p. 270); quarry = independently working crews (pp. 270-271); chiefdom maintained via APS inheritance argument, not archaeological demonstration. Goldman "Open" classification in Table 2 but not engaged in Ch. 11. Ecocide narrative now largely overturned. |
 | 35 | Valeri 1985, *Kingship and Sacrifice* | Structuralist interpretation of Hawaiian kingship/sacrifice; Polynesian analogy section | Polynesian chiefdom framework | in `papers_config.json` | not started | important | |
 | 36 | Van Tilburg 1986, PhD dissertation (*Power and Symbol*) | Moai stylistic analysis explicitly framed as chiefdom evidence | chiefdom-attribution | **NO** | not started | important | Earliest moai analysis as chiefdom evidence |
 | 37 | Bellwood 1987, *The Polynesians* | "Tropical Chiefdoms AD 1200-1800" section covering Rapa Nui | textbook/synthesis | **NO** | not started | supplementary | |
@@ -187,10 +190,10 @@ Critical subset for this paper. Many are cataloged in the CA bibliography; only 
 - Geiseler 1883 English translation (Ayres & Ayres 1995)
 
 ### Batch 3: Need acquisition (highest priority first)
-- Kirch 1984 (relevant chapters)
+- ~~Kirch 1984~~ — **DONE** (2026-03-16, full book processed)
 - Kirch 2010 (relevant chapters)
-- ~~Sahlins 1958 (relevant chapters)~~ — **DONE** (2026-03-16, via 1954 dissertation)
-- Goldman 1970
+- ~~Sahlins 1958 (relevant chapters)~~ — **DONE** (2026-03-16, via 1954 dissertation + 1955 AA article + 1957 JPS article)
+- ~~Goldman 1970~~ — **DONE** (2026-03-16, full book processed, 141 claims)
 - Hunt & Lipo 2006 (*Science*)
 - Martinsson-Wallin 1994
 - Van Tilburg 1994
@@ -210,18 +213,18 @@ Critical subset for this paper. Many are cataloged in the CA bibliography; only 
 |----------|-------|---------|-----------|-------------|
 | Contact-era (Era 0) | 10 | 10 | 10 | 0 |
 | Post-slave-raid (Era 1) | 12 | 11 | 11 | 1 (Englert) |
-| Chiefdom model foundations (Era 2) | 6 | 1 | 1 | 5 |
+| Chiefdom model foundations (Era 2) | 8 | 6 | 6 | 2 |
 | First archaeological models (Era 3) | 4 | 1 | 1 | 3 |
-| Kirch era (Era 4) | 5 | 0* | 0 | 5 |
+| Kirch era (Era 4) | 5 | 1 | 1 | 4 |
 | Consolidation (Era 5) | 6 | 0* | 0 | 6 |
 | Ecocide/challenge (Era 6) | 7 | 0* | 0 | 7 |
 | Active debate (Era 7) | 15 | 6 | 6 | 9 |
 | Current research (Era 8) | 8 | 5+ | 4 | 4 |
 | Theoretical | 9 | 0* | 0 | 9 |
-| **Total** | **82** | **34+** | **33** | **49** |
+| **Total** | **84** | **40+** | **39** | **45** |
 
 \* In `papers_config.json` but PDFs not yet downloaded/verified
 
 **Batch 1 status**: 11 of 12 in-repo sources processed. DiNapoli et al. 2021 (Sustainability) PDF needs re-adding to repo.
-**Chiefdom model foundations**: Sahlins 1954 dissertation processed in full (2026-03-16).
-**Total pipeline files**: 32 claims files, 28 summaries, 5 evidence files populated.
+**Chiefdom model foundations**: Sahlins 1954 dissertation, 1955 AA article, 1957 JPS article, and Sahlins & Service 1960 processed (2026-03-16). **Kirch 1984 processed (2026-03-16)**: full 334-page book, 121 claims extracted. **Goldman 1970 processed (2026-03-16)**: full 632-page book, 141 claims extracted.
+**Total pipeline files**: 39 claims files, 35 summaries, 5 evidence files populated.

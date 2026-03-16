@@ -174,6 +174,8 @@ This dissertation is **Step 1** in the Sahlins → Service → Kirch chain that 
 
 **The feedback loop**: Sahlins uses Polynesian ethnographic data to build the stratification-productivity correlation → Service generalizes this into the chiefdom evolutionary stage → Kirch applies the chiefdom concept back to Polynesia archaeologically → the archaeological interpretation "confirms" the ethnographic framework from which it was derived. The circularity begins here, in the gap where Sahlins admits evidence is lacking and fills it by Polynesian analogy.
 
+**Cross-reference with Kirch 1984** (processed 2026-03-16): Kirch inherits the Group IIA placement and ramage classification unchanged. He does not acknowledge the redistribution gap. The population estimate is raised from 3,000-4,000 to ~7,000 (unsourced). Sahlins's moai claim ("initiated by members of the chiefly status level," p. 100) is contradicted by Kirch's own citations of Mulloy & Figueroa on "independently working crews" (1984, pp. 270-271). Kirch reverses Sahlins's functionalist redistribution argument (1984, p. 281), arguing chiefs were inherited from APS rather than developing because of redistribution needs. Goldman's "Open" classification for Easter Island appears in Kirch's Table 2 (p. 37) but is never discussed in the Easter Island chapter. The contact-era source gap persists: neither Sahlins nor Kirch cites any primary observer of Easter Island before the slave raids.
+
 ---
 
 ## Honest Complications
@@ -192,12 +194,21 @@ This dissertation is **Step 1** in the Sahlins → Service → Kirch chain that 
 
 ## Comparison with 1957 JPS Article
 
-The 1957 *Journal of the Polynesian Society* article ("Differentiation by Adaptation in Polynesian Societies") is based on this dissertation but with modifications. Key differences to check:
+The 1957 *Journal of the Polynesian Society* article ("Differentiation by Adaptation in Polynesian Societies," Vol. 66, No. 3, pp. 291-300) condenses Part Two of the dissertation only (form of social organization: ramage vs. truncated descent line). Part One (amount of stratification, productivity measurement, island-by-island analysis) is not covered. Full claims extraction at `docs/references/claims/sahlins_1957_claims.md`.
 
-- Whether Easter Island's stratification rating changes
-- Whether the productivity measure is revised
-- Whether the ramage classification is altered
-- Whether the redistribution gap for Easter Island is addressed differently
-- Whether additional sources are cited
+### Checklist Results
 
-[To be completed when 1957 article is processed]
+1. **Easter Island stratification rating**: Not addressed. The Group IIa classification does not appear in the article, which covers only organizational form, not stratification level.
+2. **Productivity measure**: Not addressed. No productivity scores or redistributive network calculations appear.
+3. **Ramage classification**: Retained unchanged. Easter Island is listed among ramage societies (p. 291). The ecological anomaly is retained: Easter Island is one of three exceptions (with Tikopia and Uvea) where ecological conditions are "intermediate" and ramage organization is explained by cultural heritage from central Polynesia (p. 295).
+4. **Redistribution gap**: Not addressed for Easter Island. The article discusses redistribution as a general ramage feature (p. 294) without noting the "little direct evidence" admission from the dissertation (p. 101). The critical data gap is invisible.
+5. **Sources**: Drastically reduced. The only Easter Island sources cited are Routledge 1919:218 (fn. 9, for exchange practices) and Sahlins 1955, "Esoteric Efflorescence in Easter Island" (*American Anthropologist* 57:1045-1052). No Metraux, Thomson, or Williamson. No contact-era accounts.
+6. **Qualifications**: The ecological anomaly is retained (p. 295). All ten other data gaps documented in the dissertation are absent. This is not dishonest (the article covers only Part Two and directs readers to the monograph) but means scholars citing the published version inherit a framework stripped of its caveats.
+
+### Additional Finding
+
+The article's discussion of catastrophic population loss on atolls (p. 296) provides a direct parallel to the 1862-1863 slave raids. Sahlins describes how the 1903 Raroia hurricane caused "profound cultural changes" through "the loss of old time political and religious leaders." If hurricanes produce this effect, the slave raids (which killed or removed the ariki mau and most knowledgeable elders) would have been at least as disruptive, undermining the assumption that post-raid ethnographic sources can recover pre-contact organization.
+
+### New Source Identified
+
+Sahlins 1955, "Esoteric Efflorescence in Easter Island," *American Anthropologist* 57:1045-1052. Not in the 1954 dissertation bibliography. Not yet in our pipeline. Cited for Easter Island's cultural derivation from central Polynesia. Should be acquired and assessed for claims about Easter Island political organization.

@@ -1,0 +1,892 @@
+POOR MAN, RICH MAN, BIG-MAN, CHIEF: POLITICAL
+TYPES IN MELANESIA AND POLYNESIA *
+
+With an eye to their own life goals, the native peoples of Pacific Islands unwittingly present to anthropologists a generous scientific gift: an extended
+series of experiments in cultural adaptation and evolutionary development.
+They have compressed their institutions within the confines of infertile coral
+atolls, expanded them on volcanic islands, created with the means history gave
+them cultures adapted to the deserts of Australia, the mountains and warm
+coasts of New Guinea, the rain forests of the Solomon Islands. From the
+Australian Aborigines, whose hunting and gathering existence duplicates in
+outline the cultural life of the later Paleolithic, to the great chiefdoms of
+Hawaii, where society approached the formative levels of the old Fertile Crescent civilizations, almost every general phase in the progress of primitive culture is exemplified.
+Where culture so experiments, anthropology finds its laboratories — makes
+its comparisons.1
+* The present paper is preliminary to a wider and more detailed comparison of
+Melanesian and Polynesian polities and economies. I have merely abstracted here
+some of the more striking political differences in the two areas. The full study —
+which, incidentally, will include more documentation — has been promised the editors
+of The Journal of the Polynesian Society, and I intend to deliver it to them some day.
+The comparative method so far followed in this research has involved reading the
+monographs and taking notes. I don't think I originated the method, but I would like
+to christen it — The Method of Uncontrolled Comparison. The description developed
+of two forms of leadership is a mental distillation from the method of uncontrolled
+comparison. The two forms are abstracted sociological types. Anyone conversant with
+the anthropological literature of the South Pacific knows there are important variants
+of the types, as well as exceptional political forms not fully treated here. All would
+agree that consideration of the variations and exceptions is necessary and desirable.
+Yet there is pleasure too, and some intellectual reward, in discovering the broad
+patterns. To (social-) scientifically justify my pleasure, I could have referred to the
+pictures drawn of Melanesian big-men and Polynesian chiefs as "models" or as "ideal
+types". If that is all that is needed to confer respectability on the paper, may the
+reader have it this way.
+I hope all of this has been sufficiently disarming. Or need it also be said that the
+hypotheses are provisional, subject to further research, etc.?
+1
+Since Rivers' day, the Pacific has provided ethnographic stimulus to virtually every
+major ethnological school and interest. From such great landmarks as Rivers' History
+of Melanesian Society, Radcliffe-Brown's Social Organization of the Australian Tribes,
+Malinowski's famous Trobriand studies, especially Argonauts of the Western Pacific,
+Raymond Firth's pathmaking Primitive Economics of the New Zealand Maori, his
+https://doi.org/10.1017/S0010417500001729 Published online by Cambridge University Press
+
+286
+
+MARSHALL D. SAHLINS
+
+In the southern and eastern Pacific two contrasting cultural provinces have
+long evoked anthropological interest: Melanesia, including New Guinea, the
+Bismarcks, Solomons, and island groups east to Fiji; and Polynesia, consisting
+in its main portion of the triangular constellation of lands between New Zealand, Easter Island, and the Hawaiian Islands. In and around Fiji, Melanesia
+and Polynesia intergrade culturally, but west and east of their intersection the
+two provinces pose broad contrasts in several sectors: in religion, art, kinship
+groupings, economics, political organization. The differences are the more
+notable for the underlying similarities from which they emerge. Melanesia and
+Polynesia are both agricultural regions in which many of the same crops —
+such as yams, taro, breadfruit, bananas, and coconuts — have long been
+cultivated by many similar techniques. Some recently presented linguistic and
+archaeological studies indeed suggest that Polynesian cultures originated from
+an eastern Melanesian hearth during the first millenium B.C.2 Yet in anthropological annals the Polynesians were to become famous for elaborate forms
+of rank and chieftainship, whereas most Melanesian societies broke off advance on this front at more rudimentary levels.
+It is obviously imprecise, however, to make out the political contrast in
+broad culture-area terms. Within Polynesia, certain of the islands, such as
+Hawaii, the Society Islands and Tonga, developed unparalled political momentum. And not all Melanesian polities, on the other side, were constrained and truncated in their evolution. In New Guinea and nearby areas
+of western Melanesia, small and loosely ordered political groupings are
+numerous, but in eastern Melanesia, New Caledonia and Fiji for example,
+political approximations of the Polynesian condition become common. There
+is more of an upward west to east slope in political development in the
+southern Pacific than a step-like, quantum progression.3 It is quite revealing,
+however, to compare the extremes of this continuum, the western Melanesian
+underdevelopment against the greater Polynesian chiefdoms. While such
+comparison does not exhaust the evolutionary variations, it fairly establishes
+the scope of overall political achievement in this Pacific phylum of cultures.
+Measurable along several dimensions, the contrast between developed
+Polynesian and underdeveloped Melanesian polities is immediately striking
+functionalist classic, We, the Tikopia, and Margaret Mead's, Coming of Age in Samoa,
+one can almost read off the history of ethnological theory in the earlier twentieth
+century. In addition to continuing to provision all these concerns, the Pacific has been
+the site of much recent evolutionist work (see, for example, Goldman 1955, 1960;
+Goodenough 1957; Sahlins 1958; Vayda 1959). There are also the outstanding monographs on special subjects ranging from tropical agriculture (Conklin 1957; Freeman
+1955) to millenarianism (Worsley 1957).
+2
+This question, however, is presently in debate. See Grace 1955, 1959; Dyen 1960;
+Suggs 1960; Golson 1961.
+3
+There are notable bumps in the geographical gradient. The Trobriand chieftainships
+off eastern New Guinea will come to mind. But the Trobriand political development
+is clearly exceptional for western Melanesia.
+https://doi.org/10.1017/S0010417500001729 Published online by Cambridge University Press
+
+POLITICAL TYPES
+
+287
+
+for differences in scale. H. Ian Hogbin and Camilla Wedgwood concluded
+from a survey of Melanesian (mostly western Melanesian) societies that ordered, independent political bodies in the region typically include seventy to
+three hundred persons; more recent work in the New Guinea Highlands
+suggests political groupings of up to a thousand, occasionally a few thousand,
+people.4 But in Polynesia sovereignties of two thousand or three thousand
+are run-of-the-mill, and the most advanced chiefdoms, as in Tonga or Hawaii,
+might claim ten thousand, even tens of thousands. 5 Varying step by step with
+such differences in size of the polity are differences in territorial extent: from
+a few square miles in western Melanesia to tens or even hundreds of square
+miles in Polynesia.
+The Polynesian advance in political scale was supported by advance over
+Melanesia in political structure. Melanesia presents a great array of socialpolitical forms: here political organization is based upon patrilineal descent
+groups, there on cognatic groups, or men's club-houses recruiting neighborhood memberships, on a secret ceremonial society, or perhaps on some combination of these structural principles. Yet a general plan can be discerned.
+The characteristic western Melanesian "tribe," that is, the ethnic-cultural
+entity, consists of many autonomous kinship-residential groups. Amounting
+on the ground to a small village or a local cluster of hamlets, each of these
+is a copy of the others in organization, each tends to be economically selfgoverning, and each is the equal of the others in political status. The tribal
+plan is one of politically unintegrated segments — segmental. But the political
+geometry in Polynesia is pyramidal. Local groups of the order of selfgoverning Melanesian communities appear in Polynesia as subdivisions of a
+more inclusive political body. Smaller units are integrated into larger through
+a system of intergroup ranking, and the network of representative chiefs of
+the subdivisions amounts to a coordinating political structure. So instead of
+the Melanesian scheme of small, separate, and equal political blocs, the Polynesian polity is an extensive pyramid of groups capped by the family and
+following of a paramount chief. (This Polynesian political upshot is often,
+although not always, facilitated by the development of ranked lineages. Called conical clan by Kirchhoff, at one time ramage by Firth and status lineage
+by Goldman, the Polynesian ranked lineage is the same in principle as the
+so-called obok system widely distributed in Central Asia, and it is at least
+analogous to the Scottish clan, the Chinese clan, certain Central African
+Bantu lineage systems, the house-groups of Northwest Coast Indians, perhaps
+even the "tribes" of the Israelites.8 Genealogical ranking is its distinctive
+feature: members of the same descent unit are ranked by genealogical distance
+4
+Hogbin and Wedgwood 1952-53, 1953-54. On New Guinea Highland political
+scale see among others, Paula Brown 1960.
+5
+See the summary account in Sahlins 1958, especially pp. 132-33.
+8
+Kirchhoff 1955; Firth 1957; Goldman 1957; Bacon 1958; Fried 1957.
+
+https://doi.org/10.1017/S0010417500001729 Published online by Cambridge University Press
+
+288
+
+MARSHALL D. SAHLINS
+
+from the common ancestor; lines of the same group become senior and cadet
+branches on this principle; related corporate lineages are relatively ranked,
+again by genealogical priority.)
+Here is another criterion of Polynesian political advance: historical performance. Almost all of the native peoples of the South Pacific were brought
+up against intense European cultural pressure in the late eighteenth and the
+nineteenth centuries. Yet only the Hawaiians, Tahitians, Tongans, and to a
+lesser extent the Fijians, successfully defended themselves by evolving countervailing, native-controlled states. Complete with public governments and
+public law, monarchs and taxes, ministers and minions, these nineteenth century states are testimony to the native Polynesian political genius, to the level
+and the potential of indigenous political accomplishments.
+Embedded within the grand differences in political scale, structure and
+performance is a more personal contrast, one in quality of leadership. An
+historically particular type of leader-figure, the "big-man" as he is often locally
+styled, appears in the underdeveloped settings of Melanesia. Another type,
+a chief properly so-called, is associated with the Polynesian advance.7 Now
+these are distinct sociological types, that is to say, differences in the powers,
+privileges, rights, duties, and obligations of Melanesian big-men and Polynesian chiefs are given by the divergent societal contexts in which they
+operate. Yet the institutional distinctions cannot help but be manifest also
+in differences in bearing and character, appearance and manner — in a word,
+personality. It may be a good way to begin the more rigorous sociological
+comparison of leadership with a more impressionistic sketch of the contrast
+in the human dimension. Here I find it useful to apply characterizations — or
+7
+
+The big-man pattern is very widespread in western Melanesia, although its complete
+distribution is not yet clear to me. Anthropological descriptions of big-man leadership
+vary from mere hints of its existence, as among the Orokaiva (Williams 1930), Lesu
+(Powdermaker 1933) or the interior peoples of northeastern Guadalcanal (Hogbin
+1937-1938a), to excellent, closely grained analyses, such as Douglas Oliver's account
+of the Siuai of Bougainville (Oliver 1955). Big-man leadership has been more or less
+extensively described for the Manus of the Admiralty Islands (Mead 1934, 1937); the
+To'ambaita of northern Malaita (Hogbin 1939, 1943-44); the Tangu of northeastern
+New Guinea (Burridge 1960); the Kapauku of Netherlands New Guinea (Pospisil 1958,
+1959-60); the Kaoka of Guadalcanal (Hogbin 1933-34, 1937-38); the Seniang District
+of Malekula (Deacon 1934); the Gawa' of the Huon Gulf area, New Guinea (Hogbin
+1951); the Abelam (Kaberry 1940-41, 1941-42) and the Arapesh (Mead 1937a, 1938,
+1947) of the Sepik District, New Guinea; The Elema, Orokolo Bay, New Guinea
+(Williams 1940); the Ngarawapum of the Markham Valley, New Guinea (Read 1946-47,
+1949-50); the Kiwai of the Fly estuary, New Guinea (Landtman 1927); and a number
+of other societies, including, in New Guinea Highlands, the Kuma (Reay 1959), the
+Gahuka-Gama (Read 1952-53, 1959), the Kyaka (Bulmer 1960-61), the Enga (Meggitt
+1957, 1957-58), and others. (For an overview of the structural position of New Guinea
+Highlands' leaders see Barnes 1962.) A partial bibliography on Polynesian chieftainship
+can be found in Sahlins 1958. The outstanding ethnographic description of Polynesian
+chieftainship is, of course, Firth's for Tikopia (1950, 1957) — Tikopia, however, is not
+typical of the more advanced Polynesian chiefdoms with which we are principally
+concerned here.
+
+https://doi.org/10.1017/S0010417500001729 Published online by Cambridge University Press
+
+POLITICAL TYPES
+
+289
+
+is it caricature? — from our own history to big-men and chiefs, however
+much injustice this does to the historically incomparable backgrounds of the
+Melanesians and Polynesians. The Melanesian big-man seems so thoroughly
+bourgeois, so reminiscent of the free enterprising rugged individual of our
+own heritage. He combines with an ostensible interest in the general welfare
+a more profound measure of self-interested cunning and economic calculation.
+His gaze, as Veblen might have put it, is fixed unswervingly to the main
+chance. His every public action is designed to make a competitive and invidious comparison with others, to show a standing above the masses that is
+product of his own personal manufacture. The historical caricature of the
+Polynesian chief, however, is feudal rather than capitalist. His appearance,
+his bearing is almost regal; very likely he just is a big man — " 'Can't you
+see he is a chief? See how big he is?' " 8 In his every public action is a display of the refinements of breeding, in his manner always that noblesse oblige
+of true pedigree and an incontestable right of rule. With his standing not so
+much a personal achievement as a just social due, he can afford to be, and
+he is, every inch a chief.
+In the several Melanesian tribes in which big-men have come under anthropological scrutiny, local cultural differences modify the expression of their
+personal powers.9 But the indicative quality of big-man authority is everywhere the same: it is personal power. Big-men do not come to office; they do
+not succeed to, nor are they installed in, existing positions of leadership over
+political groups. The attainment of big-man status is rather the outcome of
+a series of acts which elevate a person above the common herd and attract
+about him a coterie of loyal, lesser men. It is not accurate to speak of "bigman" as a political title, for it is but an acknowledged standing in interpersonal relations — a "prince among men" so to speak as opposed to "The
+Prince of Danes". In particular Melanesian tribes the phrase might be "man
+of importance" or "man of renown", "generous rich-man", or "center-man",
+as well as "big-man".
+A kind of two-sidedness in authority is implied in this series of phrases, a
+s Gifford 1929:124.
+9
+Thus the enclavement of the big-man pattern within a segmented lineage organization
+in the New Guinea Highlands appears to limit the leader's political role and authority
+in comparison, say, with the Siuai. In the Highlands, intergroup relations are regulated
+in part by the segmented lineage structure; among the Siuai intergroup relations depend
+more on contractual arrangements between big-men, which throws these figures more
+into prominence. (Notable in this connection has been the greater viability of the Siuai
+big-man than the native Highlands leader in the face of colonial control.) Barnes'
+(1962) comparison of Highland social structure with the classic segmentary lineage
+systems of Africa suggests an inverse relation between the formality of the lineage
+system and the political significance of individual action. Now, if instances such as the
+Siuai be tacked on to the comparison, the generalization may be further supported and
+extended: among societies of the tribal level (cf. Sahlins 1961, Service in press), the
+greater the self-regulation of the political process through a lineage system, the less
+function that remains to big-men, and the less significant their political authority.
+
+https://doi.org/10.1017/S0010417500001729 Published online by Cambridge University Press
+
+290
+
+MARSHALL D. SAHLINS
+
+division of the big-man's field of influence into two distinct sectors. "Centerman" particularly connotes a cluster of followers gathered about an influential pivot. It socially implies the division of the tribe into political in-groups
+dominated by outstanding personalities. To the in-group, the big-man presents
+this sort of picture:
+The place of the leader in the district group [in northern Malaita] is well summed
+up by his title, which might be translated as "centre-man"... He was like a
+banyan, the natives explain, which, though the biggest and tallest in the forest,
+is still a tree like the rest. But, just because it exceeds all others, the banyan gives
+support to more lianas and creepers, provides more food for the birds, and gives
+better protection against sun and rain.10
+But "man of renown" connotes a broader tribal field in which a man is not
+so much a leader as he is some sort of hero. This is the side of the big-man
+facing outward from his own faction, his status among some or all of the
+other political clusters of the tribe. The political sphere of the big-man divides
+itself into a small internal sector composed of his personal satellites — rarely
+over eighty men — and a much larger external sector, the tribal galaxy consisting of many similar constellations.
+As it crosses over from the internal into the external sector, a big-man's
+power undergoes qualitative change. Within his faction a Melanesian leader
+has true command ability, outside of it only fame and indirect influence. It
+is not that the center-man rules his faction by physical force, but his followers
+do feel obliged to obey him, and he can usually get what he wants by haranguing them — public verbal suasion is indeed so often employed by centermen that they have been styled "harangue-utans". The orbits of outsiders,
+however, are set by their own center-men. " 'Do it yourself. I'm not your
+fool,' " would be the characteristic response to an order issued by a centerman to an outsider among the Siuai.11 This fragmentation of true authority
+presents special political difficulties, particularly in organizing large masses
+of people for the prosecution of such collective ends as warfare or ceremony.
+Big-men do instigate mass action, but only by establishing both extensive renown and special personal relations of compulsion or reciprocity with other
+center-men.
+Politics is in the main personal politiking in these Melanesian societies, and
+the size of a leader's faction as well as the extent of his renown are normally
+set by competition with other ambitious men. Little or no authority is given
+by social ascription: leadership is a creation — a creation of followership.
+"Followers", as it is written of the Kapauku of New Guinea, "stand in various
+relations to the leader. Their obedience to the headman's decisions is caused
+by motivations which reflect their particular relations to the leader." 12 So
+10
+
+Hogbin 1943-44:258.
+Oliver 1955:408. Compare with the parallel statement for the Kaoka of Guadalcanal in Hogbin 1937-38:305.
+12
+Pospisil 1958:81.
+11
+
+https://doi.org/10.1017/S0010417500001729 Published online by Cambridge University Press
+
+POLITICAL TYPES
+
+291
+
+a man must be prepared to demonstrate that he possesses the kinds of skills
+that command respect — magical powers, gardening prowess, mastery of
+oratorical style, perhaps bravery in war and feud.13 Typically decisive is the
+deployment of one's skills and efforts in a certain direction: towards amassing
+goods, most often pigs, shell monies and vegetable foods, and distributing
+them in ways which build a name for cavalier generosity, if not for compassion. A faction is developed by informal private assistance to people of a
+locale. Tribal rank and renown are developed by great public giveaways
+sponsored by the rising big-man, often on behalf of his faction as well as
+himself. In different Melanesian tribes, the renown-making public distribution
+may appear as one side of a delayed exchange of pigs between corporate kinship groups; a marital consideration given a bride's kinfolk; a set of feasts
+connected with the erection of a big-man's dwelling, or of a clubhouse for
+himself and his faction, or with the purchase of higher grades of rank in
+secret societies; the sponsorship of a religious ceremony; a payment of subsidies and blood compensations to military allies; or perhaps the giveaway is
+a ceremonial challenge bestowed on another leader in the attempt to outgive
+and thus outrank him (a potlatch).
+The making of the faction, however, is the true making of the Melanesian
+big-man. It is essential to establish relations of loyalty and obligation on the
+part of a number of people such that their production can be mobilized for
+renownbuilding external distribution. The bigger the faction the greater the
+renown; once momentum in external distribution has been generated the
+opposite can also be true. Any ambitious man who can gather a following
+can launch a societal career. The rising big-man necessarily depends initially
+on a small core of followers, principally his own household and his closest
+relatives. Upon these people he can prevail economically: he capitalizes in
+the first instance on kinship dues and by finessing the relation of reciprocity
+appropriate among close kinsmen. Often it becomes necessary at an early
+phase to enlarge one's household. The rising leader goes out of his way
+to incorporate within his family "strays" of various sorts, people without
+familial support themselves, such as widows and orphans. Additional wives
+are especially useful. The more wives a man has the more pigs he has. The
+relation here is functional, not identical: with more women gardening there
+will be more food for pigs and more swineherds. A Kiwai Papuan picturesquely put to an anthropologist in pidgin the advantages, economic and political, of polygamy: " 'Another woman go garden, another woman go take
+firewood, another woman go catch fish, another woman cook him—husband
+he sing out plenty people come kaikai [i.e., come to eat].'" 14 Each new
+13
+
+It is difficult to say just how important the military qualifications of leadership
+have been in Melanesia, since the ethnographic researches have typically been undertaken after pacification, sometimes long after. I may underestimate this factor. Compare Bromley 1960.
+14
+Landtman 1927:168.
+https://doi.org/10.1017/S0010417500001729 Published online by Cambridge University Press
+
+292
+
+MARSHALL D. SAHLINS
+
+marriage, incidentally, creates for the big-man an additional set of in-laws
+from whom he can exact economic favors. Finally, a leader's career sustains
+its upward climb when he is able to link other men and their families to his
+faction, harnessing their production to his ambition. This is done by calculated generosities, by placing others in gratitude and obligation through helping them in some big way. A common technique is payment of bridewealth
+on behalf of young men seeking wives.
+The great Malinowski used a phrase in analyzing primitive political economy that felicitously describes just what the big-man is doing: amassing a
+"fund of power". A big-man is one who can create and use social relations
+which give him leverage on others' production and the ability to siphon off
+an excess product — or sometimes he can cut down their consumption in the
+interest of the siphon. Now although his attention may be given primarily to
+short-term personal interests, from an objective standpoint the leader acts to
+promote long-term societal interests. The fund of power provisions activities
+that involve other groups of the society at large. In the greater perspective of
+that society at large, big-men are indispensable means of creating supralocal
+organization: in tribes normally fragmented into small independent groups,
+big-men at least temporarily widen the sphere of ceremony, recreation and
+art, economic collaboration, of war too. Yet always this greater societal
+organization depends on the lesser factional organization, particularly on the
+ceilings on economic mobilization set by relations between center-men and
+followers. The limits and the weaknesses of the political order in general are
+the limits and weaknesses of the factional in-groups.
+And the personal quality of subordination to a center-man is a serious
+weakness in factional structure. A personal loyalty has to be made and
+continually reinforced; if there is discontent it may well be severed. Merely
+to create a faction takes time and effort, and to hold it, still more effort. The
+potential rupture of personal links in the factional chain is at the heart of two
+broad evolutionary shortcomings of western Melanesian political orders.
+First, a comparative instability. Shifting dispositions and magnetisms of ambitious men in a region may induce fluctuations in factions, perhaps some
+overlapping of them, and fluctuations also in the extent of different renowns.
+The death of a center-man can become a regional political trauma: the death
+undermines the personally cemented faction, the group dissolves in whole or
+in part, and the people re-group finally around rising pivotal big-men. Although particular tribal structures in places cushion the disorganization, the
+big-man political system is generally unstable over short terms: in its superstructure it is a flux of rising and falling leaders, in its substructure of enlarging and contracting factions. Secondly, the personal political bond contributes to the containment of evolutionary advance. The possibility of their
+desertion, it is clear, often inhibits a leader's ability to forceably push up his
+followers' output, thereby placing constraints on higher political organization,
+https://doi.org/10.1017/S0010417500001729 Published online by Cambridge University Press
+
+POLITICAL TYPES
+
+293
+
+but there is more to it than that. If it is to generate great momentum, a bigman's quest for the summits of renown is likely to bring out a contradiction
+in his relations to followers, so that he finds himself encouraging defection —
+or worse, an egalitarian rebellion — by encouraging production.
+One side of the Melanesian contradiction is the initial economic reciprocity
+between a center-man and his followers. For his help they give their help,
+and for goods going out through his hands other goods (often from outside
+factions) flow back to his followers by the same path. The other side is that
+a cumulative build-up of renown forces center-men into economic extortion
+of the faction. Here it is important that not merely his own status, but the
+standing and perhaps the military security of his people depend on the bigman's achievements in public distribution. Established at the head of a sizeable faction, a center-man comes under increasing pressure to extract goods
+from his followers, to delay reciprocities owing them, and to deflect incoming
+goods back into external circulation. Success in competition with other bigmen particularly undermines internal-factional reciprocities: such success is
+precisely measurable by the ability to give outsiders more than they can possibly reciprocate. In well delineated big-man polities, we find leaders negating the reciprocal obligations upon which their following had been predicated. Substituting extraction for reciprocity, they must compel their people
+to "eat the leader's renown," as one Solomon Island group puts it, in return
+for productive efforts. Some center-men appear more able than others to
+dam the inevitable tide of discontent that mounts within their factions, perhaps because of charismatic personalities, perhaps because of the particular
+social organizations in which they operate.15 But paradoxically the ultimate
+defense of the center-man's position is some slackening of his drive to enlarge
+the funds of power. The alternative is much worse. In the anthropological
+record there are not merely instances of big-man chicanery and of material
+deprivation of the faction in the interests of renown, but some also of overloading of social relations with followers: the generation of antagonisms,
+defections, and in extreme cases the violent liquidation of the center-man.16
+Developing internal constraints, the Melanesian big-man political order brakes
+15
+
+Indeed it is the same people, the Siuai, who so explicitly discover themselves eating
+their leader's renown who also seem able to absorb a great deal of deprivation without
+violent reaction, at least until the leader's wave of fame has already crested (see
+Oliver 1955:362, 368, 387, 394).
+16
+"In the Paniai Lake region (of Netherlands New Guinea), the people go so far as
+to kill a selfish rich man because of his 'immorality'. His own sons or brothers are
+induced by the rest of the members of the community to dispatch the first deadly
+arrow. 'Aki to tonowi beu, inii idikima enadani kodo to niitou (you should not be the
+only rich man, we should all be the same, therefore you only stay equal with us)' was
+the reason given by the Paniai people for killing Mote luwopija of Madi, a tonowi
+[Kapauku for 'big-man'] who was not generous enough". (Pospisil 1958:80, cf. pp.
+108-110). On another egalitarian conspiracy, see Hogbin 1951:145, and for other
+aspects of the Melanesian contradiction note, for example, Hogbin 1939:81; Burridge
+1960:18-19; and Reay 1959:110, 129-30.
+https://doi.org/10.1017/S0010417500001729 Published online by Cambridge University Press
+
+294
+
+MARSHALL D. SAHLINS
+
+evolutionary advance at a certain level. It sets ceilings on the intensification
+of political authority, on the intensification of household production by political means, and on the diversion of household outputs in support of wider
+political organization. But in Polynesia these constraints were breached, and
+although Polynesian chiefdoms also found their developmental plateau, it was
+not before political evolution had been carried above the Melanesian ceilings.
+The fundamental defects of the Melanesian plan were overcome in Polynesia.
+The division between small internal and larger external political sectors, upon
+which all big-man politics hinged, was suppressed in Polynesia by the growth
+of an enclaving chiefdom-at-large. A chain of command subordinating lesser
+chiefs and groups to greater, on the basis of inherent societal rank, made
+local blocs or personal followings (such as were independent in Melanesia)
+merely dependent parts of the larger Polynesian chiefdom. So the nexus of
+the Polynesian chiefdom became an extensive set of offices, a pyramid of
+higher and lower chiefs holding sway over larger and smaller sections of the
+polity. Indeed the system of ranked and subdivided lineages (conical clan
+system), upon which the pyramid was characteristically established, might
+build up through several orders of inclusion and encompass the whole of an
+island or group of islands. While the island or the archipelago would normally be divided into several independent chiefdoms, high-order lineage connections between them, as well as kinship ties between their paramount chiefs,
+provided structural avenues for at least temporary expansion of political
+scale, for consolidation of great into even greater chiefdoms.17
+The pivotal paramount chief as well as the chieftains controlling parts of
+a chiefdom were true office holders and title holders. They were not, like
+Melanesian big-men, fishers of men: they held positions of authority over
+permanent groups. The honorifics of Polynesian chiefs likewise did not refer
+to a standing in interpersonal relations, but to their leadership of political
+divisions — here "The Prince of Danes" not "the prince among men". In
+western Melanesia the personal superiorities and inferiorities arising in the
+17
+Aside from the transitional developments in eastern Melanesia, several western
+Melanesian societies advanced to a structural position intermediate between underdeveloped Melanesian polities and Polynesian chiefdoms. In these western Melanesian
+protochiefdoms, an ascribed division of kinship groups (or segments thereof) into
+chiefly and nonchiefly ranks emerges — as in Sa'a (Ivens 1927), around Buka passage
+(Blackwood 1935), in Manam Island (Wedgwood 1933-34, 1958-59), Waropen (Held
+1957), perhaps Mafulu (Williamson 1912), and several others. The rank system does
+not go beyond the broad dual division of groups into chiefly and nonchiefly: no pyramid of ranked social-political divisions along Polynesian lines is developed. The
+political unit remains near the average size of the western Melanesian autonomous
+community. Sway over the kin groups of such a local body falls automatically to a
+chiefly unit, but chiefs do not hold office title with stipulated rights over corporate
+sections of society, and further extension of chiefly authority, if any, must be achieved.
+The Trobriands, which carry this line of chiefly development to its highest point, remain
+under the same limitations, although it was ordinarily possible for powerful chiefs to
+integrate settlements of the external sector within their domains (cf. Powell 1960).
+
+https://doi.org/10.1017/S0010417500001729 Published online by Cambridge University Press
+
+POLITICAL TYPES
+
+295
+
+intercourse of particular men largely defined the political bodies. In Polynesia
+there emerged suprapersonal structures of leadership and followership, organizations that continued independently of the particular men who occupied
+positions in them for brief mortal spans.
+And these Polynesian chiefs did not make their positions in society — they
+were installed in societal positions. In several of the islands, men did struggle
+to office against the will and stratagems of rival aspirants. But then they
+came to power. Power resided in the office; it was not made by the demonstration of personal superiority. In other islands, Tahiti was famous for it,
+succession to chieftainship was tightly controlled by inherent rank. The
+chiefly lineage ruled by virtue of its genealogical connections with divinity,
+and chiefs were succeeded by first sons, who carried "in the blood" the attributes of leadership. The important comparative point is this: the qualities of
+command that had to reside in men in Melanesia, that had to be personally
+demonstrated in order to attract loyal followers, were in Polynesia socially
+assigned to office and rank. In Polynesia, people of high rank and office
+ipso facto were leaders, and by the same token the qualities of leadership
+were automatically lacking — theirs was not to question why — among the
+underlying population. Magical powers such as a Melanesian big-man might
+acquire to sustain his position, a Polynesian high chief inherited by divine
+descent as the mana which sanctified his rule and protected his person against
+the hands of the commonalty. The productive ability the big-man laboriously
+had to demonstrate was effortlessly given Polynesian chiefs as religious control over agricultural fertility, and upon the ceremonial implementation of it
+the rest of the people were conceived dependent. Where a Melanesian leader
+had to master the compelling oratorical style, Polynesian paramounts often
+had trained "talking chiefs" whose voice was the chiefly command.
+In the Polynesian view, a chiefly personage was in the nature of things
+powerful. But this merely implies the objective observation that his power
+was of the group rather than of himself. His authority came from the organization, from an organized acquiescence in his privileges and organized means
+of sustaining them. A kind of paradox resides in evolutionary developments
+which detach the exercise of authority from the necessity to demonstrate personal superiority: organizational power actually extends the role of personal
+decision and conscious planning, gives it greater scope, impact, and effectiveness. The growth of a political system such as the Polynesian constitutes
+advance over Melanesian orders of interpersonal dominance in the human
+control of human affairs. Especially significant for society at large were
+privileges accorded Polynesian chiefs which made them greater architects of
+funds of power than ever was any Melanesian big-man.
+Masters of their people and "owners" in a titular sense of group resources,
+Polynesian chiefs had rights of call upon the labor and agricultural produce
+of households within their domains. Economic mobilization did not depend
+https://doi.org/10.1017/S0010417500001729 Published online by Cambridge University Press
+
+296
+
+MARSHALL D. SAHLINS
+
+on, as it necessarily had for Melanesian big-men, the de novo creation by
+the leader of personal loyalties and economic obligations. A chief need not
+.stoop to obligate this man or that man, need not by a series of individual acts
+of generosity induce others to support him, for economic leverage over a
+group was the inherent chiefly due. Consider the implications for the fund
+of power of the widespread chiefly privilege, related to titular "ownership" of
+land, of placing an interdiction, a tabu, on the harvest of some crop by way
+of reserving its use for a collective project. By means of the tabu the chief
+directs the course of production in a general way: households of his domain
+must turn to some other means of subsistence. He delivers a stimulus to
+household production: in the absence of the tabu further labors would not
+have been necessary. Most significantly, he has generated a politically utilizable agricultural surplus. A subsequent call on this surplus floats chieftainship as a going concern, capitalizes the fund of power. In certain islands,
+Polynesian chiefs controlled great storehouses which held the goods congealed
+by chiefly pressures on the commonalty. David Malo, one of the great native
+custodians of old Hawaiian lore, felicitously catches the political significance
+of the chiefly magazine in his well-known Hawaiian Antiquities:
+It was the practice for kings [i.e., paramount chiefs of individual islands] to build
+store-houses in which to collect food, fish, tapas [bark cloth], malos [men's loin
+cloths], pa-us [women's loin skirts], and all sorts of goods. These store-houses
+were designed by the Kalaimoku [the chief's principal executive] as a means of
+keeping the people contented, so they would not desert the king. They were like
+the baskets that were used to entrap the hinalea fish. The hinalea thought there
+was something good within the basket, and he hung round the outside of it. In the
+same way the people thought there was food in the store-houses, and they kept
+their eyes on the king. As the rat will not desert the pantry.. . where he thinks
+food is, so the people will not desert the king while they think there is food in his
+store-house.18
+Redistribution of the fund of power was the supreme art of Polynesian politics.
+By well-planned noblesse oblige the large domain of a paramount chief was
+held together, organized at times for massive projects, protected against other
+chiefdoms, even further enriched. Uses of the chiefly fund included lavish
+hospitality and entertainments for outside chiefs and for the chief's own
+people, and succor of individuals or the underlying population at large in
+times of scarcities — bread and circuses. Chiefs subsidized craft production,
+promoting in Polynesia a division of technical labor unparalleled in extent
+and expertise in most of the Pacific. They supported also great technical
+construction, as of irrigation complexes, the further returns to which swelled
+the chiefly fund. They initiated large-scale religious construction too, subsidized the great ceremonies, and organized logistic support for extensive
+military campaigns. Larger and more easily replenished than their western Melanesian counterparts, Polynesian funds of power permitted greater
+18
+Malo 1903:257-58.
+https://doi.org/10.1017/S0010417500001729 Published online by Cambridge University Press
+
+POLITICAL TYPES
+
+297
+
+political regulation of a greater range of social activities on greater scale.
+In the most advanced Polynesian chiefdoms, as in Hawaii and Tahiti, a
+significant part of the chiefly fund was deflected away from general redistribution towards the upkeep of the institution of chieftainship. The fund was
+siphoned for the support of a permanent administrative establishment. In
+some measure, goods and services contributed by the people precipitated out
+as the grand houses, assembly places, and temple platforms of chiefly precincts. In another measure, they were appropriated for the livelihood of
+circles of retainers, many of them close kinsmen of the chief, who clustered
+about the powerful paramounts. These were not all useless hangers-on. They
+were political cadres: supervisors of the stores, talking chiefs, ceremonial attendants, high priests who were intimately involved in political rule, envoys
+to transmit directives through the chiefdom. There were men in these
+chiefly retinues — in Tahiti and perhaps Hawaii, specialized warrior corps
+— whose force could be directed internally as a buttress against fragmenting
+or rebellious elements of the chiefdom. A Tahitian or Hawaiian high chief
+had more compelling sanctions than the harangue. He controlled a ready
+physical force, an armed body of executioners, which gave him mastery
+particularly over the lesser people of the community. While it looks a lot like
+the big-man's faction again, the differences in functioning of the great Polynesian chief's retinue are more significant than the superficial similarities in
+appearance. The chief's coterie, for one thing, is economically dependent
+upon him rather than he upon them. And in deploying the cadres politically
+in various sections of the chiefdom, or against the lower orders, the great
+Polynesian chiefs sustained command where the Melanesian big-man, in his
+external sector, had at best renown.
+This is not to say that the advanced Polynesian chiefdoms were free of
+internal defect, of potential or actual malfunctioning. The large politicalmilitary apparatus indicates something of the opposite. So does the recent
+work of Irving Goldman 19 on the intensity of "status rivalry" in Polynesia,
+especially when it is considered that much of the status rivalry in developed
+chiefdoms, as the Hawaiian, amounted to popular rebellion against chiefly
+despotism rather than mere contest for position within the ruling-stratum.
+This suggests that Polynesian chiefdoms, just as Melanesian big man orders,
+generate along with evolutionary development countervailing anti-authority
+pressures, and that the weight of the latter may ultimately impede further
+development.
+The Polynesian contradiction seems clear enough. On one side, chieftainship is never detached from kinship moorings and kinship economic ethics.
+Even the greatest Polynesian chiefs were conceived superior kinsmen to the
+masses, fathers of their people, and generosity was morally incumbent upon
+them. On the other side, the major Polynesian paramounts seemed inclined
+19
+
+Goldman 1955; 1957; 1960.
+
+https://doi.org/10.1017/S0010417500001729 Published online by Cambridge University Press
+
+298
+
+MARSHALL D. SAHLINS
+
+to "eat the power of the government too much," as the Tahitians put it, to
+divert an undue proportion of the general wealth toward the chiefly establishment.20 The diversion could be accomplished by lowering the customary
+level of general redistribution, lessening the material returns of chieftainship
+to the community at large—tradition attributes the great rebellion of Mangarevan commoners to such cause.21 Or the diversion might — and I suspect
+more commonly did — consist in greater and more forceful exactions from
+lesser chiefs and people, increasing returns to the chiefly apparatus without
+necessarily affecting the level of general redistribution. In either case, the
+well developed chiefdom creates for itself the dampening paradox of stoking
+rebellion by funding its authority.22
+In Hawaii and other islands cycles of political centralization and decentralization may be abstracted from traditional histories. That is, larger chiefdoms periodically fragmented into smaller and then were later reconstituted.
+20
+
+The great Tahitian chiefs were traditionally enjoined not to eat the power of
+government too much, as well as to practice open-handedness towards the people
+(Handy 1930:41). Hawaiian high chiefs were given precisely the same advice by counselors (Malo 1903:255).
+21
+Buck 1938:70-77, 160, 165.
+22
+The Hawaiian traditions are very clear on the encouragement given rebellion by
+chiefly exactions — although one of our greatest sources of Hawaiian tradition, David
+Malo, provides the most sober caveat regarding this kind of evidence. "I do not suppose", he wrote in the preface to Hawaiian Antiquities, "the following history to be free
+from mistakes, in that material for it has come from oral traditions; consequently it is
+marred by errors of human judgment and does not approach the accuracy of the word
+of God."
+Malo (1903:258) noted that "Many kings have been put to death by the people
+because of their oppression of the makaainana (i.e., commoners)." He goes on to list
+several who "lost their lives on account of their cruel exactions", and follows the list
+with the statement "It was for this reason that some of the ancient kings had a wholesome fear of the people." The propensity of Hawaiian high chiefs for undue appropriation from commoners is a point made over and over again by Malo (see pp. 85,
+87-88, 258, 267-68). In Fornander's reconstruction of Hawaiian history (from traditions
+and genealogies) internal rebellions are laid frequently, almost axiomatically, to chiefly
+extortion and niggardliness (Fornander 1880:40-41, 76-78, 88, 149-150, 270-271). In
+addition, Fornander at times links appropriation of wealth and ensuing rebellion to the
+provisioning of the chiefly establishment, as in the following passage: "Scarcity of food,
+after a while, obliged Kalaniopuu (paramount chief of the island of Hawaii and half
+brother of Kamehameha I's father) to remove his court (from the Kona district) into
+the Kohala district, where his headquarters were fixed at Kapaau. Here the same
+extravagant, laissez-faire, eat and be merry policy continued that had been commenced
+at Kona, and much grumbling and discontent began to manifest itself among the
+resident chiefs and cultivators of the land, the 'Makaainana'. Imakakaloa, a great chief
+in the Puna district, and Nuuampaahu, a chief of Naalehu in the Kau district, became
+the heads and rallying-points of the discontented. The former resided on his lands in
+Puna [in the southeast, across the island from Kohala in the northwest], and openly
+resisted the orders of Kalaniopuu and his extravagant demands for contributions of all
+kinds of property; the latter was in attendance with the court of Kalaniopuu in Kohala,
+but was strongly suspected of favouring the growing discontent" (Fornander 1880:200).
+Aside from the Mangarevan uprising mentioned in the text, there is some evidence for
+similar revolts in Tonga (Mariner 1827i:8O; Thomson 1894:294f) and in Tahiti (Henry
+1928:195-196, 297).
+
+https://doi.org/10.1017/S0010417500001729 Published online by Cambridge University Press
+
+POLITICAL TYPES
+
+299
+
+Here would be more evidence of a tendency to overtax the political structure.
+But how to explain the emergence of a developmental stymie, of an inability
+to sustain political advance beyond a certain level? To point to a chiefly
+propensity to consume or a Polynesian propensity to rebel is not enough: such
+propensities are promoted by the very advance of chiefdoms. There is reason
+to hazard instead that Parkinson's notable law is behind it all: that progressive expansion in political scale entailed more-than-proportionate accretion in
+the ruling apparatus, unbalancing the flow of wealth in favor of the apparatus.
+The ensuing unrest then curbs the chiefly impositions, sometimes by reducing
+chiefdom scale to the nadir of the periodic cycle. Comparison of the requirements of administration in small and large Polynesian chiefdoms helps
+make the point.
+A lesser chiefdom, confined say as in the Marquesas Islands to a narrow
+valley, could be almost personally ruled by a headman in frequent contact
+with the relatively small population. Melville's partly romanticized — also
+for its ethnographic details, partly cribbed — account in Typee makes this
+clear enough.23 But the great Polynesian chiefs had to rule much larger, spatially dispersed, internally organized populations. Hawaii, an island over four
+thousand square miles with an aboriginal population approaching one hundred thousand, was at times a single chiefdom, at other times divided into
+two to six independent chiefdoms, and at all times each chiefdom was
+composed of large subdivisions under powerful subchiefs. Sometimes a
+chiefdom in the Hawaiian group extended beyond the confines of one of the
+islands, incorporating part of another through conquest. Now, such extensive
+chiefdoms would have to be coordinated; they would have to be centrally
+tapped for a fund of power, buttressed against internal disruption, sometimes
+massed for distant, perhaps overseas, military engagements. All of this to
+be implemented by means of communication still at the level of word-ofmouth, and means of transportation consisting of human bodies and canoes.
+(The extent of certain larger chieftainships, coupled with the limitations of
+communication and transportation, incidentally suggests another possible
+source of political unrest: that the burden of provisioning the governing apparatus would tend to fall disproportionately on groups within easiest access
+of the paramount.24) A tendency for the developed chiefdom to proliferate in
+executive cadres, to grow top-heavy, seems in these circumstances altogether
+functional, even though the ensuing drain on wealth proves the chiefdom's
+undoing. Functional also, and likewise a material drain on the chiefdom at
+large, would be widening distinctions between chiefs and people in style of
+23
+
+Or see Handy 1923 and Linton 1939.
+On the difficulty of provisioning the Hawaiian paramount's large establishment see
+the citation from Fornander above, and also Fornander 1880: 100-101; Malo 1903:92-93,
+et passim. The Hawaiian great chiefs developed the practice of the circuit — like
+feudal monarchs — often leaving a train of penury behind as they moved in state from
+district to district of the chiefdom.
+24
+
+https://doi.org/10.1017/S0010417500001729 Published online by Cambridge University Press
+
+300
+
+MARSHALL D. SAHLINS
+
+life. Palatial housing, ornamentation and luxury, finery and ceremony, in
+brief, conspicuous consumption, however much it seems mere self-interest
+always has a more decisive social significance. It creates those invidious distinctions between rulers and ruled so conducive to a passive — hence quite
+economical! — acceptance of authority. Throughout history, inherently more
+powerful political organizations than the Polynesian, with more assured logistics of rule, have turned to it — including in our time some ostensibly revolutionary and proletarian governments, despite every pre-revolutionary
+protestation of solidarity with the masses and equality for the classes.
+In Polynesia then, as in Melanesia, political evolution is eventually shortcircuited by an overload on the relations between leaders and their people.
+The Polynesian tragedy, however, was somewhat the opposite of the Melanesian. In Polynesia, the evolutionary ceiling was set by extraction from the
+population at large in favor of the chiefly faction, in Melanesia by extraction
+from the big-man's faction in favor of distribution to the population at large.
+Most importantly, the Polynesian ceiling was higher. Melanesian big-men and
+Polynesian chiefs not only reflect different varieties and levels of political
+evolution, they display in different degrees the capacity to generate and to
+sustain political progress.
+Especially emerging from their juxtaposition is the more decisive impact
+of Polynesian chiefs on the economy, the chiefs' greater leverage on the output of the several households of society. The success of any primitive political
+organization is decided here, in the control that can be developed over household economies. For the household is not merely the principal productive
+unit in primitive societies, it is often quite capable of autonomous direction
+of its own production, and it is oriented towards production for its own, not
+societal consumption. The greater potential of Polynesian chieftainship is
+precisely the greater pressure it could exert on household output, its capacity
+both to generate a surplus and to deploy it out of the household towards a
+broader division of labor, cooperative construction, and massive ceremonial
+and military action. Polynesian chiefs were the more effective means of societal
+collaboration on economic, political, indeed all cultural fronts. Perhaps we
+have been too long accustomed to perceive rank and rule from the standpoint
+of the individuals involved, rather than from the perspective of the total
+society, as if the secret of the subordination of man to man lay in the personal
+satisfactions of power. And then the breakdowns too, or the evolutionary
+limits, have been searched out in men, in "weak" kings or megalomaniacal
+dictators — always, "who is the matter?" An excursion into the field of
+primitive politics suggests the more fruitful conception that the gains of
+political developments accrue more decisively to society than to individuals,
+and the failings as well are of structure not men.
+MARSHALL D. SAHLINS
+
+University of Michigan
+https://doi.org/10.1017/S0010417500001729 Published online by Cambridge University Press
+
+POLITICAL TYPES
+
+301
+
+REFERENCES
+Bacon, Elizabeth E., Obok. ( = Viking Fund Publications in Anthropology No. 25)
+(New York: The Wenner-Gren Foundation, 1958).
+Barnes, J. A., "African Models in the New Guinea Highlands", Man 62(2):5-9 (1962).
+Blackwood, Beatrice, Both Sides of Buka Passage (Oxford: Clarendon Press, 1935).
+Bromley, M., "A Preliminary Report on Law Among the Grand Valley Dani of
+Netherlands New Guinea", Nieuw Guinea Studien 4:235-259 (1960).
+Brown, Paula, "Chimbu Tribes: Political Organization in the Eastern Highlands of
+New Guinea", Southwestern Journal of Anthropology 16:22-35 (1960).
+Buck, Sir Peter H., Ethnology of Mangareva (= Bernice P. Bishop Mus. Bull. 157)
+(Honolulu, 1938).
+Bulmer, Ralph, "Political Aspects of the Moka Exchange System Among the Kyaka
+People of the Western Highlands of New Guinea", Oceania 31:1-13 (1960-61).
+Burridge, Kenelm, Mambu: A Melanesian Millenium (London: Methuen & Co, 1960).
+Conklin, Harold C , Hanunoo Agriculture (— FAO Forestry Development Paper No.
+12) (Rome: Food and Agricultural Organization of the United Nations, 1957).
+Deacon, A. Bernard, Malekula: A Vanishing People in the New Hebrides. (C. H.
+Wedgwood, ed.) (London: Geo. Routledge and Sos, 1934).
+Dyen, Isidore, Review of The Position of the Polynesian Languages within the
+Austronesian (Malayo-Polynesian) Language Family (by George W. Grace). Journal
+of the Polynesian Society 69:180-184 (1960).
+Firth, Raymond, Primitive Polynesian Economy (New York: Humanities Press, 1950).
+, We, the Tikopia. Second ed. (London: Allen and Unwin, 1957).
+Fornander, Abraham, An Acount of the Polynesian Race. Vol. II (London: Triibner,
+1880).
+Freeman, J. D., Iban Agriculture ( = Colonial Research Studies No. 18) (London: Her
+Majesty's Stationery Office, 1955).
+Fried, Morton H., "The Classification of Corporate Unilineal Descent Groups". Jour.
+of the Royal Anthrop. Instit. 87:1-29 (1957).
+Gifford, Edward Winslow, Tongan Society (= Bernice P. Bishop Mus. Bull. 61) (Honolulu, 1929).
+Goldman, Irving, "Status Rivalry and Cultural Evolution in Polynesia", American
+Anthropologist 57:680-697 (1955).
+, "Variations in Polynesian Social Organization", Journal of the Polynesian Society
+66:374-390 (1957).
+"The Evolution of Polynesian Societies", Culture and History (S. Diamond, ed.)
+(New York: Columbia University Press, 1960).
+Golson, Jack, "Polynesian Culture History", Journal of the Polynesian Society, 70:
+498-508 (1961).
+Goodenough, Ward, "Oceania and the Problem of Controls in the Study of Cultural
+and Human Evolution", Journal of the Polynesian Society 66:146-155 (1957).
+Grace, George, "Subgroupings of Malayo-Polynesian: A Report of Tentative Findings",
+American Anthropologist 57:337-39 (1955).
+, The Position of the Polynesian Languages within the Austronesian (MalayoPolynesian) Family (= Indiana University Publications in Anthropological Linguistics 16) (1959).
+Handy, E. S. Craighill, The Native Culture in the Marquesas ( = Bernice P. Bishop
+Museum Bull. 9) (Honolulu, 1923).
+, History and Culture in the Society Islands (= Bernice P. Bishop Mus. Bull. 79)
+Honolulu, 1930).
+Held, G. J., The Papuas of Waropen (The Hague: Koninklijk Instituut Voor Taal-,
+Land- En Volkenkunde, 1957).
+Henry, Teuira, Ancient Tahiti (= Bernice P. Bishop Mus. Bull. 48) (Honolulu, 1928).
+
+https://doi.org/10.1017/S0010417500001729 Published online by Cambridge University Press
+
+302
+
+MARSHALL D. SAHLINS
+
+Hogbin, H. Ian, "Culture Change in the Solomon Islands: Report of Field Work in
+Guadalcanal and Malaita", Oceania 4:233-267 (1933-34).
+, "Social Advancement in Guadalcanal, Solomon Islands", Oceania 8:289-305
+(1937-38).
+, "The Hill People of North-eastern Guadalcanal", Oceania 8:62-89 (1937-38a).
+, Experiments in Civilization (London: Geo. Routledge and Sos, 1939).
+, "Native Councils and Courts in the Solomon Islands", Oceania 14:258-283
+(1943-44).
+-, Transformation Scene: The Changing Culture of a New Guinea Village (London:
+Routledge and Kegan Paul, 1951).
+Hogbin H. and Camilla H. Wedgwood, "Local Groupings in Melanesia", Oceania
+23:241-276; 24:58-76 (1952-53, 1953-54).
+Ivens, W. G., Melanesians of the Southeast Solomon Islands (London: Kegan, Paul,
+Trench, Trubner and Co, 1927).
+Kaberry, Phyllis M., "The Abelam Tribe, Sepik District, New Guinea: a Preliminary
+Report", Oceania 11:233-258, 345-367 (1940-41).
+, "Law and Political Organization in the Abelam Tribe", Oceania 12:79-95,
+209-225, 331-363 (1941-42).
+Kirchhoff, Paul, "The Principles of Clanship in Human Society", Davidson Anthropological Journal 1:1-11 (1955).
+Landtman, Gunnar, The Kiwai Papuans of British New Guinea (London: Macmillan,
+1927).
+Linton, Ralph, "Marguesan Culture", The Individual and His Society (Ralph Linton
+and A. Kardiner) (New York: Columbia University Press, 1939).
+Malo, David, Hawaiian Antiquities (Honolulu: Hawaiian Gazette Co, 1903).
+Mariner, William, An Account of the Natives of the Tonga Islands (John Martin,
+compiler) (Edinburgh: Constable & Co, 1827).
+Mead, Margaret, "Kinship in the Admiralty Islands", Amer. Mus. Nat. Hist. Anthrop.
+Papers 34:181-358 (1934).
+, "The Manus of the Admiralty Islands", Cooperation and Competition among
+Primitive Peoples (M. Mead, ed.) (New York and London: McGraw-Hill, 1937).
+, "The Arapesh of New Guinea", Cooperation and Competition Among Primitive
+Peoples (M. Mead, ed.) (New York and London: McGraw-Hill, 1937a).
+, "The Mountain Arapesh I. An Importing Culture", Amer. Mus. Nat. Hist.
+Anthrop. Papers 36:139-349 (1938).
+-, "The Mountain Arapesh III. Socio-Economic Life", Amer. Mus. Nat. Hist.
+Anthrop. Papers 40:159-232 (1947).
+Meggitt, Mervyn, "Enga Political Organization: A Preliminary Description", Mankind
+5:133-137 (1957).
+, "The Enga of the New Guinea Highlands: Some Preliminary Observations",
+Oceania 28:253-330 (1957-58).
+Oliver, Douglas, A Solomon Islands Society (Cambridge: Harvard University Press,
+1955).
+Pospisil, Leopold, Kapauku Papuans and Their Law (— Yale University Publications
+in Anthropology, No. 54) (New Haven: Yale University Press, 1958).
+, "The Kapauku Papuans and their Kinship Organization", Oceania 30:188-205
+(1958-59).
+Powdermaker, Hortense, Life in Lesu (New York: W. W. Norton, 1933).
+Powell, H. A., "Competitive Leadership in Trobriand Political Organization", Jour.
+Royal Anthrop. Instit. 90:118-145 (1960).
+Read, K. E., "Social Organization in the Markham Valley, New Guinea", Oceania
+17:93-118 (1946-47).
+, "The Political System of the Ngarawapum", Oceania 20:185-223 (1949-50).
+, "The Nama Cult of the Central Highlands, New Guinea", Oceania 23:1-25
+(1952-53).
+, "Leadership and Consensus in a New Guinea Society", American Anthropologist
+61:425-436 (1959).
+https://doi.org/10.1017/S0010417500001729 Published online by Cambridge University Press
+
+POLITICAL TYPES
+
+303
+
+Reay, Marie, The Kuma (Melbourne University Press, 1959).
+Sahlins, Marshall D., Social Stratification in Polynesia ( = American Ethnological
+Society Monograph) (Seattle: University of Washington Press, 1958).
+——, "The Segmentary Lineage: An Organization of Predatory Expansion", American
+Anthropologist 63:322-345 (1961).
+Service, Elman R., Primitive Social Organization: An Evolutionary Perspective (New
+York: Random House, in press).
+Suggs, Robert C , Ancient Civilizations of Polynesia (New York: Mentor, 1960).
+Thomson, Sir Basil, The Diversions of a Prime Minister (Edinburgh and London:
+William Blackwood & Sos, 1894).
+Vayda, Andrew Peter, "Polynesian Cultural Distributions in New Perspective", American Anthropologist 61:817-828 (1959).
+Wedgwood, Camilla H., "Report on Research in Manam Island, Mandated Territory
+of New Guinea", Oceania 4:373-403 (1933-34).
+, "Manam Kinship", Oceania 29:239-256 (1958-59).
+Williams, F. E., "Orokaiva Society" (Oxford University Press, London: Humphrey
+Milford, 1930).
+, Drama of Orokolo (Oxford: Clarendon Press, 1940).
+Williamson, Robert W., The Mafulu: Mountain People of British New Guinea (London:
+Macmillan, 1912).
+Worsley, Peter, The Trumpet Shall Sound (London: Macgibbon and Kee, 1957).
+
+https://doi.org/10.1017/S0010417500001729 Published online by Cambridge University Press
+
+
