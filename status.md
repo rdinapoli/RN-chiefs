@@ -2,29 +2,22 @@
 
 ## Current Phase
 
-**Phase 2: Chiefdom Concept Genealogy** (active, 2026-03-16)
+**Phase 2: Chiefdom Concept Genealogy** (complete, 2026-03-16)
 
-Contact-era and post-slave-raid ethnographic sources fully processed (Eras 0-1, 21 sources). Batch 1 (in-repo PDFs) complete. Now processing the chiefdom concept genealogy chain: Sahlins → Service → Goldman → Kirch.
+Contact-era and post-slave-raid ethnographic sources fully processed (Eras 0-1, 21 sources). Batch 1 (in-repo PDFs) complete. Chiefdom concept genealogy chain fully processed.
 
-**Sahlins 1954 dissertation processed** (2026-03-16): Full 464-page PhD dissertation read chapter by chapter. 133 claims extracted. Easter Island treatment (pp. 99-106, 283-289, 355-356, 433-434) documented in full. Key findings: (1) Easter Island placed in Group IIa on stratification gradient; (2) redistribution evidence admitted as lacking, filled by Polynesian analogy; (3) all Easter Island data from post-slave-raid sources (no contact-era accounts cited); (4) ramage classification acknowledged as ecologically anomalous; (5) three-stage evolutionary scheme is direct precursor to Service's chiefdom typology.
+**Chiefdom concept genealogy complete**: Sahlins 1954 -> Sahlins 1955 -> Sahlins 1957 -> Sahlins & Service 1960 -> Service 1962 -> Sahlins 1963 -> Goldman 1970 -> Kirch 1984. All links in the chain have been processed. Key findings per source:
 
-**Kirch 1984 processed** (2026-03-16): Full 334-page book (*The Evolution of the Polynesian Chiefdoms*) read chapter by chapter. 121 claims extracted. KEY FINDINGS: (1) Kirch states ahu "do not reflect some kind of highly centralized, island-wide political authority" (p. 270); (2) quarry = "independently working crews" (pp. 270-271); (3) chiefdom label maintained via APS inheritance argument, not independent archaeological demonstration; (4) Goldman "Open" classification in Table 2 (p. 37) but not discussed in Ch. 11; (5) no contact-era sources cited; (6) ecocide narrative now largely overturned; (7) population of ~7,000 unsourced.
+- **Sahlins 1954** (133 claims): Easter Island placed in Group IIa based entirely on post-slave-raid sources; redistribution evidence admitted as lacking (p. 101), filled by Polynesian analogy; ramage classification acknowledged as ecologically anomalous.
+- **Sahlins 1955** (62 claims): Environmental channeling hypothesis; moai as redirected communal labor. Stone carver passage describes lineage-level commissioning, not centralized command. Redistribution asserted flatly, stripping dissertation qualifications.
+- **Sahlins 1957** (claims file): Published journal version of dissertation Part Two only; most concise statement of framework, most stripped of Easter Island caveats.
+- **Sahlins & Service 1960** (31 claims): Theoretical manifesto defining general vs. specific evolution. "Chiefdom" appears once (p. 36), not elaborated. Easter Island 6 times as adaptive specialization. The intellectual bridge to Service 1962.
+- **Service 1962** (42 claims): Formalizes band/tribe/chiefdom/state. Easter Island NEVER MENTIONED. Chiefdom = "redistributional societies with a permanent central agency of coordination" (p. 144). Easter Island fails every criterion.
+- **Sahlins 1963** (40 claims): Big-man/chief binary places all Polynesia on "chief" side by geographic definition. Easter Island's matatoa system fits "big-man" better.
+- **Goldman 1970** (141 claims): Classified Easter Island as "Open" society; "had never evolved a central authority" (p. 94). Redistribution lay with commoner heads, not ariki mau. No central authority undertook monument construction.
+- **Kirch 1984** (121 claims): Ahu "do not reflect some kind of highly centralized, island-wide political authority" (p. 270); quarry = "independently working crews" (pp. 270-271). Chiefdom maintained by APS inheritance assumption, not archaeological demonstration.
 
-**Goldman 1970 processed** (2026-03-16): Full 632-page book (*Ancient Polynesian Society*) read through all relevant chapters. 141 claims extracted. KEY FINDINGS: (1) Goldman independently classified Easter Island as "Open" society that "had never evolved a central authority" (p. 94); (2) Warriors gained both political AND religious power, unique in Polynesia (p. 96); (3) Redistribution explicitly lay "not with the ariki mau, but with heads of commoner groups" (pp. 114-115); (4) No central authority ever undertook local monument construction (pp. 106-107); (5) Ariki mau "probably never a powerful secular ruler" (p. 115); (6) Political tradition was "separatist" (p. 119), committed "only to the principle of religious unity" (pp. 118-119); (7) Easter Island lacked rangatira rank (p. 116); (8) Goldman's developmental direction: Traditional -> Open -> Stratified, with Easter Island as intermediate stage; (9) Kirch 1984 Table 2 includes Goldman's classification but Ch. 11 never engages with it.
-
-**Sahlins 1963 processed** (2026-03-16): "Poor Man, Rich Man, Big-Man, Chief" (*CSSH* 5(3):285-303). 40 claims extracted. KEY FINDINGS: (1) Crystallizes big-man/chief binary that places all Polynesia on "chief" side by geographic definition, not island-specific examination; (2) Easter Island mentioned once (geographic boundary), never analyzed or cited; (3) "Polynesian chief" built from Hawaii (Malo, Fornander), Tahiti, Tonga data; (4) Service 1962 listed as "in press," confirming contemporaneous development; (5) Goldman cited for status rivalry but "Open" classification implication not drawn; (6) Easter Island's matatoa system fits Sahlins's own "big-man" description better than his "chief" type.
-
-**Service 1962 processed** (2026-03-16): *Primitive Social Organization* (Random House, 211pp). 42 claims extracted. KEY FINDINGS: (1) Formalizes band/tribe/chiefdom/state as universal evolutionary stages; (2) Chiefdom = "redistributional societies with a permanent central agency of coordination" (p. 144); (3) Easter Island NEVER MENTIONED in the entire book; (4) Polynesia is the paradigmatic chiefdom region but only Hawaii, Tahiti, Tonga, Maori, Samoa cited; (5) Sahlins 1958 is the primary Polynesian source; (6) The feedback loop is now complete: Sahlins -> Service -> Kirch; (7) Easter Island fails every defining criterion of Service's chiefdom (no centralized redistribution, no hereditary offices outside Miru, no centrally directed labor, no continuous genealogical ranking).
-
-Total: 39 sources processed, 38 claims files, 34 summaries, 5 evidence files populated.
-
-**Chiefdom concept genealogy now complete**: Sahlins 1954 -> Sahlins 1955 -> Sahlins 1957 -> Service 1962 -> Sahlins 1963 -> Goldman 1970 -> Kirch 1984. All links in the chain have been processed.
-
-**Sahlins & Service 1960 processed** (2026-03-16): *Evolution and Culture* (University of Michigan Press, ~130pp). 31 claims extracted. Theoretical manifesto defining general vs. specific evolution. The intellectual scaffolding for Service 1962's typology. "Chiefdom" appears exactly once (Sahlins Ch. II, p. 36) in an embryonic sketch of evolutionary stages; not elaborated as a category. Easter Island appears 6 times, all citing Sahlins 1955: moai as "esoteric efflorescence," an adaptive specialization within a ramage organization. Service's chapter (V) contains no sociopolitical typology; it is about evolutionary potential. No other Polynesian island mentioned. The bridge between Sahlins's empirical Polynesian work and Service's formal typology.
-
-Total: 40 sources processed, 39 claims files, 35 summaries, 5 evidence files populated.
-
-**Chiefdom concept genealogy now complete**: Sahlins 1954 -> Sahlins 1955 -> Sahlins 1957 -> **Sahlins & Service 1960** -> Service 1962 -> Sahlins 1963 -> Goldman 1970 -> Kirch 1984. All links in the chain have been processed.
+**Total: 40 sources processed, 39 claims files, 35 summaries, 5 evidence files populated.**
 
 **Next processing priorities**:
 1. **Kirch 2010** (*How Chiefs Became Kings*): Not yet in repo. User to acquire.

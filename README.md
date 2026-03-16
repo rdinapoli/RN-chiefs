@@ -29,11 +29,18 @@ RN-chiefs/
       summary_template.md            # Template for paper summaries
       claims_template.md             # Template for claims extraction
       summaries/                     # Completed paper summaries
-      claims/                        # Completed claims extractions (32 files)
+      claims/                        # Completed claims extractions (39 files)
       pdfs/                          # Source PDFs
         european_accounts/           # Contact-era account PDFs (1722-1862)
         post_slave_raid/             # Post-slave-raid ethnography PDFs (1864-1957)
-        sahlins_1954/                # Sahlins dissertation + OCR text
+        sahlins_1954/                # Sahlins 1954 dissertation + OCR text
+        sahlins_1955/                # Sahlins 1955 "Esoteric Efflorescence"
+        sahlins_1957/                # Sahlins 1957 JPS article
+        sahlins_service_1960/        # Sahlins & Service (eds.) 1960
+        service_1962/                # Service 1962, Primitive Social Organization
+        sahlins_1963/                # Sahlins 1963 "Poor Man, Rich Man"
+        goldman_1970/                # Goldman 1970, Ancient Polynesian Society
+        kirch_1984/                  # Kirch 1984, Evolution of the Polynesian Chiefdoms
     evidence/
       contact_accounts_evidence.md   # Contact-era accounts evidence
       ethnographic_sources_evidence.md  # Post-slave-raid sources evidence
@@ -42,7 +49,7 @@ RN-chiefs/
       chiefdom_attribution_evidence.md  # Chiefdom attribution chain evidence
       circularity_demonstration.md   # Five-step circularity evidence
     working/
-      bibliography_checklist.md      # Master bibliography (82 sources)
+      bibliography_checklist.md      # Master bibliography (84 sources)
       narrative_construction_analysis.md  # Narrative construction analysis (1722-1957)
       rapa_nui_paper_outline.md      # Working paper outline
   R/                                 # R scripts for figures
