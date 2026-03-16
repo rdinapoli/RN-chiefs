@@ -61,6 +61,8 @@ Routledge 1919 is critical for the chiefdom attribution argument for five reason
 
 5. **It is the first account independent of Salmon, and it diverges from Thomson on critical points.** Routledge's informants (working without Salmon as intermediary) described a system without monarchy, without taxation, and without district chiefs, while Thomson (working through Salmon) described an "arbitrary monarchy." The divergence raises the question of how much of Thomson's political description reflects Salmon's framework rather than Rapanui tradition.
 
+6. **Chapter XIV's detailed account of moai production contains no evidence for chiefly command.** Routledge's Chapter XIV (pp. 175-199) is the most detailed early account of moai quarrying, carving, and transport. Despite this detail, she provides no evidence that the ariki-mau or any chief directed monument production. The chiefdom model assumes monument construction was organized by chiefly command; the most thorough early researcher documented the production process without finding evidence for this assumption.
+
 The paper should present Routledge as the strongest post-raid source precisely because she spent the most time, used the most rigorous methods, worked independently of Salmon, and still found no evidence for a functioning chiefdom. Her simultaneous documentation of the Miru's exceptional ceremonial status and the ariki-mau's lack of political authority captures exactly the ambiguity that the chiefdom model collapses into a false clarity.
 
 ## Claims File

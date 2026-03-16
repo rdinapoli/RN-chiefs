@@ -157,7 +157,7 @@ Key claims for political authority:
 
 6. **No king list provided.** Routledge collected "all the lists" but found fundamental confusion: "The sons of Hotu-matua are not known exactly" (pp. 281-282). She does not reproduce a numbered king list.
 
-7. **No tribute, no redistribution, no taxation** described anywhere. The closest approach is the annual pua offering and the rongorongo assembly where the ariki distributed chickens.
+7. **No routine tribute, redistribution, or taxation** described anywhere. The closest approach is the rongorongo assembly (p. 245), where "the inhabitants of the neighbouring districts brought offerings of food to Ngaara, that he should be able to supply the multitude," and the ariki gave each rongorongo man a chicken (p. 246). This food mobilization was specific to the annual rongorongo gathering, not routine economic redistribution. The annual pua offering (p. 243) involved ritual deference, not material tribute.
 
 8. **No kio (servant/slave) class mentioned.** No succession rules elaborated beyond "resign in favour of his son" when "old and feeble" (p. 241). No priests (p. 239). No formal worship or sacrifice (p. 236).
 

@@ -170,7 +170,9 @@ Routledge adds: Salmon "appears to have taken little interest in the surviving c
 
 "as many as several hundreds of them came together. The younger and more energetic of the population assembled from all districts in the island to look on." The ariki and his son Kaimokoi "sat on seats made of tablets, and each had a tablet in his hand; they wore feather hats, as did all the professors." (p. 245, Te Haha's personal recollection)
 
-**(b) Reported tradition (firsthand memory).** Island-wide rongorongo assembly under ariki-mau's authority. Rongorongo men "arranged in rows, with an alley-way down the centre to the Ariki." Failed students were publicly corrected; the ariki stood on a platform borne by eight men and "gave them each a chicken" (p. 246). This is the closest to chiefly redistribution behavior in the entire account.
+"The inhabitants of the neighbouring districts brought offerings of food to Ngaara, that he should be able to supply the multitude, and the oven was 'five yards along.'" (p. 245)
+
+**(b) Reported tradition (firsthand memory).** Island-wide rongorongo assembly under ariki-mau's authority. Rongorongo men "arranged in rows, with an alley-way down the centre to the Ariki." Failed students were publicly corrected; the ariki stood on a platform borne by eight men and "gave them each a chicken" (p. 246). The food-offerings passage describes a form of redistribution: people from neighboring districts brought food TO the ariki-mau so he could feed the assembled rongorongo men. This is the closest to chiefly redistribution behavior in the entire account, but it was specific to the annual rongorongo assembly, not routine economic redistribution: people brought food to enable a particular gathering, not as regular tribute.
 
 **2.11. Ariki-mau's lethal supernatural power** [POST-RAID]
 
@@ -392,11 +394,11 @@ The kio (servant/slave class described by Roussel and Thomson) does not appear i
 
 **(b) Reported tradition.** Direct horizontal exchange without redistribution through a chiefly center.
 
-**6.2. No tribute or redistribution described**
+**6.2. No routine tribute or redistribution described**
 
-Nowhere in Routledge's account does she describe tribute payments to chiefs, redistributive feasting organized by chiefs, or systematic extraction of surplus. The feasts described (paina, koro, kaunga) are organized by families for family members.
+Nowhere in Routledge's account does she describe regular tribute payments to chiefs, redistributive feasting organized by chiefs as a routine political function, or systematic extraction of surplus. The feasts described (paina, koro, kaunga) are organized by families for family members. The one passage approaching redistribution is the rongorongo assembly (p. 245), where "the inhabitants of the neighbouring districts brought offerings of food to Ngaara, that he should be able to supply the multitude." This describes food mobilization for a specific annual ceremonial event (the rongorongo gathering at Anakena), not the routine economic redistribution that chiefdom models require. The ariki-mau also gave each rongorongo man a chicken (p. 246), but this was payment for participation in knowledge assessment, not general redistribution.
 
-[Significant absence.] Strongly undermines chiefdom attribution.
+[Significant absence of routine redistribution.] The rongorongo assembly represents the ariki-mau's closest approach to redistributive behavior, but its ceremonial specificity and annual limitation distinguish it from the systematic redistribution of the Kirch/Sahlins chiefdom model.
 
 **6.3. Chicken houses more elaborate than human dwellings** [POST-RAID]
 
@@ -524,13 +526,13 @@ Kapiera placed the Kotuu-Hotu Iti wars "during the time of Ngaara's grandfather,
 
 ### 10. Significant Absences and European Categories
 
-**10.1. No tribute or redistribution** described anywhere in Routledge's account.
+**10.1. No routine tribute or redistribution** described anywhere in Routledge's account. The one exception is the rongorongo assembly (p. 245), where neighboring districts brought food to the ariki-mau to feed the gathered scholars; see claim 2.10. This was a specific annual ceremonial context, not routine economic redistribution.
 
 **10.2. No succession rules** described, despite 17 months of fieldwork. Compare: Roussel says abdication when son marries; Thomson says eldest son; Geiseler says brother. Routledge's silence after the most thorough fieldwork suggests the rules were either forgotten, never standardized, or differently reconstructed by different informants. (Routledge notes in passing that the ariki-mau "should resign in favour of his son" when "old and feeble" [p. 241], partially consistent with Roussel's abdication.)
 
 **10.3. No kio (servant/slave) class** mentioned.
 
-**10.4. No chiefly role in monument construction** described.
+**10.4. No chiefly role in monument construction** described. This absence is analytically significant because Routledge's Chapter XIV (pp. 175-199) provides the most detailed early account of moai quarrying, carving, and transport. She describes the quarry layout, carving techniques, the unfinished statues in various stages, and transport traditions in considerable detail, yet nowhere attributes any aspect of monument production to chiefly command, direction, or oversight. The chiefdom model assumes monument production was organized by chiefs; the most thorough early researcher documented the production process without finding evidence for this assumption.
 
 **10.5. No king list** provided, despite collecting "all the lists" and noting contradictions.
 
@@ -572,7 +574,7 @@ Routledge's account, the most extensive and methodologically rigorous early ethn
 3. **The chief could not compel obedience** from his own servant (p. 249) and was captured and enslaved by another clan (p. 246).
 4. **The tangata manu system was a rotating competitive institution** with minimal practical benefits (p. 264), in which the winner spent most of his term in seclusion and then "returned to ordinary life" (p. 265).
 5. **The ariki-mau and tangata manu were separate institutions.** The ariki-mau was absent from Orongo (p. 260). The Miru were victimized when another clan held Ao status (p. 259).
-6. **No tribute, no redistribution, no taxation** described anywhere.
+6. **No routine tribute, redistribution, or taxation** described anywhere. The one passage approaching redistribution is the rongorongo assembly (p. 245), where neighboring districts brought food to the ariki-mau so he could feed the gathered scholars, but this was a specific annual ceremonial event, not the systematic economic redistribution that chiefdom models require.
 7. **No succession rules, no king list, no priestly class, no kio class** described.
 8. **Marriage was unrestricted** between clans (p. 221).
 9. **Warfare was led by achieved "great men,"** not hereditary chiefs (pp. 224, 283).
