@@ -292,6 +292,14 @@ Each entry follows this format:
 
 ---
 
+## Valeri 1985 (*Kingship and Sacrifice: Ritual and Society in Ancient Hawaii*)
+**File**: `pdfs/valeri_1985/Valeri_1985.pdf` (443pp, 56.3MB; OCR: `valeri_1985_ocr.txt`, selected chapters)
+**Tags**: polynesian-analogy, political-authority
+**Pipeline**: claims / summary / index
+**Notes**: Most detailed structuralist account of Hawaiian kingship, sacrifice, and ritual hierarchy. Valeri (trained by Levi-Strauss/Dumont, Sahlins's Chicago colleague) defines the political-ritual system Kirch's comparative framework exports to other islands. Selective processing: Introduction (source criticism), Ch. 3 (kapu/noa, mana), Ch. 5 (sacrifice and kingship, land tenure, political system), Ch. 6 (temple hierarchy), Conclusion. 63 claims extracted. Key for Polynesian analogy assessment: 12 specific features of the Hawaiian system (human sacrifice, divine kingship, graduated kapu, royal incest, hierarchical priesthood, land redistribution, firstfruits chain, temple hierarchy, annual ritual cycle, substantialized mana, genealogical verification, faction-based succession) have no archaeological or ethnohistoric parallel on Rapa Nui.
+
+---
+
 ## McCoy 1976 (*Easter Island Settlement Patterns*)
 **File**: `mccoy_1976.pdf`
 **Tags**: settlement-patterns, chiefdom-attribution, archaeological-evidence, circularity

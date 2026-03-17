@@ -149,6 +149,61 @@ Van Tilburg is the first scholar to systematically apply Polynesian analogies to
 
 **Critical assessment**: None of these analogies is tested against independent evidence that Easter Island's social organization matched the source societies. Tikopia (small, chieftainship documented by Firth's direct observation), Tahiti (large stratified chiefdom with elaborate priest-chief apparatus), and the Marquesas (complex hierarchy documented by multiple observers) are all structurally distinct from Easter Island in ways that Goldman (1970) and Sahlins (1954) themselves acknowledged. The analogies treat "Polynesia" as a uniform cultural field in which social meanings are transferable between societies separated by thousands of kilometers and centuries of independent development. Van Tilburg explicitly states the Polynesian matrix is "assumed" (p. 299).
 
+### Valeri's Hawaiian Source Model (1985)
+
+**Source**: Valeri 1985, *Kingship and Sacrifice: Ritual and Society in Ancient Hawaii*, University of Chicago Press. Full claims extraction: `docs/references/claims/valeri_1985_claims.md` (63 claims, selective processing).
+
+**Why it matters**: Valeri provides the detailed content of the Hawaiian political-ritual system that Kirch's comparative framework assumes when applying the "chiefdom" label across Polynesia. When Kirch (1984) argues that chiefdom institutions were inherited from Ancestral Polynesian Society, the implicit claim is that something resembling Valeri's system existed in attenuated form on every Polynesian island. Understanding the source model in detail reveals the magnitude of the gap between what the analogy claims and what the Rapa Nui record contains.
+
+**The Hawaiian system as Valeri describes it**:
+
+1. **Human sacrifice as royal prerogative**: The king alone could consecrate human sacrifice in the luakini temple. This privilege "rather than a special title, sets him apart from the rest of the nobility" (p. 141). Victims were immobilized, eyes gouged out, bodies singed and placed on altars, bones preserved as relics by ali'i (pp. 336-339).
+
+2. **Graduated kapu system**: Kapu/noa as purely relational markers of hierarchical distance. Bidirectional pollution: superiors pollute inferiors through greater mana, inferiors pollute superiors through transgression (p. 91). The prostration taboo (kapu moe), requiring all to fall prostrate before highest-ranking ali'i and gods (p. 147).
+
+3. **Divine kingship**: The king "is the closest instantiation of the major gods" (p. 142). His birth produced cosmic effects (storms, earthquakes, rainbows). He shared divine insignia (feather cloaks, kahili, 'aha kapu). He was invisible to commoners, immobile as a mark of divine plenitude, and equated with sharks as devourer of transgressors (pp. 146-151).
+
+4. **Substantialized mana**: In Hawaii, mana was conceived as "an invisible substance" transmitted through spitting, breathing, prayer, and sacrifice (pp. 99-100). Ho'omana ("to worship") literally means "to cause to be mana" (p. 102). Gods "who no longer receive human recognition in the form of sacrifices and prayers die" (p. 104). This is a specific theological system, not a generic attribute of monumental objects.
+
+5. **Hierarchical priesthood**: Kahuna pule (temple priests in hereditary orders of Ku and Lono), kahuna nui (high priest controlling royal religious duties), professional kahuna (specialists in canoe-building, astrology, medicine, etc.), kaula (prophets), sorcery priests (pp. 135-139).
+
+6. **Land redistribution**: All land rights flowed from the king. "No right to land is permanent or hereditary in principle" (p. 155). At each accession, the king redistributed lands among supporters in a chain descending "to the sixth or seventh degree" (p. 154).
+
+7. **Firstfruits chain**: "Each holder of a land title gives the firstfruits of his land to the individual from whom he holds his title. These prestations follow the hierarchical route until they reach the king, who consecrates them to the major gods" (p. 156).
+
+8. **Temple hierarchy**: 816+ documented heiau in hierarchical system: luakini (exclusively royal, human sacrifice) > hale o Lono (agricultural) > ko'a (fishing) > unu (universal). King owned principal temple of each type in each district (pp. 183-187).
+
+9. **Annual ritual cycle**: Eight-month period of open temples. King consecrates main luakini first, then agricultural temples. Subordinates build temples in rank order. The king "reproduces society as a consistent system, as a totality" through this sequential process (p. 187).
+
+10. **Genealogical verification**: The hale naua ceremony at which the king publicly verified genealogical claims within 10 generations. "A noble is an individual who is able to trace a genealogical relationship to the reigning king" (p. 157).
+
+11. **Faction-based succession**: "There are no clear or automatic rules of succession" (p. 159). "The kingdom is always conquered by its king" (p. 160). Factional warfare perpetual; succession involves fratricidal sacrifice of rivals.
+
+12. **Royal incest**: "High-ranking ali'i manifest their autonomy, their capacity to be self-sufficient, by practicing incestuous marriage" (p. 147). Produces ranked offspring (pi'o, ni'aupi'o). "Forbidden to lower-ranking ali'i precisely because it has a creative and not solely a preservative value" (p. 147).
+
+**Rapa Nui record for each feature**:
+
+| Hawaiian Feature | Rapa Nui Evidence | Status |
+|---|---|---|
+| Human sacrifice / luakini | No archaeological or ethnohistoric evidence | **Absent** |
+| Graduated kapu with prostration | No contact-era observer reports prostration or graduated taboo behavior | **Absent** |
+| Divine kingship with cosmic effects | Ariki mau "certainly not a ruler or civilian chief" (Metraux 1937:58) | **Contradicted** |
+| Substantialized mana via sacrifice | No ritual system for mana transmission described | **Absent** |
+| Hierarchical priesthood | No hereditary priestly orders documented | **Absent** |
+| Land redistribution at accession | Kin-group land tenure (Stevenson 1984, Mulloy & Figueroa 1966) | **Contradicted** |
+| Firstfruits chain | "Little direct evidence" (Sahlins 1954:101); Goldman: redistribution with commoner heads (1970:114-115) | **Unsupported** |
+| Temple hierarchy (luakini system) | Ahu as descent-group structures (Kirch 1984:270); no restricted-access hierarchy | **Absent** |
+| Annual ritual cycle by rank | Tangata manu annual, competitive, nonhereditary; no sequential temple consecration | **Absent** |
+| Genealogical verification ceremony | King lists irreconcilable across sources (Metraux 1940, Table 2) | **Absent** |
+| Faction-based warfare for succession | Matatoa-dominated conflict, but not aimed at centralized succession | **Partial** |
+| Royal incest producing ranked offspring | No comparable institution in any source | **Absent** |
+
+**Significance for the argument**: Valeri's analysis specifies what the Hawaiian "chiefdom" actually consisted of. The gap between this system and the Rapa Nui record is not one of degree but of kind. Eleven of twelve defining features are absent or contradicted. The Polynesian analogy, when made explicit, requires that something resembling this institutional architecture existed on Rapa Nui. The available evidence provides no support for this claim.
+
+**Valeri's own position**: The Conclusion (pp. 340-347) makes no comparative Polynesian claims. Valeri never suggested the Hawaiian model was generalizable to other islands. The export of this model to Rapa Nui is entirely the work of subsequent scholars (Kirch 1984, Van Tilburg 1986) who treated "Polynesian chiefdom" as a transferable category.
+
+---
+
 ## The Analogy's Requirements
 
 ### Historical Continuity Assumptions
