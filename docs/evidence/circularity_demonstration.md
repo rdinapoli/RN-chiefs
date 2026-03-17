@@ -79,13 +79,29 @@ The circularity is structurally identical to Step 3 but operates on material cul
 - Van Tilburg acknowledges Mulloy & Figueroa 1978 on independent quarry groups (p. 349) but presents this as compatible with her model rather than as evidence against centralized command.
 - Goldman's "Open" classification (Easter Island "had never evolved a central authority," 1970:94) is reframed to apply only to the late period (p. 343), reversing Goldman's analysis of the overall system.
 
+**Van Tilburg 1994 as Step 4 completion and Step 5 inauguration.** The 1994 book represents the moment when Step 4 closes and Step 5 begins. The progressive hardening from "assumed" (1986) to definitional "was" (1994) completes the transformation of analogical inference into established knowledge:
+
+(1) **Kirch 1984:270 vanishes**: The crucial limiting statement ("do not reflect some kind of highly centralized, island-wide political authority") that Van Tilburg quoted in the 1986 dissertation (p. 349) is absent from the 1994 book. The chiefdom model is no longer qualified by the strongest internal counter-evidence from its own originator.
+
+(2) **Goldman dismissed rather than engaged**: Goldman's "Open" classification, which Van Tilburg reframed to the late period in 1986, is dismissed as "overly simplistic" in 1994 (p. 100). The only published alternative classification by a major Polynesian comparativist is now explicitly rejected.
+
+(3) **No new evidence**: The same post-slave-raid sources (Métraux 1940, Routledge 1919, Englert 1948), the same Polynesian analogies (extended with Rotuma and Mangaia but methodologically identical), and the same iconographic interpretations support the 1994 book's definitional chiefdom claim as supported the 1986 dissertation's exploratory hypothesis.
+
+(4) **The self-referential chain**: The citation pattern creates cumulative authority through repetition: Van Tilburg 1986 cites Kirch 1984 and Stevenson 1986. Van Tilburg 1994 cites Van Tilburg 1986 and Kirch 1984. Subsequent works cite Van Tilburg 1994. Each citation adds a layer of apparent authority without adding independent evidence. The chiefdom label is confirmed not by new data but by the accumulation of publications that assume it.
+
 ### Step 5: Presented as Independent Confirmation
 
 **What happened**: The archaeological evidence is presented as independent confirmation of the chiefdom model, but the model was never derived from that evidence in the first place.
 
 **Evidence**:
 
-(Specific passages where archaeological evidence is claimed to independently support what was actually assumed from the start)
+**Van Tilburg 1994 as Step 5 key document**: By 1994, the chiefdom label has become the starting point for analysis rather than its conclusion. The book's opening claim ("the Rapa Nui was a tribal society organised as a Polynesian chiefdom," p. 94) treats the chiefdom as given, then reads the archaeological evidence through it. When statue distribution, ahu elaboration, or pukao placement patterns are described, they are interpreted as "evidence" for chiefly power. But the interpretive framework was never derived from this evidence; it was imported from Kirch 1984 via the APS inheritance argument and from Sahlins via the Polynesian analogy.
+
+The strongest example is the statue-subordination claim: "every statue reinforced the subordination of each individual lineage chief to the dominant paramount chief" (p. 103). The statue evidence (statues exist on lineage-specific ahu) is equally consistent with: (a) ancestor veneration within autonomous lineages; (b) competitive display among autonomous groups; (c) collective action for communal purposes; (d) the "conventional" interpretation Van Tilburg herself acknowledged in 1986. But only the chiefdom interpretation is presented, because the chiefdom framework was the starting point.
+
+The internal tensions in the book (Chapter 2 methodological caveats, Europeans never seeing the ariki mau, the sau comparison, the "collaborative religious coping" endnote, "implied gain" over coercion, warfare skepticism) collectively suggest that the evidence is more compatible with non-chiefdom interpretations. But these tensions operate as asides and endnotes within a framework that treats the chiefdom as established. They are never assembled into a challenge to the framework itself.
+
+*Remaining: Martinsson-Wallin 1994, Stevenson 2002 "Territorial Divisions," Diamond 2005, and other Stage 5 consolidation sources need processing to complete Step 5 documentation.*
 
 ## Key Passages to Locate
 

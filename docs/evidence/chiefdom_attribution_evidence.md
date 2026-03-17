@@ -250,7 +250,35 @@ Each stage is interpreted through Polynesian analogies (Tikopia, Tahiti, Marques
 
 **Assessment against current evidence**: Van Tilburg's interpretive framework rests on: (a) the population estimate of 9,659 (Stevenson 1984:172), contradicted by Davis et al. 2024 (max ~3,900); (b) the ecocide narrative, substantially undermined; (c) centralized moai production, contradicted by Lipo et al. 2025 (30 independent quarry workshops) and Lipo et al. 2013 (18-person transport); (d) territorial control, contradicted by DiNapoli et al. 2019 (freshwater-based ahu placement).
 
-*Remaining: Bahn & Flenley 1992, Martinsson-Wallin 1994, Van Tilburg 1994, Diamond 2005 awaiting processing*
+**Van Tilburg 1994** (*Easter Island: Archaeology, Ecology, and Culture*), British Museum Press / Smithsonian, 225 pp:
+
+Van Tilburg 1994 is the pivotal consolidation of the chiefdom attribution: the moment when the tentative 1986 hypothesis becomes the field's default description. The book opens Chapter 6 with "the Rapa Nui was a tribal society organised as a Polynesian chiefdom" (p. 94), stated as definitional fact, not hypothesis. Compare the 1986 dissertation, where the Polynesian framework was explicitly "assumed" (p. 299).
+
+**The progressive hardening from 1986 to 1994:**
+
+No new archaeological evidence supports the transition. The same Métraux 1940 passages, the same Polynesian analogies (Tikopia, Tahiti, Marquesas, now extended with Rotuma and Mangaia), and the same iconographic interpretations are redeployed with elevated epistemic status. The shift is rhetorical, not evidential:
+
+- **Chiefdom label**: 1986 "assumed" -> 1994 "was" (definitional)
+- **Goldman's "Open"**: 1986 reframed to late period -> 1994 dismissed as "overly simplistic" (p. 100)
+- **Miller & Tilley framework**: 1986 explicit theoretical engine -> 1994 absent from bibliography
+- **Moai-as-paramount-chief**: 1986 "two possible suggestions" -> 1994 "I believe" (strengthened)
+- **Kirch 1984:270**: 1986 quoted explicitly -> 1994 absent (the limiting statement that ahu "do not reflect some kind of highly centralized, island-wide political authority" vanishes)
+- **Service 1962, Sahlins 1955, Feinman & Neitzel 1984**: absent in both 1986 and 1994
+
+**Epistemologically significant admissions in the 1994 book:**
+
+1. "There is no evidence, however, that Europeans ever actually saw the ariki mau" (p. 96). The entire description of chiefly authority derives from post-slave-raid sources.
+2. The ariki mau is compared to the Rotuman sau, who "exercised no direct political power" (pp. 96-97). Implications not followed through.
+3. Ch. 6 endnote 37: moai production described as "society-wide collaborative religious coping enacted on a lineage or multi-lineage political level," language far more compatible with collective action than chiefdom command.
+4. Van Tilburg favors "implied gain" (voluntary affiliation for spiritual benefit) over coercion for labor mobilization, the core mechanism of collective action theory.
+5. "Virtually no evidence of warfare in the sense of large-scale confrontations" (p. 116). Mata'a skepticism: "facile to continue to cite the huge number of mata'a alone" (p. 117).
+6. Social complexity "not clearly articulated research question as yet in Rapa Nui studies" (pp. 103-104).
+
+**Significance for the attribution chain**: Van Tilburg 1994 completes Stage 4 and inaugurates Stage 5. After this book, the chiefdom label is the established default. Anyone citing it for Rapa Nui political organization inherits the framework as settled knowledge. The book's wide distribution through two prestigious presses and its accessible format made it the standard reference for non-specialist readers. Subsequent works (Martinsson-Wallin 1994, Diamond 2005, Fischer 1997) inherit this default without re-examining its foundations.
+
+**The self-referential citation chain is now complete**: Kirch 1984 (APS inheritance) -> Stevenson 1986 (editorial reframing) -> Van Tilburg 1986 (moai as chiefdom evidence) -> Van Tilburg 1994 (chiefdom as established default). At no point in this chain was the chiefdom model derived from Rapa Nui-specific data. At no point was it tested against alternative interpretations. At no point was new archaeological evidence introduced that specifically supported it.
+
+*Remaining: Bahn & Flenley 1992, Martinsson-Wallin 1994, Diamond 2005 awaiting processing*
 
 ### Stage 5: Archaeological challenges emerge
 

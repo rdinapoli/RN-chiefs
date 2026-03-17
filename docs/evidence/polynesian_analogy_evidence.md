@@ -149,6 +149,26 @@ Van Tilburg is the first scholar to systematically apply Polynesian analogies to
 
 **Critical assessment**: None of these analogies is tested against independent evidence that Easter Island's social organization matched the source societies. Tikopia (small, chieftainship documented by Firth's direct observation), Tahiti (large stratified chiefdom with elaborate priest-chief apparatus), and the Marquesas (complex hierarchy documented by multiple observers) are all structurally distinct from Easter Island in ways that Goldman (1970) and Sahlins (1954) themselves acknowledged. The analogies treat "Polynesia" as a uniform cultural field in which social meanings are transferable between societies separated by thousands of kilometers and centuries of independent development. Van Tilburg explicitly states the Polynesian matrix is "assumed" (p. 299).
 
+### Van Tilburg's Expanded Analogies (1994)
+
+**Source**: Van Tilburg 1994, *Easter Island: Archaeology, Ecology, and Culture*. Full claims extraction: `docs/references/claims/van_tilburg_1994_claims.md`.
+
+The 1994 book extends the 1986 analogical program. The same interpretive method (material feature -> Polynesian analogue -> imported meaning -> "archaeological evidence") is applied, but with two significant additions:
+
+**New analogies in 1994**:
+- **Rotuma** (Republic of Fiji): The sau comparison. Van Tilburg compares the ariki mau to the Rotuman sau, who "exercised no direct political power, although eligibility to the office was limited to those of chiefly rank" (pp. 96-97). This is the most epistemologically honest analogy in either the dissertation or the book, because it points to a Polynesian parallel where the ritual leader explicitly lacked political authority. However, Van Tilburg does not follow through on its implications: if the ariki mau was like the sau, the chiefdom model predicated on ariki mau as political authority collapses.
+- **Mangaia**: The birdman cult parallel is developed at length (pp. 100-101). The Mangaia Temporal Lord / High Priest distinction is compared to the matatoa / ariki mau distinction. Van Tilburg argues that Rapa Nui "avoided" the "ferocious warfare of Mangaia" through the institutionalized competition at Orongo (p. 101). The Mangaia parallel is used to interpret the birdman cult as a controlled mechanism for power transfer.
+- **Tahaki archetype**: The pan-Polynesian mythic hero is applied to moai iconography as "the perfect chief" (Ch. 9). This is a new concept absent from 1986.
+
+**Continuities from 1986**:
+- **Tikopia** (Firth): Expert/chief cooperation retained.
+- **Tahiti**: Marae and maro traditions retained and expanded.
+- **Marquesas**: Haka'iki contrast (new in context of sau comparison).
+
+**Critical assessment**: The 1994 analogies exhibit the same methodological problem as the 1986 ones: no independent test of whether Easter Island's political organization matched the source societies. The Rotuma comparison is particularly revealing: Van Tilburg finds a Polynesian parallel where the chief had no political power, introduces it honestly, and then continues to call Easter Island a chiefdom. The analogy selects confirming parallels from a diverse Polynesian field and ignores (or introduces without following through) disconfirming ones.
+
+The justification for the analogy has shifted. In 1986, the Polynesian matrix was "assumed" (p. 299). In 1994, Van Tilburg justifies the analogy by the very fact that Rapa Nui's traditions are broken: "On islands like Rapa Nui, where there was a serious break in traditional historic continuity due to outside influence, this Pacific context is an especially important research advantage" (p. 40). The absence of evidence for Rapa Nui's political organization becomes the reason to import the model from elsewhere, a logical move that prevents the analogy from ever being falsified by local evidence.
+
 ### Valeri's Hawaiian Source Model (1985)
 
 **Source**: Valeri 1985, *Kingship and Sacrifice: Ritual and Society in Ancient Hawaii*, University of Chicago Press. Full claims extraction: `docs/references/claims/valeri_1985_claims.md` (63 claims, selective processing).
