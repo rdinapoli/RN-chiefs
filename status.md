@@ -19,11 +19,14 @@ Contact-era and post-slave-raid ethnographic sources fully processed (Eras 0-1, 
 
 **Stevenson 1984-to-1986 transition documented** (2026-03-16): Stevenson 1984 dissertation (95 claims) and Stevenson 1986 chapter (90 claims) both processed. The 1986 chapter in Kirch's *Island Societies* volume does NOT use "chiefdom"; Service and Kirch are not cited. But the theoretical infrastructure (Fortes, Firth, Kirchhoff, Hayden & Cannon) that made corporate group analysis a principled alternative is stripped away, the explicit rejection of unilinear evolution is dropped, and "reverted to non-ranked structure" becomes "corporate solidarity weakened." Editorial context does the reframing. Documents Step 3 of the five-step circularity: independent archaeological analysis absorbed into chiefdom framework through editorial recontextualization rather than authorial adoption.
 
-**Total: 41 sources processed, 40 claims files, 36 summaries, 5 evidence files populated.**
+**Ayres 1973 processed** (2026-03-16): Tulane PhD dissertation, 402 pp, first systematic ahu study in cultural context. 65 claims extracted. Pre-chiefdom-model baseline: "chiefdom" does not appear; Service 1962 not cited; Goldman's "Open" framework adopted throughout. Ahu attributed to nonunilinear descent groups controlling land (p. 329), not chiefly redistribution. Ariki mau "was not a political ruler but more of a spiritual one" (p. 25). Craft guild for statue carving (p. 338). No redistribution discussion. Fellow Mulloy student with Stevenson 1984; both independently avoid chiefdom terminology.
+
+**Total: 42 sources processed, 41 claims files, 37 summaries, 5 evidence files populated.**
 
 **Next processing priorities**:
 1. **Kirch 2010** (*How Chiefs Became Kings*): Not yet in repo. User to acquire.
-2. Remaining theoretical/epistemological sources (Feinman & Neitzel 1984, Pauketat 2007, etc.).
+2. Remaining Batch 2b in-repo PDFs: Mulloy 1979, Mulloy & Figueroa 1966.
+3. Remaining theoretical/epistemological sources (Feinman & Neitzel 1984, Pauketat 2007, etc.).
 
 ## PDF Inventory
 

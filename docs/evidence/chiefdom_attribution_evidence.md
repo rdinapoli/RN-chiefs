@@ -75,6 +75,28 @@ McCoy 1976 is the pivotal source. His monograph (*Easter Island Settlement Patte
 
 **The attribution gap:** The distance between what McCoy wrote and how his work was subsequently used is itself evidence of the circularity problem. McCoy's careful settlement data was later reinterpreted through Kirch's (1984) framework as confirming the chiefdom model that McCoy himself said did not develop.
 
+**Ayres 1973** ("The Cultural Context of Easter Island Religious Structures"), Tulane University PhD dissertation:
+
+Ayres 1973 is the first systematic study of Easter Island ahu in cultural context and represents the pre-chiefdom-model archaeological baseline. Key findings for the attribution chain:
+
+1. **"Chiefdom" does not appear in the dissertation.** Service 1962 is not cited. Ayres works entirely within Goldman's (1970) "Traditional" / "Open" / "Stratified" framework.
+
+2. **Ahu as kin-group structures, not chiefly command centers.** "Land ownership is important because the associated social unit would be the one whose membership was involved in constructing and maintaining ahu on their land" (p. 329). Construction attributed to nonunilinear descent groups (mata, lineages/ivi) controlling land.
+
+3. **Ariki mau as spiritual, not political.** "At the time of European contact the king was not a political ruler but more of a spiritual one who presided over the entire island but did not engage in intertribal feuding" (p. 25).
+
+4. **No redistribution mechanism.** No discussion of redistribution, tribute, or centralized economic coordination as mechanisms for ahu construction or social organization.
+
+5. **Craft guild and kin-group labor.** "A craft guild was responsible for carving" the standardized statues (p. 338). Large ahu construction attributed to growing kin groups and (following Goldman) slave labor from military conquest (p. 337).
+
+6. **Goldman's "Open" classification adopted.** Explicitly uses Goldman's framework in which Easter Island "had never evolved a central authority" (Goldman 1970:94). Goldman cited throughout for social organization.
+
+7. **Social class reality questioned.** Four reported classes but "the classification is a superficial one and the reality of clear-cut classes is in doubt" (p. 25).
+
+8. **Trajectory toward decentralization.** Phase sequence shows shift from sacred/religious authority toward military/warrior control. "The prerogatives of rank were no longer as closely associated with status lineages...but increasingly with military power" (p. 337).
+
+**Significance for the attribution chain:** Ayres (Tulane, under Mulloy) and Stevenson (Penn State, also trained by Mulloy) independently produced ahu-focused dissertations that avoid chiefdom terminology and work within descent-group frameworks. Both use Goldman rather than Service/Sahlins as their comparative framework. This demonstrates that the chiefdom label was not an inevitable reading of the archaeological evidence; it was imposed by Kirch 1984. The fact that Mulloy's own students interpreted the same ahu data without chiefdom concepts makes the subsequent reframing under that label all the more conspicuous.
+
 **Stevenson 1984** (*Corporate Descent Group Structure in Easter Island Prehistory*), Pennsylvania State University PhD dissertation:
 
 Stevenson 1984 is the first work to systematically apply a political-organizational model to Rapa Nui archaeological settlement data. However, the model applied is NOT the chiefdom typology. Key findings:

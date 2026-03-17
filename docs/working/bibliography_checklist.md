@@ -75,7 +75,7 @@ All sources except Englert 1948 have been processed through the full pipeline.
 | 30 | Mulloy 1974, "Contemplation of the Navels of the World" | Early environmental deterioration narrative; precursor to collapse story | Rapa Nui archaeological | **NO** | not started | important | |
 | 31 | **McCoy 1976, *Easter Island Settlement Patterns*** | **First archaeological settlement study; often miscited as applying chiefdom framework; McCoy actually concluded chiefdom was "retarded" by warrior class** | chiefdom-attribution | **yes** (`mccoy_1976.pdf`) | **complete** | **critical** | Processed 2026-03-16 |
 | 32 | Bellwood 1978, *Man's Conquest of the Pacific* | Textbook embedding Polynesian chiefdom as default framework | textbook/synthesis | **NO** | not started | supplementary | |
-| 83 | Ayres 1973, "The Cultural Context of Easter Island Religious Structures" PhD dissertation, Tulane, 402pp | First systematic study of ahu in cultural context; religious structures and their social significance | Rapa Nui archaeological | **yes** (PDF available) | not started | important | Ahu context predating chiefdom framing |
+| 83 | Ayres 1973, "The Cultural Context of Easter Island Religious Structures" PhD dissertation, Tulane, 402pp | First systematic study of ahu in cultural context; religious structures and their social significance | Rapa Nui archaeological | **yes** (`pdfs/ayres_1973/Ayres_1973.pdf`) | **complete** | important | Processed 2026-03-16. 65 claims. No chiefdom terminology; Service 1962 not cited; Goldman's Open framework adopted. Ahu as kin-group structures, not chiefly command. Pre-Kirch baseline. |
 | 84 | Ayres 1975, "Easter Island: Investigations in Prehistoric Cultural Dynamics" NSF report, 141pp | NSF-funded archaeological investigations; cultural dynamics | Rapa Nui archaeological | **yes** (PDF available) | not started | supplementary | |
 | 85 | McCall 1976, "European Impact on Easter Island" (*Journal of Pacific History* 11(2):90-105) | European impact on Rapa Nui; important for understanding post-contact disruption and its effects on political organization | contact/post-contact assessment | **NO** | not started | important | Need to acquire |
 | 86 | Ayres 1979, "Easter Island Fishing" (*Asian Perspectives* 22(1)) | Fishing practices and subsistence context | Rapa Nui archaeological | **yes** (PDF available) | not started | supplementary | |
@@ -211,7 +211,7 @@ Critical subset for this paper. Many are cataloged in the CA bibliography; only 
 ### Batch 2b: New additions with PDFs available (process after Batch 2)
 - ~~Stevenson 1984, PhD dissertation~~ — **DONE** (2026-03-16)
 - ~~Stevenson 1986, "Socio-Political Structure" chapter~~ — **DONE** (2026-03-16)
-- Ayres 1973, PhD dissertation — **important** (ahu cultural context)
+- ~~Ayres 1973, PhD dissertation~~ — **DONE** (2026-03-16)
 - Mulloy 1979, culture-historical model — **important** (archaeological synthesis)
 - Mulloy & Figueroa 1966, UNESCO report — **important** (early ahu descriptions)
 - Golson 1965 — supplementary

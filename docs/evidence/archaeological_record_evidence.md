@@ -58,7 +58,18 @@ McCoy 1976 (south corner survey, 43 ahu):
 - Ahu distribution showed continuity in location through time based on masonry style differences (p. 95)
 - McCoy noted that water was "the major limiting factor in the exploitation of uninhabited lands" (p. 142), anticipating the freshwater finding
 
-**Assessment**: The chiefdom prediction (ahu as territorial markers of chiefly domains) is not supported by the spatial evidence. Ahu placement is parsimoniously explained by community-level resource access (freshwater) rather than by elite territorial control. This does not disprove hierarchy, but it removes the spatial evidence that has been cited in its support.
+Ayres 1973 (Tulane PhD; Tahai excavations under Mulloy; 402 pp):
+- Ahu are kin-group religious structures: "Land ownership is important because the associated social unit would be the one whose membership was involved in constructing and maintaining ahu on their land" (p. 329)
+- Ahu associated with specific lineages (ivi) within larger mata; villages located "directly behind the ahu" (p. 25)
+- Four ahu types classified (following Métraux 1937): image ahu, semi-pyramidal, ahu poepoe, rectangular ahu avanga (pp. 43-46)
+- Thomson counted 113 ahu, 555 statues (238 on ahu); Routledge counted ~100 image ahu, 231 statues (pp. 41-42)
+- "A craft guild was responsible for carving" the standardized statues (p. 338)
+- Regional quarry areas in early phases: different stone types (red scoria, Rano Raraku tuff, basalt) for different regions (p. 336)
+- Large ahu construction attributed to "growing population" and kin-group labor, plus Goldman's slave labor hypothesis (p. 337); no redistribution mechanism
+- Ahu considered "the equivalent of the marae found in other parts of Polynesia" (p. 43)
+- Pre-chiefdom-model interpretation: ahu data coherently explained through descent group and ancestor veneration frameworks without chiefdom concepts
+
+**Assessment**: The chiefdom prediction (ahu as territorial markers of chiefly domains) is not supported by the spatial evidence. Ahu placement is parsimoniously explained by community-level resource access (freshwater) rather than by elite territorial control. Ayres's earlier interpretation of the same structures as kin-group ancestor veneration sites is consistent with this finding. This does not disprove hierarchy, but it removes the spatial evidence that has been cited in its support.
 
 ### Ahu Construction Chronology
 
