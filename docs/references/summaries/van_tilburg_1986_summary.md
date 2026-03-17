@@ -90,6 +90,22 @@ The archaeological evidence (moai exist, they are on ahu, some have pukao, they 
 
 ---
 
+## Bibliographic Profile: Where the Chiefdom Ideas Come From
+
+The bibliography (~115 works, ~85 authors) reveals that the chiefdom interpretation enters the dissertation through three converging intellectual streams, none of which is the Sahlins-Service neoevolutionary tradition:
+
+**1. Post-processual symbolic archaeology (the theoretical engine).** Miller & Tilley 1984 (*Ideology, Power and Prehistory*) and Hodder 1982 (*Symbols in Action*) provide the framework: ideology is "the generation of ideas which misrepresent reality, presenting inherent social contradictions in the best interests of the ruling class" (p. 344). This model requires a ruling class. When applied to moai, the conclusion that monuments are instruments of chiefly power is predetermined by the theory, not derived from the evidence. Tilley 1984 supplies the monumentality-as-time-denial interpretation. The UCLA institutional context reinforced this: Earle (1978, chiefdom economics of Kaua'i) was in the department and moderated discussions Van Tilburg cites.
+
+**2. Polynesian comparative ethnography (the social meanings).** Firth 1967a/b (Tikopia, three entries) provides the expert/chief cooperation model and the sacred canoe ownership analogy central to the moai-as-paramount-chief hypothesis. Williamson 1924 provides the priest/chief differentiation model. Handy 1923/1927 (Marquesas) provides the industrial/ritualistic tohunga distinction. These are the sources from which specific social meanings are imported and applied to Easter Island material features. None of these analogies is tested against independent evidence that Easter Island's organization matched the source societies.
+
+**3. Kirch 1984 (the bridge).** Kirch's *Evolution of the Polynesian Chiefdoms* connects the Polynesian ethnographic tradition to the Easter Island archaeological record and supplies the APS inheritance framework. The chiefdom enters the dissertation through Kirch, not through Service 1962 (absent from the bibliography), Sahlins 1954/1958 (cited only as "1958" in passing), or Sahlins 1963 (absent). The neoevolutionary genealogy (Sahlins -> Service -> Kirch) is invisible; Van Tilburg inherits the endpoint without engaging the derivation.
+
+**What is absent is as revealing as what is present.** Service 1962 is not cited. Sahlins 1955 ("Esoteric Efflorescence," the only Sahlins article entirely on Easter Island) is absent. Sahlins 1963 is absent. Feinman & Neitzel 1984 (the major empirical chiefdom critique, published two years before the dissertation) is absent. No alternative political frameworks (collective action, heterarchy) appear. On the Easter Island side, Ayres 1973 and McCoy 1976 are cited for data but not for their anti-chiefdom conclusions; Stevenson 1984 is cited for population estimates but not for the corporate descent group model or the rejection of unilinear evolution. The Mulloy school's interpretive framework is invisible.
+
+The largest single category in the bibliography (~35-40%) is **Polynesian art history and material culture** (Barrow, Emory, Kaeppler, Mead, Buhler), reflecting Van Tilburg's formation through the UCLA Rock Art Archive and the Moai Documentation Project. The chiefdom argument operates through iconographic interpretation and symbol analysis rather than through settlement patterns, political economy, or subsistence data. This explains both the dissertation's distinctive contribution (nobody else had read moai iconography this closely) and its distinctive vulnerability (the social meanings assigned to iconographic features are imported by analogy, not demonstrated archaeologically).
+
+---
+
 ## Connections to Other Processed Sources
 
 - **Kirch 1984**: Van Tilburg takes Kirch's framework as given. Her conclusions go beyond Kirch's own, since Kirch stated ahu were descent-group structures "not reflecting highly centralized authority" (p. 270).
