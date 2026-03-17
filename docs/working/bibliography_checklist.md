@@ -91,17 +91,20 @@ All sources except Englert 1948 have been processed through the full pipeline.
 | 33 | Cristino et al. 1981, *Atlas Arqueológico de Isla de Pascua* | Comprehensive island-wide archaeological survey | Rapa Nui archaeological | **NO** | not started | supplementary | Data resource, not a chiefdom argument |
 | 34 | **Kirch 1984, *Evolution of the Polynesian Chiefdoms*** | **THE key source: first comprehensive archaeological chiefdom framework for Polynesia; Rapa Nui positioned within it** | chiefdom-attribution | **yes** (`pdfs/kirch_1984/Kirch_1984.pdf`) | **complete** | **critical** | Full 334-page book processed 2026-03-16. 121 claims extracted. KEY: Kirch states ahu were descent group structures, NOT centralized authority (p. 270); quarry = independently working crews (pp. 270-271); chiefdom maintained via APS inheritance argument, not archaeological demonstration. Goldman "Open" classification in Table 2 but not engaged in Ch. 11. Ecocide narrative now largely overturned. |
 | 35 | Valeri 1985, *Kingship and Sacrifice* | Structuralist interpretation of Hawaiian kingship/sacrifice; Polynesian analogy section | Polynesian chiefdom framework | in `papers_config.json` | not started | important | |
-| 36 | Van Tilburg 1986, PhD dissertation (*Power and Symbol*) | Moai stylistic analysis explicitly framed as chiefdom evidence | chiefdom-attribution | **NO** | not started | important | Earliest moai analysis as chiefdom evidence |
+| 36 | Van Tilburg 1986, PhD dissertation (*Power and Symbol*), 777pp | Moai stylistic analysis explicitly framed as chiefdom evidence; Stage 4 consolidation | chiefdom-attribution | **yes** (`pdfs/van_tilburg_1986/`) | not started | important | 777pp; earliest moai analysis as chiefdom evidence; process selectively |
 | 37 | Bellwood 1987, *The Polynesians* | "Tropical Chiefdoms AD 1200-1800" section covering Rapa Nui | textbook/synthesis | **NO** | not started | supplementary | |
 | 89 | Stevenson 1984, "Corporate Descent Group Structure in Easter Island Prehistory" PhD dissertation, 377pp | First application of corporate descent group model to Rapa Nui; directly about political organization and social structure | chiefdom-attribution | **yes** (`pdfs/stevenson_1984/Stevenson_1984.pdf`) | **complete** | important | Processed 2026-03-16. ~95 claims extracted. KEY: Does NOT use "chiefdom"; Service 1962 absent from bibliography. Four autonomous groups, no rank differences, system reverts to non-ranked post-1680. Goldman's "Open" classification engaged. 11+ explicit hedging statements. Conclusions "tentative." Progressive hardening to 1986 Kirch volume chapter. |
 | 90 | Gonzalez, Van Tilburg & Vargas 1984, "The Moai as Socio-Political Feature" (conference paper, First International Congress, Santiago) | Moai interpreted as sociopolitical markers; early explicit chiefdom-political reading of statues | chiefdom-attribution | **unclear** | not started | supplementary | PDF status unclear; conference paper may be difficult to acquire |
 | 91 | Stevenson 1986, "The Socio-Political Structure of the Southern Coastal Area of Easter Island: AD 1300-1864" (in Kirch ed. *Island Societies*, pp. 69-77) | Published version of 1984 dissertation in Kirch's chiefdom volume; does NOT use "chiefdom" but editorial context reframes findings; documents Step 3 of circularity | chiefdom-attribution, circularity | **yes** (`pdfs/stevenson_1986/Stevenson_1986.pdf`) | **complete** | important | Processed 2026-03-16. 90 claims. KEY: "Chiefdom" absent from text; Service/Kirch not cited; but theoretical infrastructure stripped, anti-evolutionary commitments dropped, reversion reframed as weakening. Editorial context does the reframing. |
 | 92 | Lee 1986, "Ideological Symbols on the Carved Rocks of Rapa Nui" PhD dissertation, UCLA | Rock art and ideology; potential chiefdom-related symbolism | Rapa Nui archaeological | **NO** | not started | supplementary | Need to acquire |
 | 93 | Sahlins 1987, *Islands of History* (University of Chicago Press) | Sahlins's mature historical-anthropological framework; structure and event in Pacific history | Polynesian chiefdom framework | **NO** | not started | supplementary | Need to acquire; relevant for Sahlins's evolving Polynesian political thought |
-| 94 | Van Tilburg & Lee 1987, "Symbolic Stratigraphy: Rock Art and the Monolithic Statues of Easter Island" (*World Archaeology* 19(2):133-149) | Rock art symbolism and moai sequence; stylistic analysis | Rapa Nui archaeological | **yes** (PDF available) | not started | supplementary | |
+| 94 | Van Tilburg & Lee 1987, "Symbolic Stratigraphy: Rock Art and the Monolithic Statues of Easter Island" (*World Archaeology* 19(2):133-149), 18pp | Rock art symbolism and moai sequence; stylistic analysis | Rapa Nui archaeological | **yes** (`pdfs/van_tilburg_lee_1987/`) | not started | supplementary | |
 | 95 | Seelenfreund 1988, "Ahu Tautira: Architectural Changes and Cultural Sequence" (*Clava* 4:69-81) | Ahu architectural sequence at single site | Rapa Nui archaeological | **yes** (PDF available) | not started | supplementary | |
 | 96 | Ramirez Aliaga 1989, "The Anthropological Background of Easter Island: An Outline" (conference proceedings) | Anthropological overview and background | Rapa Nui archaeological | **unclear** | not started | supplementary | PDF status unclear; conference proceedings |
 | 97 | Van Tilburg 1989, laser scan/photogrammetry conference paper | Technical documentation of moai recording methods | Rapa Nui archaeological | **yes** (PDF available) | not started | supplementary | Supplementary technical paper |
+| 100 | Stevenson et al. 1984, "Obsidian Procurement and Consumption on Easter Island," 5pp | Obsidian sourcing; exchange networks; different from 1984 dissertation | Rapa Nui archaeological | **yes** (`pdfs/stevenson_et_al_1984_obsidian/`) | not started | important | Obsidian exchange bears on cooperation vs. territorial control |
+| 101 | Stevenson et al. 1987, "Report on Recent Archaeology on Rapa Nui," 2pp | Brief fieldwork report | Rapa Nui archaeological | **yes** (`pdfs/stevenson_et_al_1987/`) | not started | supplementary | Short report |
+| 102 | Van Tilburg 1987, "Rock Art Rapa Nui," 17pp | Rock art study; separate from Symbolic Stratigraphy (#94) | Rapa Nui archaeological | **yes** (`pdfs/van_tilburg_1987_rock_art/`) | not started | supplementary | Different publication from Van Tilburg & Lee 1987 |
 
 ---
 
@@ -111,8 +114,12 @@ All sources except Englert 1948 have been processed through the full pipeline.
 |---|----------|-----------|----------|----------|----------|----------|-------|
 | 38 | Bahn & Flenley 1992, *Easter Island, Earth Island* | First "ecocide" synthesis; embeds chiefdom framework; precursor to Diamond | chiefdom-attribution | **NO** | not started | important | Establishes narrative Diamond later popularizes |
 | 39 | Martinsson-Wallin 1994, *Ahu: The Ceremonial Stone Structures* | Comprehensive ahu typology (164 image ahu); assumes chiefly territorial model | chiefdom-attribution | **NO** | not started | important | Most detailed ahu study; need to know ahu-chiefdom framing |
-| 40 | Van Tilburg 1994, *Easter Island: Archaeology, Ecology, and Culture* | Synthesis treating chiefdom as established; moai transport assuming large coordinated labor | chiefdom-attribution | **NO** | not started | important | |
-| 41 | Stevenson et al. (various 1990s-2000s) | Settlement, agriculture, obsidian hydration; Stevenson's "Chiefdom Integration" period (AD 1425-1680) | chiefdom-attribution | **NO** | not started | important | Need to identify and acquire key papers |
+| 40 | Van Tilburg 1994, *Easter Island: Archaeology, Ecology, and Culture*, 225pp | Synthesis treating chiefdom as established; moai transport assuming large coordinated labor | chiefdom-attribution | **yes** (`pdfs/van_tilburg_1994/`) | not started | important | Process selectively; chiefdom consolidation synthesis |
+| 41 | Stevenson et al. (various 1990s-2000s) | Settlement, agriculture, obsidian hydration; Stevenson's "Chiefdom Integration" period (AD 1425-1680) | chiefdom-attribution | **partial** (see specific entries below) | not started | important | Several specific papers now in repo; see #103-108 |
+| 103 | Stevenson 2002, "Territorial Divisions on Easter Island in the Sixteenth Century: Evidence from the Distribution of Ceremonial Architecture," in Ladefoged & Graves (eds.) *Pacific Landscapes: Archaeological Approaches*, pp. 211-230 (Easter Island Foundation, Bearsville Press, Los Osos, CA), 17pp | Explicitly adopts chiefdom language: "evolved into a well-developed chiefdom"; documents progressive hardening from 1984 | chiefdom-attribution, circularity | **yes** (`pdfs/stevenson_nd_territorial/`) | not started | **important** | Key for circularity: Stevenson 1984 (no chiefdom) -> 1986 (editorial reframing) -> this paper (explicit chiefdom adoption). From Ladefoged & Graves 2002 volume. |
+| 104 | Stevenson 2001, "Environmental, Geomorphological and Social Issues in Easter Island Prehistory," 3pp | Conference paper/abstract on environmental issues | Rapa Nui archaeological | **yes** (`pdfs/stevenson_2001/`) | not started | supplementary | Short abstract |
+| 105 | Stevenson et al. 2001, "Productive Strategies in an Uncertain Environment: Prehistoric Agriculture on Easter Island," 6pp | Agricultural production strategies | Rapa Nui archaeological | **yes** (`pdfs/stevenson_et_al_2001/`) | not started | important | Agricultural production data |
+| 106 | Stevenson et al. 2002, "Production of Monumental Architecture and Land Use in an Uncertain Environment," 6pp | Monument production and land use; likely contains "Chiefdom Integration" periodization | chiefdom-attribution | **yes** (`pdfs/stevenson_et_al_2002/`) | not started | important | Check for "Chiefdom Integration" period |
 | 42 | Fischer 1997, *Rongorongo: The Easter Island Script* | Relevant if rongorongo invoked as evidence for stratification/elite literacy | Rapa Nui archaeological | **NO** | not started | supplementary | |
 | 43 | Kirch & Green 2001, *Hawaiki, Ancestral Polynesia* | Reconstructs ancestral Polynesian political organization; Rapa Nui in evolutionary framework | Polynesian chiefdom framework | in `papers_config.json` | not started | important | |
 | 98 | McCall 1994, *Rapanui: Tradition and Survival on Easter Island* 2nd ed. (University of Hawaii Press) | European impact and Polynesian experience on Rapa Nui; important alternative voice on political organization and cultural resilience | Rapa Nui archaeological | **NO** | not started | important | Need to acquire; McCall provides key perspective on European contact effects |
@@ -130,6 +137,7 @@ All sources except Englert 1948 have been processed through the full pipeline.
 | 48 | Hunt & Lipo 2006, "Late Colonization of Easter Island" (*Science*) | Radiocarbon dating establishes ~AD 1200 colonization; halves assumed timeline; undermines population-pressure models | collective action alternative | **NO** | not started | critical | |
 | 49 | McCoy 2006, "Landscapes of War" | Hawaiian warfare through ethnohistory; parallel case of ethnohistoric projection | epistemological/theoretical | in `papers_config.json` | not started | supplementary | |
 | 50 | Stevenson et al. 2006+ | Agricultural production and landscape studies | Rapa Nui archaeological | **NO** | not started | important | Need to identify specific key papers |
+| 107 | Stevenson et al. 2005, *The Renaca Papers: VI International Conference on Rapa Nui and the Pacific*, 2pp | Conference proceedings paper | Rapa Nui archaeological | **yes** (`pdfs/stevenson_et_al_2005/`) | not started | supplementary | Short conference paper |
 
 ---
 
@@ -150,6 +158,9 @@ All sources except Englert 1948 have been processed through the full pipeline.
 | 61 | Simpson 2019, prehistoric interaction modeling | Social complexity development in extreme isolation | Rapa Nui archaeological | **NO** | not started | important | |
 | 62 | Sherwood et al. 2019, soil nutrient management | Agricultural evidence | Rapa Nui archaeological | **NO** | not started | supplementary | |
 | 63 | **DiNapoli et al. 2019, ahu-freshwater (*PLOS ONE*)** | Ahu placement best explained by freshwater sources, not agricultural territories or marine control; no inter-polity competitive spacing needed | collective action alternative | **yes** (`dinapoli_et_al_2019.pdf`) | **complete** | **critical** | Own work; processed 2026-03-16 |
+| 108 | Stevenson et al. 2008, "Easter Island Cultures," 34pp | Scope unclear; needs assessment | Rapa Nui archaeological | **yes** (`pdfs/stevenson_et_al_2008/`) | not started | supplementary | Assess scope during processing |
+| 109 | Wallin & Martinsson-Wallin (eds.) 2010, *The Gotland Papers: Selected Papers from the VII International Conference on Easter Island and the Pacific*, 532pp | Conference proceedings; key Rapa Nui chapters: Mulrooney et al. (pp. 141-154, pre-contact collapse assessment), Wallin et al. (pp. 37-46, re-dating Ahu Nau Nau), Love (pp. 67-86, cultural collapse), Richards (pp. 155-166, moai roads) | Rapa Nui archaeological | **yes** (`pdfs/gotland_papers_2010/`) | not started | supplementary | Process selectively: Mulrooney and Wallin chapters if needed |
+| 110 | Stevenson et al. 2015, "Variation in Rapa Nui (Easter Island) land use indicates production and population peaks prior to European contact," 6pp | Agricultural production; population peaks before contact | Rapa Nui archaeological | **yes** (`pdfs/stevenson_et_al_2015/`) | not started | important | Agricultural production data; population estimates |
 
 ---
 
@@ -160,7 +171,7 @@ All sources except Englert 1948 have been processed through the full pipeline.
 | 64 | **DiNapoli et al. 2020, ahu construction tempo (*JAS*)** | Steady ahu construction tempo through 1722 contact; no pre-contact cessation; removes chronological scaffolding for "Ahu Moai" to "Huri Moai" transition | collective action alternative | **yes** (`dinapoli_et_al_2020.pdf`) | **complete** | **critical** | Own work; processed 2026-03-16 |
 | 65 | **DiNapoli et al. 2021, Triumph of the Commons (*Sustainability*)** | Collective action framework for Rapa Nui; explicit alternative to chiefdom model | collective action alternative | **NOT on disk** (was gitignored, not present locally) | **not started** | **critical** | Own work; USER NEEDS TO RE-ADD PDF |
 | 66 | DiNapoli et al. 2021, population resilience (*Nature Communications*) | Population modeling showing resilience, not collapse | collective action alternative | check (may be separate from Sustainability paper) | not started | critical | Own work; verify filename and repo status |
-| 67 | **Rull & Stevenson (eds.) 2022, *The Prehistory of Rapa Nui*** | 24-chapter Springer volume; contributions from most active researchers | textbook/synthesis | **user has, will add** | not started | **critical** | Recent comprehensive synthesis; process key chapters |
+| 67 | **Rull & Stevenson (eds.) 2022, *The Prehistory of Rapa Nui***, 623pp | 24-chapter Springer volume; contributions from most active researchers | textbook/synthesis | **yes** (`pdfs/rull_stevenson_2022/`) | not started | **critical** | 623pp; process key chapters selectively |
 | 68 | Davis et al. 2024 (*Science Advances*) | Rock gardens ~1/5 of prior estimates; max population ~3,900 not ~17,000; carrying capacity matches contact-era estimates, no overshoot | Rapa Nui archaeological | **yes** (`davis_et_al_2024.pdf`) | **complete** | important | Processed 2026-03-16 |
 | 69 | Moreno-Mayar et al. 2024 (*Nature*) | aDNA rejects 1600s collapse; steady population growth from founding; ROH pattern = chronically small population, not crashed one | Rapa Nui archaeological | **yes** (`moreno-mayar_et_al_2024.pdf`) | **complete** | important | Processed 2026-03-16 |
 | 70 | **Lipo et al. 2025, quarry production (*PLOS ONE*)** | 30 redundant quarrying foci, 3 distinct carving methods, small teams (4-6 carvers), no restricted access; decentralized production at the most critical shared resource | collective action alternative | **yes** (`lipo_et_al_2025.pdf`) | **complete** | **critical** | Own work; processed 2026-03-16 |
@@ -204,7 +215,7 @@ Critical subset for this paper. Many are cataloged in the CA bibliography; only 
 12. ~~Lipo et al. 2025 (quarry)~~ — **DONE** (2026-03-16)
 
 ### Batch 2: User to add (prompt after Batch 1)
-- Rull & Stevenson 2022 (user confirmed access)
+- ~~Rull & Stevenson 2022~~ — **IN REPO** (`pdfs/rull_stevenson_2022/`); process key chapters
 - Englert 1948 (still needed)
 - Geiseler 1883 English translation (Ayres & Ayres 1995)
 
@@ -222,6 +233,32 @@ Critical subset for this paper. Many are cataloged in the CA bibliography; only 
 - Seelenfreund 1988 — supplementary
 - Van Tilburg 1989 — supplementary
 
+### Batch 5: Newly filed PDFs — chronological processing order (2026-03-16)
+
+**1984-1987 session:**
+1. Stevenson et al. 1984, obsidian (5pp) — quick
+2. Van Tilburg 1986, PhD (777pp) — selective chapters; earliest moai-as-chiefdom-evidence analysis
+3. Stevenson et al. 1987 (2pp) — quick
+4. Van Tilburg & Lee 1987 (18pp)
+5. Van Tilburg 1987 Rock Art (17pp)
+
+**1990s-2000s session:**
+6. Van Tilburg 1994 (225pp) — selective chapters; chiefdom consolidation synthesis
+7. Stevenson 2002 "Territorial Divisions" in Ladefoged & Graves (eds.) *Pacific Landscapes* (17pp) — **key for progressive hardening**: Stevenson 1984 (no chiefdom) -> 1986 (editorial reframing) -> this paper (explicit chiefdom adoption)
+8. Stevenson et al. 2001 (6pp)
+9. Stevenson et al. 2002 (6pp) — check for "Chiefdom Integration" periodization
+10. Stevenson et al. 2015 (6pp)
+
+**Selective processing:**
+11. Rull & Stevenson 2022 (623pp) — key chapters only
+12. Gotland Papers 2010 (532pp) — Mulrooney and Wallin chapters only if needed
+13. Short/supplementary: Stevenson 2001 solo (3pp), 2005 (2pp), 2008 (34pp)
+
+**Bibliography mining:** During processing, check each source's bibliography for missing items, particularly:
+- Stevenson papers filling 1987-2001 gap (e.g., Stevenson 1997, Stevenson & Haoa 2008)
+- Martinsson-Wallin 1994 (ahu typology)
+- Kirch post-1984 papers on Rapa Nui specifically
+
 ### Batch 3: Need acquisition (highest priority first)
 - ~~Kirch 1984~~ — **DONE** (2026-03-16, full book processed)
 - Kirch 2010 (relevant chapters)
@@ -232,7 +269,7 @@ Critical subset for this paper. Many are cataloged in the CA bibliography; only 
 - McCall 1979, "Kinship and Environment on Easter Island" — **important**
 - Hunt & Lipo 2006 (*Science*)
 - Martinsson-Wallin 1994
-- Van Tilburg 1994
+- ~~Van Tilburg 1994~~ — **IN REPO** (`pdfs/van_tilburg_1994/`)
 - Heyerdahl & Ferdon 1961
 - Diamond 2005 (ch. 2)
 - Simpson & Dussubieux 2018
@@ -253,13 +290,13 @@ Critical subset for this paper. Many are cataloged in the CA bibliography; only 
 | Post-slave-raid (Era 1) | 12 | 11 | 11 | 1 (Englert) |
 | Chiefdom model foundations (Era 2) | 11 | 8 | 8 | 3 |
 | First archaeological models (Era 3) | 10 | 6 | 4 | 6 |
-| Kirch era (Era 4) | 14 | 6+ | 2 | 12 |
-| Consolidation (Era 5) | 7 | 0* | 0 | 7 |
-| Ecocide/challenge (Era 6) | 7 | 0* | 0 | 7 |
-| Active debate (Era 7) | 13 | 6 | 6 | 7 |
-| Current research (Era 8) | 8 | 5+ | 4 | 4 |
+| Kirch era (Era 4) | 17 | 9+ | 2 | 15 |
+| Consolidation (Era 5) | 13 | 6 | 0 | 13 |
+| Ecocide/challenge (Era 6) | 8 | 1 | 0 | 8 |
+| Active debate (Era 7) | 17 | 10 | 6 | 11 |
+| Current research (Era 8) | 8 | 6 | 4 | 4 |
 | Theoretical | 10 | 0* | 0 | 10 |
-| **Total** | **102** | **52+** | **45** | **57** |
+| **Total** | **116** | **67+** | **45** | **71** |
 
 \* In `papers_config.json` but PDFs not yet downloaded/verified
 \+ Gonzalez et al. 1984 and Ramirez Aliaga 1989 PDF status unclear
@@ -268,3 +305,4 @@ Critical subset for this paper. Many are cataloged in the CA bibliography; only 
 **Chiefdom model foundations**: Sahlins 1954 dissertation, 1955 AA article, 1957 JPS article, and Sahlins & Service 1960 processed (2026-03-16). **Kirch 1984 processed (2026-03-16)**: full 334-page book, 121 claims extracted. **Goldman 1970 processed (2026-03-16)**: full 632-page book, 141 claims extracted.
 **Total pipeline files**: 44 claims files, 40 summaries, 5 evidence files populated.
 **Post-Kirch expansion (2026-03-16)**: 20 new sources added (Eras 2-5 + Theoretical); generic Mulloy entry replaced with specific items. Key additions: Stevenson 1984/1986 (corporate descent groups, chiefdom framework), McCall 1976/1979/1994 (European impact, kinship), Ayres 1973 (ahu cultural context), Mulloy 1979 (culture-historical model).
+**New PDFs organized (2026-03-16)**: 15 unique PDFs (16 files, 1 duplicate deleted) moved from repo root to `docs/references/pdfs/`. 14 new checklist entries added (#100-110). Key acquisitions: Van Tilburg 1986 PhD (777pp), Van Tilburg 1994 (225pp), Rull & Stevenson 2022 (623pp), Stevenson n.d. Territorial Divisions (explicit chiefdom adoption), Gotland Papers 2010 (532pp). Processing order set: chronological from 1984 forward.

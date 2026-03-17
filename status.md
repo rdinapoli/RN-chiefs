@@ -25,10 +25,14 @@ Contact-era and post-slave-raid ethnographic sources fully processed (Eras 0-1, 
 
 **Total: 45 sources processed, 44 claims files, 40 summaries, 5 evidence files populated.**
 
-**Next processing priorities**:
-1. **Kirch 2010** (*How Chiefs Became Kings*): Not yet in repo. User to acquire.
-2. Remaining theoretical/epistemological sources (Feinman & Neitzel 1984, Pauketat 2007, etc.).
-3. Remaining Batch 2b in-repo PDFs: Ayres 1975, Ayres 1979, Heyerdahl 1979, Van Tilburg & Lee 1987, Seelenfreund 1988, Van Tilburg 1989 (all supplementary).
+**16 new PDFs organized** (2026-03-16): 15 unique sources (1 duplicate deleted) moved from repo root to `docs/references/pdfs/`. Key acquisitions: Van Tilburg 1986 PhD (777pp, earliest moai-as-chiefdom-evidence analysis), Van Tilburg 1994 (225pp, chiefdom consolidation synthesis), Rull & Stevenson 2022 (623pp, 24-chapter Springer volume), Stevenson n.d. [post-2000] "Territorial Divisions" (17pp, explicitly adopts "chiefdom" language, documents progressive hardening from 1984), Gotland Papers 2010 (532pp conference proceedings). Also: Stevenson et al. 1984 obsidian (5pp), Stevenson et al. 1987 (2pp), Van Tilburg & Lee 1987 (18pp), Van Tilburg 1987 Rock Art (17pp), Stevenson 2001 (3pp), Stevenson et al. 2001 (6pp), Stevenson et al. 2002 (6pp), Stevenson et al. 2005 (2pp), Stevenson et al. 2008 (34pp), Stevenson et al. 2015 (6pp).
+
+**Next processing priorities** (chronological order):
+1. **1984-1987 session**: Stevenson et al. 1984 obsidian (5pp), Van Tilburg 1986 PhD (selective chapters), Stevenson et al. 1987 (2pp), Van Tilburg & Lee 1987 (18pp), Van Tilburg 1987 Rock Art (17pp)
+2. **1990s-2000s session**: Van Tilburg 1994 (selective chapters), Stevenson 2002 "Territorial Divisions" in Ladefoged & Graves (eds.) *Pacific Landscapes* (17pp, key for progressive hardening), Stevenson et al. 2001 (6pp), Stevenson et al. 2002 (6pp, check for "Chiefdom Integration"), Stevenson et al. 2015 (6pp)
+3. **Selective**: Rull & Stevenson 2022 (key chapters), Gotland Papers 2010 (Mulrooney/Wallin chapters if needed)
+4. **Kirch 2010** (*How Chiefs Became Kings*): Not yet in repo. User to acquire.
+5. Remaining theoretical/epistemological sources (Feinman & Neitzel 1984, Pauketat 2007, etc.).
 
 ## PDF Inventory
 
@@ -164,6 +168,7 @@ Contact-era and post-slave-raid ethnographic sources fully processed (Eras 0-1, 
 
 | Date | Description |
 |------|-------------|
+| 2026-03-16 | 16 new PDFs organized: 15 unique sources moved from repo root to `docs/references/pdfs/` (1 duplicate deleted). 14 new bibliography checklist entries added (#100-110). Key acquisitions: Van Tilburg 1986 PhD (777pp), Van Tilburg 1994 (225pp), Rull & Stevenson 2022 (623pp), Stevenson n.d. Territorial Divisions (explicit chiefdom adoption), Gotland Papers 2010 (532pp). Processing order set: chronological from 1984 forward. Stevenson "Territorial Divisions" identified as post-2000 paper (not Stevenson 1986), citing Steadman 1994 and Seelenfreund 2000, from Ladefoged & Graves (eds.) 2002 *Pacific Landscapes*. |
 | 2026-03-13 | Repository initialized: directory structure, reference pipeline files, manuscript skeleton, evidence skeletons, figures plan. 15 PDFs transferred from RN-IIM. papers_config.json cleaned (comments stripped, valid JSON). |
 | 2026-03-13 | Contact-era accounts claims extraction complete. 5 claims files, 5 summaries, INDEX.md populated, contact_accounts_evidence.md compiled. Sources: Roggeveen 1722, González 1770, Cook 1774, La Pérouse 1786, Richards 2008 (post-La Pérouse 1793-1862). Gap: Cook 1846 compilation PDF (1.1 GB) not directly accessed; Cook data from Forster sources via von Saher and Jakubowska. |
 | 2026-03-13 | Cook 1846 Vol. I added to repo, Easter Island pages OCR'd (PDF pp. 477-495, book pp. 444-458). Claims file updated with 15 new Cook observations, 10 interpretive statements, 3 European categories, 5 absences, and expanded cross-reference notes. Summary updated. INDEX.md updated. Key finding: Cook "confess[ed] myself quite ignorant" of chiefly power, the most epistemologically honest statement in any contact-era account. |
