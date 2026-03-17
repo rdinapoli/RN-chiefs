@@ -115,6 +115,15 @@ Lipo et al. 2025 (own work; spatial analysis of Rano Raraku quarry):
 
 **Assessment**: The chiefdom prediction (centralized chiefly control over the most important shared resource) is not supported. The quarry evidence shows decentralized, small-team production with multiple independent workshops. This is the strongest direct evidence against chiefly command of monument production, since it applies to the single most critical shared resource on the island.
 
+Stevenson, Shaw & Cristino 1984 (obsidian quarry at Orito):
+- 33 open-pit mines mapped in the northeastern sector alone; quarrying activity noted around the full circumference of Mt. Orito (p. 120)
+- No evidence of restricted access, specialized production zones, or elite control over obsidian procurement
+- Two core types (discoidal, block) prepared at quarry and transported to habitation sites; routine pattern available to habitation communities
+- Territorial control over obsidian flows raised as hedged hypothesis for late prehistory only ("may have been a factor," p. 120)
+- Alternative hypothesis: political instability post-1680 *reduced* territorial control over obsidian, increasing access (p. 124)
+- Obsidian consumption curve (184 residential sites, AD 1350-1864) shows no dramatic disruption at AD 1680; slight Phase 7 dip followed by highest consumption levels in entire sequence (Phases 8-10, AD 1701-1850)
+- Pattern parallels decentralized moai quarry production at Rano Raraku (Lipo et al. 2025): both key resource quarries show multiple independent production loci without centralized coordination
+
 ### Settlement Patterns
 
 **Chiefdom prediction**: Territorial hierarchy under chiefly control

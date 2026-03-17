@@ -234,6 +234,12 @@ Each entry follows this format:
 **Pipeline**: claims / summary / evidence / index
 **Notes**: Published version of Stevenson 1984 dissertation, condensed from 377pp to 9pp and placed in Kirch's chiefdom-evolution volume. "Chiefdom" does NOT appear in text; Service 1962 and Kirch 1984 not cited. Same four autonomous groups, same corporate descent group framework, same Ibo analogue. But theoretical infrastructure (Fortes, Firth, Kirchhoff, Hayden & Cannon) stripped away; explicit rejection of unilinear evolution dropped; reversion to non-ranked structure reframed as "weakened" corporate solidarity. Editorial context transforms findings into chiefdom-literature contribution without authorial adoption of the label. Documents Step 3 of the circularity: independent archaeological analysis absorbed into chiefdom framework through editorial recontextualization.
 
+## Stevenson, Shaw & Cristino 1984 ("Obsidian Procurement and Consumption on Easter Island")
+**File**: `pdfs/stevenson_et_al_1984_obsidian/`
+**Tags**: archaeological-evidence, settlement-patterns
+**Pipeline**: claims / summary / index
+**Notes**: Preliminary investigation of the Orito obsidian quarry (April 1981) plus island-wide obsidian consumption analysis from 184 residential sites near Ahu Akahanga. 33 open-pit mines mapped in northeastern sector; quarrying activity around full circumference of hill. No evidence of restricted access or centralized control over obsidian procurement. Two core types (discoidal for domestic tools, block for mataa) prepared at quarry and transported to habitation sites. Obsidian consumption curve (AD 1350-1864) shows steady rise to AD 1650, slight dip at Phase 7 (AD 1651-1700, corresponding to traditional "1680 transformations"), then highest consumption levels in Phases 8-10 (AD 1701-1850), contradicting collapse narrative. No chiefdom terminology; Service, Sahlins, Kirch absent. Territorial control over obsidian flows raised as hedged hypothesis for late prehistory only. Alternative hypothesis explicitly proposes that political instability *reduced* territorial control, increasing access. Consistent with Stevenson 1984 dissertation framework and with Lipo et al. 2025 finding of decentralized quarry production at Rano Raraku.
+
 ## Stevenson 1984 (*Corporate Descent Group Structure in Easter Island Prehistory*)
 **File**: `pdfs/stevenson_1984/Stevenson_1984.pdf` (377pp, Acrobat Paper Capture scan, re-OCR'd; full text: `Stevenson_1984_ocr.txt`)
 **Tags**: settlement-patterns, political-authority, archaeological-evidence, circularity
