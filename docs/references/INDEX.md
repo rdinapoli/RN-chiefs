@@ -240,6 +240,24 @@ Each entry follows this format:
 **Pipeline**: claims / summary / evidence / index
 **Notes**: First corporate descent group model for Rapa Nui. Studies 65 ceremonial centers and 184 residential sites on the southern coast. Identifies four politically autonomous groups by 1600 AD that revert to non-ranked structure after 1680 AD. Does NOT use "chiefdom" as analytical category; Service 1962 not cited. Goldman 1970's "Open" classification IS engaged. Explicitly rejects unilinear evolution: "it is not assumed a priori that the prehistoric social system of Easter Island is headed full tilt on a course of increased social complexity" (p. 50). Conclusions stated as "tentative" and "preliminary propositions" (p. 20). No institutionalized rank differences found in burial data (p. 180). Population estimates of 8,927-12,000 vastly exceed current evidence (Davis et al. 2024: max ~3,900). Stevenson had chapter "In Press" for Kirch's forthcoming *Island Societies* volume, which becomes Stevenson 1986 and marks the transition to chiefdom framing. Theoretical framework from British social anthropology (Fortes, Firth) and corporate group theory (Hayden & Cannon 1982), not neoevolutionary typology.
 
+## Golson 1965 ("Thor Heyerdahl and the Prehistory of Easter Island")
+**File**: `pdfs/golson_1965/Golson_1965.pdf` (46pp, JSTOR; full text: `Golson_1965_ocr.txt`)
+**Tags**: archaeological-evidence, epistemology, critique
+**Pipeline**: claims / summary / index
+**Notes**: Methodological critique of Heyerdahl's Norwegian Archaeological Expedition. Argues Easter Island culture is "Polynesian throughout" (p. 80), no outside populations required. Challenges radiocarbon chronology: all three periods may be later than excavators proposed; Late Period onset perhaps c. 1750 (not 1680). No chiefdom terminology; Service 1962 published 3 years earlier but not cited. Challenges antiquity of Orongo stone houses. Warns against "the practice of using traditions to make good the deficiencies of archaeological evidence" (p. 74). Supplementary for chiefdom argument but establishes the Polynesian continuity framework later chiefdom attributions built upon.
+
+## Mulloy & Figueroa 1966 ("The Archaeological Heritage of Rapa Nui")
+**File**: `pdfs/mulloy_figueroa_1966/Mulloy_Figueroa_1966.pdf` (111pp, UNESCO report; full text: `Mulloy_Figueroa_1966_ocr.txt`)
+**Tags**: archaeological-evidence, settlement-patterns, monument-production
+**Pipeline**: claims / summary / evidence / index
+**Notes**: Comprehensive UNESCO heritage assessment by the two most experienced field archaeologists on the island. Settlement described as "relatively small independent or partially independent kin groups" (pp. 12-13). Ahu size "reflected the numbers and capacity of the kin groups that built them" (p. 16); variation attributed to "individual preferences of kin groups and a sense of competition among them" (pp. 15-16). Orongo ceremony: competitive, annual, nonhereditary, between "various lineage groups" (p. 52). NO chiefdom, chief, hierarchy, Service, Sahlins, or Goldman terminology in 111 pages. Pre-chiefdom-model baseline. Source cited by Kirch 1984:270-271 for "independently working crews."
+
+## Mulloy 1979 ("A Preliminary Culture-Historical Research Model for Easter Island")
+**File**: `pdfs/mulloy_1979/Mulloy_1979.pdf` (3pp excerpt from *Rapa Nui Notes* 7, Spring 1988; original: 47pp in *Las Islas Oceánicas de Chile* Vol. 1, pp. 105-151)
+**Tags**: archaeological-evidence, epistemology, data-quality
+**Pipeline**: claims / summary / evidence / index
+**Notes**: Mulloy's last published paper (died 1978). 3-page excerpt only. Assumes "class organized society with enough coercive power" but does NOT cite Service, Sahlins, Goldman, or use "chiefdom" terminology. Explicitly recognizes post-slave-raid source unreliability: "only a demoralized and to a considerable extent deculturated remnant population has been available as culture-historical informants" (p. 3). Archaeological evidence "far from adequate" for reliable reconstruction. Model framed as "tentative," rejects imposing "a foreign historical sequence" on local developments. Proposes ahu destruction may be by "elements of the societies of their owners" (internal, not external). Completes the Mulloy school pattern: Mulloy + Ayres 1973 + McCoy 1976 + Stevenson 1984 all avoid chiefdom concepts.
+
 ---
 
 ## Kirch 1984 (*The Evolution of the Polynesian Chiefdoms*)

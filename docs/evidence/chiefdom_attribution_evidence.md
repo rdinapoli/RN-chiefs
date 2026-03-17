@@ -97,6 +97,38 @@ Ayres 1973 is the first systematic study of Easter Island ahu in cultural contex
 
 **Significance for the attribution chain:** Ayres (Tulane, under Mulloy) and Stevenson (Penn State, also trained by Mulloy) independently produced ahu-focused dissertations that avoid chiefdom terminology and work within descent-group frameworks. Both use Goldman rather than Service/Sahlins as their comparative framework. This demonstrates that the chiefdom label was not an inevitable reading of the archaeological evidence; it was imposed by Kirch 1984. The fact that Mulloy's own students interpreted the same ahu data without chiefdom concepts makes the subsequent reframing under that label all the more conspicuous.
 
+**Mulloy & Figueroa 1966** ("The Archaeological Heritage of Rapa Nui"), UNESCO report, 111 pp:
+
+The most comprehensive archaeological heritage assessment before Kirch 1984, written by the two archaeologists with the most field experience on the island (combined ~4 years of fieldwork). Key findings for the pre-chiefdom baseline:
+
+1. **Settlement as independent kin groups.** "The people were scattered widely along the coasts and adjacent interior areas of the island in relatively small independent or partially independent kin groups of some sort" (pp. 12-13). No centralized authority, administrative centers, or chiefly compounds described.
+
+2. **Ahu as kin-group capacity.** "The size and ostentation of features of many ahu reflected the numbers and capacity of the kin groups that built them" (p. 16). Ahu variation attributed to "individual preferences of kin groups and a sense of competition among them" (pp. 15-16). This is the kin-group capacity model: ahu size reflects group resources, not chiefly power.
+
+3. **No chiefdom terminology in 111 pages.** "Chiefdom," "chief" (as political term), "hierarchy," "rank," "stratified," "redistribution," and "tribute" are entirely absent. Service, Sahlins, and Goldman not cited.
+
+4. **Orongo as competitive, nonhereditary, annual.** The birdman ceremony involved "representatives of the various lineage groups" competing annually; the winner's sponsor occupied "a position of special ceremonial importance" for one year (pp. 52-53). No permanent political office.
+
+5. **Source later cited by Kirch.** Kirch 1984:270-271 cites a later Mulloy & Figueroa publication (1978:134) for "independently working crews, probably sent periodically by their kin groups," demonstrating that Mulloy & Figueroa's kin-group framework was available to Kirch but recontextualized within the chiefdom model.
+
+**Mulloy 1979** ("A Preliminary Culture-Historical Research Model for Easter Island"), 3-page excerpt:
+
+Mulloy's final publication, representing his mature assessment after 23 years of fieldwork (1955-1978). Key findings:
+
+1. **No chiefdom terminology.** Does not use "chiefdom," "chief," "hierarchy," or "redistribution." Service, Sahlins, and Goldman not cited.
+
+2. **Assumes "class organized society" without evidence.** "A class organized society with enough coercive power to bring large work crews together" is stated without theoretical justification and not developed into a chiefdom argument. This assumption stands in tension with Mulloy & Figueroa 1966's own kin-group capacity model.
+
+3. **Post-raid source unreliability explicitly recognized.** "Only a demoralized and to a considerable extent deculturated remnant population has been available as culture-historical informants" (p. 3). "A proportionately much greater reliance has had to be placed on archaeological evidence" than on other Pacific islands.
+
+4. **Archaeological evidence "far from adequate."** Multiple knowledge gaps enumerated: settlement period evidence "entirely lacking," domestic architecture lacking time perspective, environmental modification data "sketchy."
+
+5. **Model framed as tentative and expendable.** "Studies aimed at testing this framework will surely modify the model and may ultimately demonstrate that it should be discarded" (p. 4). Explicitly rejects imposing "a foreign historical sequence" on local developments.
+
+6. **Ahu destruction hypothesis.** Proposes ahu may have been "destroyed by elements of the societies of their owners rather than by enemy groups from other localities" (p. 4), suggesting internal rather than inter-polity processes.
+
+**The Mulloy school pattern:** Mulloy himself (1966, 1979), plus his students Ayres (1973), McCoy (1976), and Stevenson (1984), all interpreted Easter Island's archaeological record without chiefdom concepts. This is four independent researchers working from the same excavation tradition, using kin-group/descent-group frameworks and Goldman's "Open" classification rather than Service's chiefdom typology. The chiefdom attribution came from outside this tradition (Kirch 1984, working primarily from Hawaii) and was imposed on evidence that its primary investigators did not read that way.
+
 **Stevenson 1984** (*Corporate Descent Group Structure in Easter Island Prehistory*), Pennsylvania State University PhD dissertation:
 
 Stevenson 1984 is the first work to systematically apply a political-organizational model to Rapa Nui archaeological settlement data. However, the model applied is NOT the chiefdom typology. Key findings:

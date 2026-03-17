@@ -69,7 +69,16 @@ Ayres 1973 (Tulane PhD; Tahai excavations under Mulloy; 402 pp):
 - Ahu considered "the equivalent of the marae found in other parts of Polynesia" (p. 43)
 - Pre-chiefdom-model interpretation: ahu data coherently explained through descent group and ancestor veneration frameworks without chiefdom concepts
 
-**Assessment**: The chiefdom prediction (ahu as territorial markers of chiefly domains) is not supported by the spatial evidence. Ahu placement is parsimoniously explained by community-level resource access (freshwater) rather than by elite territorial control. Ayres's earlier interpretation of the same structures as kin-group ancestor veneration sites is consistent with this finding. This does not disprove hierarchy, but it removes the spatial evidence that has been cited in its support.
+Mulloy & Figueroa 1966 (UNESCO heritage report, 111pp; ~350 ahu surveyed):
+- "The size and ostentation of features of many ahu reflected the numbers and capacity of the kin groups that built them" (p. 16)
+- Ahu variation attributed to "individual preferences of kin groups and a sense of competition among them" (pp. 15-16)
+- Settlement described as "relatively small independent or partially independent kin groups" (pp. 12-13)
+- Typical settlement: "a segment of coast and its adjacent inland zone" (p. 15) with ahu near coast, hare paenga behind plaza, domestic sites extending inland
+- ~350 ahu total, ~150 with 1-15 fallen statues; platforms over 150 m long, statues up to ~10 m
+- Statues "said to have represented ancestors and to have possessed supernatural power" (p. 15)
+- No chiefdom, hierarchy, or redistribution terminology in the entire 111-page report
+
+**Assessment**: The chiefdom prediction (ahu as territorial markers of chiefly domains) is not supported by the spatial evidence. Ahu placement is parsimoniously explained by community-level resource access (freshwater) rather than by elite territorial control. Ayres's earlier interpretation of the same structures as kin-group ancestor veneration sites is consistent with this finding, as is Mulloy & Figueroa's attribution of ahu size to kin-group "numbers and capacity." This does not disprove hierarchy, but it removes the spatial evidence that has been cited in its support.
 
 ### Ahu Construction Chronology
 

@@ -62,8 +62,8 @@ All sources except Englert 1948 have been processed through the full pipeline.
 | 26 | Sahlins 1963, "Poor Man, Rich Man, Big Man, Chief" | Big-man vs. chief distinction; places all Polynesia on "chief" side by default. Easter Island mentioned once (geographic boundary), never analyzed. "Polynesian chief" built from Hawaii/Tahiti/Tonga. Service 1962 "in press." | Polynesian chiefdom framework | **yes** (`pdfs/sahlins_1963/Sahlins_1963.pdf`) | **complete** | important | Processed 2026-03-16. 40 claims. Key finding: Easter Island's matatoa system fits "big-man" pattern better than the "chief" type Sahlins describes. |
 | 27 | Heyerdahl & Ferdon (eds.) 1965, *Reports*, Vol. 2 | Additional analyses from Norwegian expedition | Rapa Nui archaeological | **NO** | not started | supplementary | Lower priority than Vol. 1 |
 | 28 | Goldman 1970, *Ancient Polynesian Society* | Status rivalry framework; classified Rapa Nui as "Open" society that "had never evolved a central authority" (p. 94). Redistribution lay with commoner heads, not ariki mau (pp. 114-115). No central authority ever undertook local monument construction (pp. 106-107). | Polynesian chiefdom framework | **yes** (`pdfs/goldman_1970/Goldman_1970.pdf`) | **complete** | **critical** | Full 632-page book processed 2026-03-16. 141 claims extracted. Goldman's "Open" classification is the counter-voice to Sahlins Group IIA and Kirch's APS inheritance argument. Kirch included Goldman in Table 2 (p. 37) but never engaged with it. |
-| 81 | Golson 1965, "Thor Heyerdahl and the Prehistory of Easter Island" (*Oceania* 36(1):38-83) | Critical review of Heyerdahl's expedition and claims; pre-chiefdom-model archaeological assessment of Easter Island evidence | Rapa Nui archaeological | **yes** (PDF available) | not started | supplementary | |
-| 82 | Mulloy & Figueroa 1966, "The Archaeological Heritage of Rapa Nui (Easter Island)" UNESCO report, 111pp | Early systematic ahu descriptions and heritage assessment; baseline archaeological documentation | Rapa Nui archaeological | **yes** (PDF available) | not started | important | Early ahu descriptions before chiefdom framing |
+| 81 | Golson 1965, "Thor Heyerdahl and the Prehistory of Easter Island" (*Oceania* 36(1):38-83) | Methodological critique of Norwegian expedition. Easter Island culture "Polynesian throughout." Challenges chronology (all periods may be later). No chiefdom terminology. Warns against using traditions to fill archaeological gaps. | Rapa Nui archaeological | **yes** (`pdfs/golson_1965/Golson_1965.pdf`) | **complete** | supplementary | Processed 2026-03-16. 33 claims. |
+| 82 | Mulloy & Figueroa 1966, "The Archaeological Heritage of Rapa Nui (Easter Island)" UNESCO report, 111pp | Comprehensive heritage assessment. Settlement as "independent or partially independent kin groups." Ahu size reflects kin group "numbers and capacity." No chiefdom/hierarchy/redistribution in 111pp. Orongo: competitive, annual, nonhereditary. | Rapa Nui archaeological | **yes** (`pdfs/mulloy_figueroa_1966/Mulloy_Figueroa_1966.pdf`) | **complete** | important | Processed 2026-03-16. 37 claims. Source cited by Kirch 1984:270-271 for "independently working crews." |
 
 ---
 
@@ -71,7 +71,7 @@ All sources except Englert 1948 have been processed through the full pipeline.
 
 | # | Citation | Relevance | Category | In repo? | Pipeline | Priority | Notes |
 |---|----------|-----------|----------|----------|----------|----------|-------|
-| 29 | Mulloy 1979, "A Preliminary Culture-Historical Research Model for Easter Island" (in *Las Islas Oceánicas de Chile* Vol. 1, pp. 105-151) | Culture-historical synthesis model for Rapa Nui; early archaeological framework later read through chiefdom lens | Rapa Nui archaeological | **yes** (PDF available) | not started | important | Replaces generic "Mulloy various" entry; specific Mulloy items now identified |
+| 29 | Mulloy 1979, "A Preliminary Culture-Historical Research Model for Easter Island" (in *Las Islas Oceánicas de Chile* Vol. 1, pp. 105-151) | Last paper Mulloy wrote (died 1978). 3-page excerpt only. No chiefdom terminology. Post-raid source unreliability recognized. Archaeological evidence "far from adequate." Model explicitly tentative. | Rapa Nui archaeological | **yes** (`pdfs/mulloy_1979/Mulloy_1979.pdf`, 3pp excerpt) | **complete** | important | Processed 2026-03-16. 24 claims. PDF is 3-page excerpt from *Rapa Nui Notes* 7 (1988), not full 47-page paper. |
 | 30 | Mulloy 1974, "Contemplation of the Navels of the World" | Early environmental deterioration narrative; precursor to collapse story | Rapa Nui archaeological | **NO** | not started | important | |
 | 31 | **McCoy 1976, *Easter Island Settlement Patterns*** | **First archaeological settlement study; often miscited as applying chiefdom framework; McCoy actually concluded chiefdom was "retarded" by warrior class** | chiefdom-attribution | **yes** (`mccoy_1976.pdf`) | **complete** | **critical** | Processed 2026-03-16 |
 | 32 | Bellwood 1978, *Man's Conquest of the Pacific* | Textbook embedding Polynesian chiefdom as default framework | textbook/synthesis | **NO** | not started | supplementary | |
@@ -212,9 +212,9 @@ Critical subset for this paper. Many are cataloged in the CA bibliography; only 
 - ~~Stevenson 1984, PhD dissertation~~ — **DONE** (2026-03-16)
 - ~~Stevenson 1986, "Socio-Political Structure" chapter~~ — **DONE** (2026-03-16)
 - ~~Ayres 1973, PhD dissertation~~ — **DONE** (2026-03-16)
-- Mulloy 1979, culture-historical model — **important** (archaeological synthesis)
-- Mulloy & Figueroa 1966, UNESCO report — **important** (early ahu descriptions)
-- Golson 1965 — supplementary
+- ~~Mulloy 1979, culture-historical model~~ — **DONE** (2026-03-16)
+- ~~Mulloy & Figueroa 1966, UNESCO report~~ — **DONE** (2026-03-16)
+- ~~Golson 1965~~ — **DONE** (2026-03-16)
 - Ayres 1975, NSF report — supplementary
 - Ayres 1979, fishing — supplementary
 - Heyerdahl 1979, small sculptures — supplementary
@@ -251,20 +251,20 @@ Critical subset for this paper. Many are cataloged in the CA bibliography; only 
 |----------|-------|---------|-----------|-------------|
 | Contact-era (Era 0) | 10 | 10 | 10 | 0 |
 | Post-slave-raid (Era 1) | 12 | 11 | 11 | 1 (Englert) |
-| Chiefdom model foundations (Era 2) | 11 | 8 | 6 | 5 |
-| First archaeological models (Era 3) | 10 | 6 | 1 | 9 |
+| Chiefdom model foundations (Era 2) | 11 | 8 | 8 | 3 |
+| First archaeological models (Era 3) | 10 | 6 | 4 | 6 |
 | Kirch era (Era 4) | 14 | 6+ | 2 | 12 |
 | Consolidation (Era 5) | 7 | 0* | 0 | 7 |
 | Ecocide/challenge (Era 6) | 7 | 0* | 0 | 7 |
 | Active debate (Era 7) | 13 | 6 | 6 | 7 |
 | Current research (Era 8) | 8 | 5+ | 4 | 4 |
 | Theoretical | 10 | 0* | 0 | 10 |
-| **Total** | **102** | **52+** | **40** | **62** |
+| **Total** | **102** | **52+** | **45** | **57** |
 
 \* In `papers_config.json` but PDFs not yet downloaded/verified
 \+ Gonzalez et al. 1984 and Ramirez Aliaga 1989 PDF status unclear
 
 **Batch 1 status**: 11 of 12 in-repo sources processed. DiNapoli et al. 2021 (Sustainability) PDF needs re-adding to repo.
 **Chiefdom model foundations**: Sahlins 1954 dissertation, 1955 AA article, 1957 JPS article, and Sahlins & Service 1960 processed (2026-03-16). **Kirch 1984 processed (2026-03-16)**: full 334-page book, 121 claims extracted. **Goldman 1970 processed (2026-03-16)**: full 632-page book, 141 claims extracted.
-**Total pipeline files**: 40 claims files, 36 summaries, 5 evidence files populated.
+**Total pipeline files**: 44 claims files, 40 summaries, 5 evidence files populated.
 **Post-Kirch expansion (2026-03-16)**: 20 new sources added (Eras 2-5 + Theoretical); generic Mulloy entry replaced with specific items. Key additions: Stevenson 1984/1986 (corporate descent groups, chiefdom framework), McCall 1976/1979/1994 (European impact, kinship), Ayres 1973 (ahu cultural context), Mulloy 1979 (culture-historical model).
