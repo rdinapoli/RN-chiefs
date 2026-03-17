@@ -5,7 +5,7 @@ Master chronological checklist of all sources bearing on the Rapa Nui chiefdom q
 **Pipeline stages**: not started → claims → summary → evidence → complete
 **Priority levels**: critical (core to the argument) / important (significantly supports or qualifies) / supplementary (useful context)
 
-Last updated: 2026-03-16
+Last updated: 2026-03-17
 
 ---
 
@@ -98,13 +98,13 @@ All sources except Englert 1948 have been processed through the full pipeline.
 | 91 | Stevenson 1986, "The Socio-Political Structure of the Southern Coastal Area of Easter Island: AD 1300-1864" (in Kirch ed. *Island Societies*, pp. 69-77) | Published version of 1984 dissertation in Kirch's chiefdom volume; does NOT use "chiefdom" but editorial context reframes findings; documents Step 3 of circularity | chiefdom-attribution, circularity | **yes** (`pdfs/stevenson_1986/Stevenson_1986.pdf`) | **complete** | important | Processed 2026-03-16. 90 claims. KEY: "Chiefdom" absent from text; Service/Kirch not cited; but theoretical infrastructure stripped, anti-evolutionary commitments dropped, reversion reframed as weakening. Editorial context does the reframing. |
 | 92 | Lee 1986, "Ideological Symbols on the Carved Rocks of Rapa Nui" PhD dissertation, UCLA | Rock art and ideology; potential chiefdom-related symbolism | Rapa Nui archaeological | **NO** | not started | supplementary | Need to acquire |
 | 93 | Sahlins 1987, *Islands of History* (University of Chicago Press) | Sahlins's mature historical-anthropological framework; structure and event in Pacific history | Polynesian chiefdom framework | **NO** | not started | supplementary | Need to acquire; relevant for Sahlins's evolving Polynesian political thought |
-| 94 | Van Tilburg & Lee 1987, "Symbolic Stratigraphy: Rock Art and the Monolithic Statues of Easter Island" (*World Archaeology* 19(2):133-149), 18pp | Rock art symbolism and moai sequence; stylistic analysis | Rapa Nui archaeological | **yes** (`pdfs/van_tilburg_lee_1987/`) | not started | supplementary | |
+| 94 | Van Tilburg & Lee 1987, "Symbolic Stratigraphy: Rock Art and the Monolithic Statues of Easter Island" (*World Archaeology* 19(2):133-149), 18pp | Published journal version of Van Tilburg 1986 dissertation "symbolic stratigraphy" concept; brings "chiefly mana" framing into journal literature; pukao as shift from inherent to acquired mana; 27 petroglyph/statue overlap sites documented | Rapa Nui archaeological | **yes** (`pdfs/van_tilburg_lee_1987/`) | **complete** | supplementary | Processed 2026-03-17. 70 claims. More restrained than dissertation: moai-as-paramount-chief hypothesis absent, Goldman absent, Miller & Tilley absent. |
 | 95 | Seelenfreund 1988, "Ahu Tautira: Architectural Changes and Cultural Sequence" (*Clava* 4:69-81) | Ahu architectural sequence at single site | Rapa Nui archaeological | **yes** (PDF available) | not started | supplementary | |
 | 96 | Ramirez Aliaga 1989, "The Anthropological Background of Easter Island: An Outline" (conference proceedings) | Anthropological overview and background | Rapa Nui archaeological | **unclear** | not started | supplementary | PDF status unclear; conference proceedings |
 | 97 | Van Tilburg 1989, laser scan/photogrammetry conference paper | Technical documentation of moai recording methods | Rapa Nui archaeological | **yes** (PDF available) | not started | supplementary | Supplementary technical paper |
 | 100 | Stevenson et al. 1984, "Obsidian Procurement and Consumption on Easter Island," 5pp | Obsidian sourcing; exchange networks; different from 1984 dissertation | Rapa Nui archaeological | **yes** (`pdfs/stevenson_et_al_1984_obsidian/`) | **complete** | important | Processed 2026-03-16. 51 claims. No chiefdom terminology; 33+ open pits, no restricted access; consumption curve shows no 1680 disruption. |
-| 101 | Stevenson et al. 1987, "Report on Recent Archaeology on Rapa Nui," 2pp | Brief fieldwork report | Rapa Nui archaeological | **yes** (`pdfs/stevenson_et_al_1987/`) | not started | supplementary | Short report |
-| 102 | Van Tilburg 1987, "Rock Art Rapa Nui," 17pp | Rock art study; separate from Symbolic Stratigraphy (#94) | Rapa Nui archaeological | **yes** (`pdfs/van_tilburg_1987_rock_art/`) | not started | supplementary | Different publication from Van Tilburg & Lee 1987 |
+| 101 | Stevenson et al. 1987, "Report on Recent Archaeology on Rapa Nui," 2pp | Brief fieldwork report; Site 6-356, SW Rapa Nui; basalt hoes, ana kionga, European glass bead | Rapa Nui archaeological | **yes** (`pdfs/stevenson_et_al_1987/`) | **complete (index only)** | supplementary | No chiefdom terminology; no interpretive claims about political organization. Ana kionga consistent with warfare/defensive pattern. |
+| 102 | ~~Van Tilburg 1987, "Rock Art Rapa Nui," 17pp~~ | **DUPLICATE of #94 (Van Tilburg & Lee 1987)**. OCR confirms identical text. Scanned copy of the same *World Archaeology* article. | Rapa Nui archaeological | **yes** (`pdfs/van_tilburg_1987_rock_art/`) | **duplicate** | n/a | No separate processing needed. |
 
 ---
 
@@ -235,12 +235,12 @@ Critical subset for this paper. Many are cataloged in the CA bibliography; only 
 
 ### Batch 5: Newly filed PDFs — chronological processing order (2026-03-16)
 
-**1984-1987 session:**
-1. Stevenson et al. 1984, obsidian (5pp) — quick
-2. Van Tilburg 1986, PhD (777pp) — selective chapters; earliest moai-as-chiefdom-evidence analysis
-3. Stevenson et al. 1987 (2pp) — quick
-4. Van Tilburg & Lee 1987 (18pp)
-5. Van Tilburg 1987 Rock Art (17pp)
+**1984-1987 session:** **COMPLETE (2026-03-17)**
+1. ~~Stevenson et al. 1984, obsidian (5pp)~~ — **DONE** (2026-03-16)
+2. ~~Van Tilburg 1986, PhD (777pp)~~ — **DONE** (2026-03-16, selective chapters)
+3. ~~Stevenson et al. 1987 (2pp)~~ — **DONE** (2026-03-17, index only)
+4. ~~Van Tilburg & Lee 1987 (18pp)~~ — **DONE** (2026-03-17, claims + summary + index)
+5. ~~Van Tilburg 1987 Rock Art (17pp)~~ — **DUPLICATE of #4** (2026-03-17)
 
 **1990s-2000s session:**
 6. Van Tilburg 1994 (225pp) — selective chapters; chiefdom consolidation synthesis
@@ -282,7 +282,7 @@ Critical subset for this paper. Many are cataloged in the CA bibliography; only 
 
 ---
 
-## Summary Statistics (updated 2026-03-16)
+## Summary Statistics (updated 2026-03-17)
 
 | Category | Total | In repo | Processed | Not started |
 |----------|-------|---------|-----------|-------------|
@@ -290,19 +290,19 @@ Critical subset for this paper. Many are cataloged in the CA bibliography; only 
 | Post-slave-raid (Era 1) | 12 | 11 | 11 | 1 (Englert) |
 | Chiefdom model foundations (Era 2) | 11 | 8 | 8 | 3 |
 | First archaeological models (Era 3) | 10 | 6 | 4 | 6 |
-| Kirch era (Era 4) | 17 | 9+ | 2 | 15 |
+| Kirch era (Era 4) | 17 | 9+ | 5 | 12 |
 | Consolidation (Era 5) | 13 | 6 | 0 | 13 |
 | Ecocide/challenge (Era 6) | 8 | 1 | 0 | 8 |
 | Active debate (Era 7) | 17 | 10 | 6 | 11 |
 | Current research (Era 8) | 8 | 6 | 4 | 4 |
 | Theoretical | 10 | 0* | 0 | 10 |
-| **Total** | **116** | **67+** | **45** | **71** |
+| **Total** | **116** | **67+** | **48** | **68** |
 
 \* In `papers_config.json` but PDFs not yet downloaded/verified
 \+ Gonzalez et al. 1984 and Ramirez Aliaga 1989 PDF status unclear
 
 **Batch 1 status**: 11 of 12 in-repo sources processed. DiNapoli et al. 2021 (Sustainability) PDF needs re-adding to repo.
 **Chiefdom model foundations**: Sahlins 1954 dissertation, 1955 AA article, 1957 JPS article, and Sahlins & Service 1960 processed (2026-03-16). **Kirch 1984 processed (2026-03-16)**: full 334-page book, 121 claims extracted. **Goldman 1970 processed (2026-03-16)**: full 632-page book, 141 claims extracted.
-**Total pipeline files**: 44 claims files, 40 summaries, 5 evidence files populated.
+**Total pipeline files**: 47 claims files, 43 summaries, 5 evidence files populated.
 **Post-Kirch expansion (2026-03-16)**: 20 new sources added (Eras 2-5 + Theoretical); generic Mulloy entry replaced with specific items. Key additions: Stevenson 1984/1986 (corporate descent groups, chiefdom framework), McCall 1976/1979/1994 (European impact, kinship), Ayres 1973 (ahu cultural context), Mulloy 1979 (culture-historical model).
 **New PDFs organized (2026-03-16)**: 15 unique PDFs (16 files, 1 duplicate deleted) moved from repo root to `docs/references/pdfs/`. 14 new checklist entries added (#100-110). Key acquisitions: Van Tilburg 1986 PhD (777pp), Van Tilburg 1994 (225pp), Rull & Stevenson 2022 (623pp), Stevenson n.d. Territorial Divisions (explicit chiefdom adoption), Gotland Papers 2010 (532pp). Processing order set: chronological from 1984 forward.

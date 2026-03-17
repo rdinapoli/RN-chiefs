@@ -278,6 +278,18 @@ Each entry follows this format:
 **Pipeline**: claims / summary / evidence / index
 **Notes**: UCLA PhD dissertation. Earliest work to explicitly frame moai as evidence for chiefdom-level political organization. Stage 4 in the chiefdom attribution chain: application of chiefdom model to specific material culture. Takes Kirch 1984 framework as explicit scaffolding: Polynesian cultural matrix "assumed" (p. 299). Four-stage "power shift" model (pp. 338-355) interprets moai iconography through Polynesian analogies (Tikopia, Tahiti, Marquesas). Moai-as-paramount-chief hypothesis (pp. 348-349): statues may represent ariki mau, "erected at his behest," the strongest moai-as-chiefdom claim in the literature. However, acknowledges Kirch 1984:270 (ahu as descent-group structures), Mulloy & Figueroa 1978 (independent quarry work), and Goldman 1970 "Open" classification (reframed to late period only). Post-raid ethnographic sources (Métraux 1940, Englert 1948) used uncritically for pre-contact social organization. Population estimate of 9,659 (Stevenson 1984) contradicted by Davis et al. 2024 (max ~3,900). Miller & Tilley 1984 theoretical framework: ideology as ruling-class misrepresentation. Selective processing: Chapters I, II, VI (priest/chief), VII (Cultural Correlates, Statue Iconography, Power and Symbol), Bibliography.
 
+## Stevenson, Shaw & Cristino 1987 ("Report on Recent Archaeology on Rapa Nui")
+**File**: `pdfs/stevenson_et_al_1987/Stevenson, Christopher et al - 1987 - Report on Recent Archaeology on Rapa Nui.pdf`
+**Tags**: archaeological-evidence, settlement-patterns
+**Pipeline**: index
+**Notes**: Brief fieldwork report (2pp), *Rapa Nui Notes* 6, Winter 1987/88. Earthwatch-funded excavations at Site 6-356, southwestern Rapa Nui. Surface collection of obsidian and basalt; five basalt hoes (first reported from the island); ana kionga (refuge cave) with post-1680 AD deposits and European glass trade bead indicating post-contact occupation. No theoretical framework, no chiefdom language, no interpretive claims about political organization. The ana kionga (fortified, camouflaged refuge cave) is consistent with warfare/defensive habitation patterns described by McCoy 1976 and Stevenson 1984, but no interpretive conclusions drawn.
+
+## Van Tilburg & Lee 1987 ("Symbolic Stratigraphy: Rock Art and the Monolithic Statues of Easter Island")
+**File**: `pdfs/van_tilburg_lee_1987/Van Tilburg, Jo Anne et al - 1987 - Symbolic Stratigraphy Rock Art and the Monolithic Statues of Easter Island.pdf`
+**Tags**: chiefdom-attribution, monument-production, polynesian-analogy
+**Pipeline**: claims / summary / index
+**Notes**: Published journal version (*World Archaeology* 19(2):133-149) of key elements from Van Tilburg 1986 dissertation, integrated with Georgia Lee's petroglyph data (~1,000 sites). Introduces "symbolic stratigraphy" concept: temporal linkage between statue cult and birdman cult via petroglyph superimposition on red scoria pukao and ahu facia at 27 documented sites. Pukao = "shift in ideological emphasis from chiefly mana, which is inherent in ancestral proximity, to one of chiefly mana which is acquired and demonstrated through prowess" (p. 146). Red (kura) associated with "chiefly power and mana" (p. 142). Lunate petroglyphs interpreted as "boats" with multiple symbolic meanings including class/status. More restrained than dissertation: moai-as-paramount-chief hypothesis absent; Miller & Tilley ideology framework absent; Goldman "Open" classification not mentioned. Brings "chiefly mana" framing into journal literature without using "chiefdom" explicitly. Same bibliographic absence of Sahlins, Service, Goldman as the dissertation.
+
 ---
 
 ## McCoy 1976 (*Easter Island Settlement Patterns*)
