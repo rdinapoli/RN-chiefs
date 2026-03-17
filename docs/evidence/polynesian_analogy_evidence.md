@@ -134,6 +134,21 @@
 
 (How McCoy operationalized the chiefdom model for Rapa Nui's material record)
 
+### Van Tilburg's Application of Polynesian Analogies to Moai (1986)
+
+**Source**: Van Tilburg 1986, *Power and Symbol*, UCLA PhD dissertation. Full claims extraction: `docs/references/claims/van_tilburg_1986_claims.md`.
+
+Van Tilburg is the first scholar to systematically apply Polynesian analogies to Easter Island moai iconography. The analogical method operates as follows: (1) identify a material feature of moai (dorsal design, hand placement, pukao, red stone); (2) find analogues in better-documented Polynesian societies; (3) import the social meaning of the analogue; (4) apply that meaning to the Easter Island feature.
+
+**Analogies deployed**:
+- **Tikopia** (Firth 1967a/b): Expert/chief cooperation in community work projects (pp. 258-259); sacred canoe ownership model applied to moai (pp. 353-354), where objects are "theoretically the property of the chief of the clan" even when commissioned and maintained by others
+- **Tahiti**: Priestly hierarchy and marae ownership (pp. 255-256, via Williamson 1924); sacred maro (pp. 317, 325-326); ahu use model "similar to that found in Tahiti" proposed (p. 338)
+- **Marquesas** (Handy 1927): Industrial and ritualistic tohunga distinction (pp. 259-260); ritual error sanctions (p. 264)
+- **Tuamotus** (Emory 1947/1975): Chants at marae ceremony (p. 316); corpse position on marae (p. 321); chief's territorial claim (p. 322); maro construction (p. 311)
+- **New Zealand** (Mead 1984): Taonga tuku iho and mana-bearing carved objects (pp. 261-262); Tuu-ko-ihu / taonga connection
+
+**Critical assessment**: None of these analogies is tested against independent evidence that Easter Island's social organization matched the source societies. Tikopia (small, chieftainship documented by Firth's direct observation), Tahiti (large stratified chiefdom with elaborate priest-chief apparatus), and the Marquesas (complex hierarchy documented by multiple observers) are all structurally distinct from Easter Island in ways that Goldman (1970) and Sahlins (1954) themselves acknowledged. The analogies treat "Polynesia" as a uniform cultural field in which social meanings are transferable between societies separated by thousands of kilometers and centuries of independent development. Van Tilburg explicitly states the Polynesian matrix is "assumed" (p. 299).
+
 ## The Analogy's Requirements
 
 ### Historical Continuity Assumptions

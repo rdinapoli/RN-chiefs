@@ -223,9 +223,34 @@ The ecocide narrative has been substantially undermined: DiNapoli et al. 2020 (s
 
 ### Stage 4: Consolidation as received wisdom
 
-(Bahn & Flenley 1992, Martinsson-Wallin 1994, Van Tilburg 1994, Diamond 2005)
+The chiefdom attribution, established in Stages 1-3 through ethnographic classification, neoevolutionary typology, and the APS inheritance argument, is now applied to specific material culture and treated as established knowledge.
 
-*To be populated from claims extraction*
+**Van Tilburg 1986** (*Power and Symbol: The Stylistic Analysis of Easter Island Monolithic Sculpture*), UCLA PhD dissertation, 777 pp:
+
+Van Tilburg 1986 is the earliest work to explicitly frame moai as evidence for chiefdom-level political organization. The dissertation takes Kirch 1984's framework as explicit scaffolding: "The Polynesia cultural matrix into which the archaeological evidence firmly anchors Easter Island pre-contact culture is assumed to underlie and illuminate what is outlined by the typological and chronological evidence of the statuary" (p. 299). The word "assumed" is key: the chiefdom model is the premise, not the conclusion.
+
+**The four-stage power shift model** (pp. 338-355):
+1. **Stage 1**: Red scoria/tuff material distinction mapped to priestly/chiefly class differentiation
+2. **Stage 2**: Pukao on largest lineage ahu = shift from inherent mana (hereditary) to acquired mana (demonstrated prowess)
+3. **Stage 3**: Birdman cult replaces statue cult; "power struggle between priests and chiefs" (p. 341)
+4. **Stage 4**: Proto-historic/historic re-use of statuary
+
+Each stage is interpreted through Polynesian analogies (Tikopia, Tahiti, Marquesas, Tuamotus, New Zealand) applied to material features (red stone, pukao, dorsal design, hand placement) without independent verification that Easter Island's political organization matched the societies from which the analogies are drawn.
+
+**The moai-as-paramount-chief hypothesis** (pp. 348-349): Van Tilburg proposes that moai may represent the ariki mau (paramount chief), not individual lineage ancestors, "erected at his behest" (p. 348). This is supported by: (a) Cook's expedition being told statues represented "areekees, or kings" (p. 36); (b) Métraux 1940:128 that "the title ariki was reserved only for the Miru" [POST-RAID]; (c) Firth's Tikopia sacred canoe ownership model where objects are "theoretically the property of the chief of the clan, despite the fact that the immediate possessor...has ordered the building of the craft" (pp. 353-354). This is the strongest moai-as-chiefdom-evidence claim in the literature.
+
+**However, Van Tilburg also acknowledges:**
+- Kirch 1984:270 that ahu "do not reflect some kind of highly centralized, island-wide political authority" (p. 349)
+- Mulloy & Figueroa 1978 on groups working "independently" at Rano Raraku (p. 349)
+- Goldman's "Open" classification (p. 343), though reframed to apply only to the late period
+- That post-raid ethnographic data "must...be approached with extreme caution" when projected backward (p. 39), though this caution is not applied in the interpretive chapters
+- That not all lineages achieved pukao status (p. 341), consistent with collective action without chiefly command
+
+**Significance for the attribution chain**: Van Tilburg completes the transition from "chiefdom as assumed framework" (Kirch 1984) to "moai as chiefdom evidence." The material culture that would be cited by subsequent scholars (Martinsson-Wallin 1994, Van Tilburg 1994, Diamond 2005) as "archaeological evidence for chiefdom" was never analyzed independently of the ethnographic-analogical framework. Van Tilburg's four-stage model illustrates the circularity: the chiefdom framework is "assumed," the evidence is read through it, and the resulting interpretation is presented as what "the archaeological evidence on Easter Island suggests" (p. 338). This is Step 4 of the five-step circularity in action.
+
+**Assessment against current evidence**: Van Tilburg's interpretive framework rests on: (a) the population estimate of 9,659 (Stevenson 1984:172), contradicted by Davis et al. 2024 (max ~3,900); (b) the ecocide narrative, substantially undermined; (c) centralized moai production, contradicted by Lipo et al. 2025 (30 independent quarry workshops) and Lipo et al. 2013 (18-person transport); (d) territorial control, contradicted by DiNapoli et al. 2019 (freshwater-based ahu placement).
+
+*Remaining: Bahn & Flenley 1992, Martinsson-Wallin 1994, Van Tilburg 1994, Diamond 2005 awaiting processing*
 
 ### Stage 5: Archaeological challenges emerge
 

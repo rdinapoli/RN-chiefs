@@ -56,11 +56,28 @@ Critically, "chiefdom" does not appear in Stevenson's 1986 text. Service 1962 an
 
 ### Step 4: Expectations Satisfied at General Level
 
-**What happened**: The expectations are framed at a level of generality that the record always satisfies (there are ahu, moai, differential site elaboration).
+**What happened**: The expectations are framed at a level of generality that the record always satisfies (there are ahu, moai, differential site elaboration). Material features are read through the chiefdom lens imported in Step 3, and the resulting interpretations are presented as "archaeological evidence."
 
 **Evidence**:
 
-(Specific claims where general features are cited as confirming specific political models)
+**Van Tilburg 1986 as Step 4 documented in detail.** The dissertation explicitly states that the Polynesian chiefdom framework is "assumed" (p. 299) and then reads moai production, iconography, and distribution through that assumed framework. The four-stage power shift model (pp. 338-355) interprets material features (red scoria/tuff distinction, pukao distribution, dorsal design elements, hand placement) as expressions of chiefly power, priestly hierarchy, and legitimation crisis, all derived from Polynesian analogies applied to Easter Island without independent verification.
+
+The circularity is structurally identical to Step 3 but operates on material culture rather than publication context:
+
+(1) **Premise assumed**: "The Polynesia cultural matrix into which the archaeological evidence firmly anchors Easter Island pre-contact culture is assumed to underlie and illuminate what is outlined by the typological and chronological evidence of the statuary" (p. 299).
+
+(2) **Material features identified**: Red scoria vs. tuff stone types; pukao on some but not all ahu; dorsal design on statues; hand positions; varying statue sizes.
+
+(3) **Polynesian analogies import meaning**: Tikopia tufunga/chief cooperation (Firth 1967a) -> expert/chief roles on Easter Island. Tikopia sacred canoe ownership -> moai ownership by paramount chief. Tahitian priestly hierarchy -> Easter Island priestly class. Marquesas ritual sanctions -> moai standardization explained.
+
+(4) **Result presented as "archaeological evidence"**: "The archaeological evidence on Easter Island suggests a probable power shift over time" (p. 338). The "evidence" is the material features; the "power shift" interpretation comes from the assumed framework.
+
+(5) **The moai-as-paramount-chief claim closes the circle**: Van Tilburg proposes statues represent the ariki mau, "erected at his behest" (p. 348), supported by: (a) Cook's "areekees or kings" report (contact-era European categories, Step 1); (b) Métraux 1940:128 on ariki title (post-slave-raid ethnography, Step 2); (c) Tikopia sacred canoe model (Polynesian analogy, Step 3). The archaeological evidence (statues exist on ahu) could equally support ancestor veneration, lineage competition, collective display, or the "conventional" interpretation Van Tilburg herself acknowledges (pp. 304-305, 348).
+
+**Key passages**:
+- Van Tilburg quotes Kirch 1984:270 that ahu "do not reflect some kind of highly centralized, island-wide political authority" (p. 349) but then argues for "district or region-wide integration" beyond "simply that of individual, competing lineages" (p. 350). The archaeological evidence has not changed; the interpretive framework has expanded.
+- Van Tilburg acknowledges Mulloy & Figueroa 1978 on independent quarry groups (p. 349) but presents this as compatible with her model rather than as evidence against centralized command.
+- Goldman's "Open" classification (Easter Island "had never evolved a central authority," 1970:94) is reframed to apply only to the late period (p. 343), reversing Goldman's analysis of the overall system.
 
 ### Step 5: Presented as Independent Confirmation
 

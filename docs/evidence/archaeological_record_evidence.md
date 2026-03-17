@@ -39,6 +39,14 @@ McCoy 1976 (south corner survey):
 - Statues "represent deified ancestors" (p. 91), per ethnohistoric interpretation
 - No direct archaeological evidence presented for how statues were transported or what social organization this required
 
+Van Tilburg 1986 (UCLA PhD dissertation; stylistic analysis of entire moai corpus):
+- First work to explicitly frame moai as evidence for chiefdom-level political organization
+- Four-stage "power shift" model (pp. 338-355): material distinction (red scoria/tuff) = class differentiation; pukao = shift from inherent to acquired mana; birdman replaces statue cult; proto-historic re-use
+- Moai-as-paramount-chief hypothesis (pp. 348-349): statues may represent ariki mau, "erected at his behest," not individual lineage ancestors. Strongest moai-as-chiefdom claim in the literature.
+- But acknowledges Kirch 1984:270 (ahu as descent-group structures, not centralized authority) and Mulloy & Figueroa 1978 (independent quarry work) (p. 349)
+- Model built on Kirch 1984 framework ("assumed," p. 299) and Métraux 1940 ethnography [POST-RAID]; Polynesian analogies (Tikopia, Tahiti, Marquesas) applied without independent verification
+- Expert carver guild described from Métraux 1940:137: "received orders from people who wanted a monument for their ahu...paid in fish, lobsters and eels" (p. 40), which describes lineage-level commissioning, not centralized command
+
 **Assessment**: The chiefdom prediction (moai transport required large coordinated labor under chiefly command) is undermined by the walking hypothesis. The archaeological evidence from road moai (shapes, fall positions, road cross-sections) is consistent with small-team vertical transport and inconsistent with the large-scale horizontal transport that implied chiefly command. The walking method requires no timber, severing the deforestation link. However, the experiment used a scaled replica (4.35 tons vs. up to 80+ tons for the largest moai), and the inferential step from "small teams could do this" to "no chiefly command was needed" is plausible but not directly demonstrated.
 
 ### Ahu Placement and Distribution
