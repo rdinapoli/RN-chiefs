@@ -1,0 +1,609 @@
+1
+
+[
+
+I
+1
+
+I
+(
+I
+[
+1
+
+PRODUCTIVE STRATEGIES IN AN UNCERTAIN ENVIRONMENT:
+PREHISTORIC AGRICULTURE ON EASTER ISLAND
+Christopher M. stevenson', Thegn ~ a d e f o ~ and
+e d ~Sonia ~ a o a ~
+' ~ i r ~ i nDepartment
+ia
+of Historic Resources, Petersburg, V A 23805;
+' ~ e p a r t m e n of
+t Anthropology, University of Washington, Seattle, WA;
+3
+Sonia Haoa, Isla de Pascua, Chile
+
+INTRODUCTION
+
+T
+
+will look at how the prehistoric Rapanui utilized and changed
+the island landscape. These landscape modifications on Rapa
+Nui and elsewhere were developed in response to fundamental
+environmental constraints within which agriculture was practiced. This was a dynamic and continuous process. During the
+settlement of the Pacific, human colonizers initially took advantage of natural landscape features such as wind-protected
+locations with plentiful supplies of fresh water. These advantageous settings were used for early settlement and agriculture.
+The later expansion of gardens and field systems significantly
+modified the ecological structure of many islands (Kirch 1997,
+2000; Flenley and King 1984; Flenley et al. 1991) and the surface soils that support the living biota. The elimination of habitat and soil erosion have been cited as two outcomes of an expanding agricultural system. This process increased agricultural risk and required innovation within the subsistence system to maintain required production levels. It is this process of
+innovation that we will investigate through an examination of
+the Rapa Nui landscape.
+In this paper, we will examine the Rapanui agriculture
+system and ask three questions:
+
+he unpredictable nature of a key environmental resource
+(e.g., moisture) is often viewed as a major variable that
+guides economic decision-making and the form of the social
+organization required to implement adaptive strategies that will
+ensure the survival of the population. Several authors have recently argued that environments characterized by higher uncertainty (e.g., risk of crop failure) will exhibit a greater tempo of
+changing organizational forms and an overall higher level of
+organizational complexity. (Ladefoged 1995; Graves and
+Ladefoged 1995; Dunnell 1999; Ladefoged and Graves 2000;
+Kirch 2000; Hammon 2001; Hunt and Lipo 2001). In these
+high-risk environments the construction of chiefly sponsored
+monumental architecture can suppress population numbers to
+below critical levels. Energy that could be expended on increasing agricultural production, thereby leading to increases
+in population levels, is diverted into "wasteful" activities, such
+as monumental construction. This has the two-fold advantage
+of suppressing population numbers to levels sustainable during
+environmental perturbations
+and maintaining a pool of labor
+that can be diverted into subsis1) What were the risk factors
+tence activities when necessary.
+behind rainfall agriculture and
+In addition, monumental archihow did the risk vary across the
+tecture can be used to bolster
+island landscape?
+ideological beliefs that are necessary for maintaining an inte2) How did agricultural use of
+the landscape vary in response
+grated chiefly polity (Earle
+to different habitat conditions?
+1997). These polities can often
+provide opportunities for resource buffering during periods
+3 ) What is the chronology of
+prehistoric agricultural techof environmental perturbations
+(Ladefoged 1995). The implenologies and landscape use?
+mentation of labor intensive
+forms of agricultural intensification in response to marginal 1
+Three volcanoes form the Rapa
+and uncertain environmental
+Figure 1. Map of Easter Island (Rapa Nui) showing the Vaitea area Nui landscape. Mt. Terevaka is
+conditions require that the au(center) and the Heki'i area near La Pbrouse.
+thority of the hierarchy be
+the principal shield volcano that
+strong in order that production
+forms the central mass of the
+above the household level can be obtained.
+island. Strato volcanoes at the southwestern and southeastern
+In this paper, we look at how the practice of prehistoric
+tip, Rano Kau and Poike respectively, form the other elevated
+agriculture may have contributed to the development and
+landforms. Mt. Terevaka reaches a height of approximately
+maintenance of a hierarchical social organization. In our ap450 m. A low coastal plain connects the three volcanoes along
+proach to understanding the prehistoric agricultural system, we
+the western, southern and eastern margins of Mt. Terevaka
+
+Rapa Nui Journal
+
+Vol. 16 (1) May 2002
+
+(Figure 1).
+Rapa Nui is located within the southern, temperate latitudes of the Pacific Ocean and a marked seasonality occurs each
+year that is generally referred to as the rainy season and the dry
+season. Rainfall averages over 1000 mm a year in the coastal
+zone near the town of Hanga Roa but much of this rain (359
+mm) falls in the wet season (April-June). During the warmest
+period of the year (December-February) an average of 240 mm
+of rain is reported at the Mataveri weather station. An analysis
+of these weather records (1972-1997) by Hunt and Lipo (2001)
+reports that the variation around the mean is great and reflected
+by a high coefficient of variation (0.17-0.26). There appears to
+be no periodicity in these short-term rainfall records, and the
+occurrence of dry periods appears to be unpredictable.
+The high elevations on the island surface and predominant
+northwest-southeast wind patterns create an orographic rainfall
+pattern. No rain gauges are present on the island other than at
+the near sea-level location of Mataveri (Figure 1) but a predictive model by Honorato et al. (1991) proposes that up to double
+the amount of rainfall characteristic of coastal regions will fall
+in the upper regions of the three volcanoes beginning near the
+200 meter elevation. The Poike region appears to have been
+used for agriculture as there is little evidence of prehistoric settlement. As a result only about a sixth of the island surface area
+benefits from the higher rainfall levels. Although the higher
+rainfall reduces the unpredictable nature of this upland region,
+the same model also predicts a decrease in temperature of 0.61.0"C for every 100 m rise in elevation. This may have slowed
+crop maturation rates. Similarly, higher elevations may be associated with greater wind velocities, which increase evaporation
+and thus reduce available moisture. Taken together with lower
+temperatures, these factors may partly offset the full benefit of
+increased rainfall amounts.
+The past volcanic activity has also created the excessively
+drained soils present on the island today. The near surface soil
+A-horizons are characterized by soils that have formed from ash
+falls (Louwagie and Langohr 2002). As a result, it is highly porous with about 50% of the volume consisting of air space. In
+some areas of deeper soil, B-horizons tend to be clay-enriched
+and have a blocky pedogenic structure. Beneath this is a characteristically loose, regolithic soil with little pedogenic structure
+(Wozniak 2000). This strata may occur almost directly under Ahorizons in areas with little soil development. The clay-rich
+soils may help to hold moisture at deeper levels but in shallow
+areas the lower C-horizon does little to retain soil moisture. In
+general, the soils on Rapa Nui exacerbate the problem of limited
+moisture.
+These data show that while the entire island may be characterized as high risk for agriculture, there are some areas at
+higher elevations that may have been less unpredictable in terms
+of rainfall occurrence. The added moisture above 200 m elevation could have extended the period of wetter winterlspring
+weather for weeks over that encountered near the coast. The
+implications for agricultural production and the organization of
+production are significant. If the rainfall pattern is compared
+with the distribution of island political units (Stevenson in
+press, Figure 2), we see that not all chiefdom districts had access to the wetter interior regions. It is therefore reasonable to
+
+-szr: \--s:;l
+-
+
+.
+
+_
+
+-:.-?=
+-
+
+Rapa Nui
+Tongariki
+
+Ahalxanga
+
+u
+Vinapu
+
+Figure 2. Rapa Nui chiefdom districts circa. AD 1500 (after Stevenson in press).
+
+The prehistoric agricultural system on Rapa Nui relied exclusively on rainfall. Only a few years ago the location of Rapa
+Nui gardens and agricultural field systems could not be identified by either archaeologists or the remaining indigenous population. Only the frequently occurring circular stacked stone
+structures (manavai) and planting wells (pu) were associated
+with agricultural production. Yet the dryland production system
+that fed a population numbering in the thousands for nearly a
+millennia was assumed to have been large in scale and intensive
+in form. In retrospect, this inability to find evidence of past agriculture was a problem in landscape interpretation. The subtle
+indications of field systems had not been recognized.
+However, a series of surveys and test excavation programs
+(Stevenson and Cristino 1986; Stevenson 1997; Stevenson and
+Haoa 1998; Stevenson et al. 1999; Wozniak 1998a, 1998b,
+2000) has identified a variety of morphologically distinct agricultural features found throughout the island. Stevenson et al.
+(1999:803-804) note eight types of agricultural features and
+these can be redefined as six discrete types:
+1) Mulched soils are areas with small (2 to 20 cm) rocks
+intentionally mixed into the subsurface sediment to depths of 30
+to 50 cm. The source of the lithic mulch includes rock intentionally broken off surrounding basalt outcrops, and rock eroding
+from the underlying bedrock. The lithic mulch would help to
+conserve moisture, ameliorate excess soil temperature fluctuations, and protect the garden soils from wind evapotransporation
+(Stevenson et al. 1999:809).
+
+15.sscor-d
+pxagmph, third sentence should read 'Tle Poke region apgealx not to have been used for
+.
+.
+
+- 2--.
+. ~.~--.-.
+- -- . .. .. .-L
+~
+
+-
+
+expect that the technology of production and landscape use will
+differ between the dryer Heki'i, Mahatua, Tongariki, Hanga
+Poukura, Vinapu and Tahai districts and the Vaihu, Akahanga,
+Tepeu and 'Anakena districts that have sizable upland regions
+within their boundaries. The Tahai and Vinapu district have access to moister areas near at the top of the Rano Kau volcano
+but the size of the productive zone is small.
+
+-~>*-
+
+:- ,-. ..-iL
+settlement."
+
+.J .,L-
+
+L..LL
+
+7 .
+
+. :. C ~ ~ L , L
+
+2002
+
+2) Veneer surjiaces consist of areas were a relatively uniform 20 to 30 cm layer of rocks has been spread over the
+ground surface. The rocks are usually from basalt outcrops in
+the immediate vicinity that have been intentionally broken
+apart. The cover of rock would aid in rainfall permeating the
+surface, would reduce evaporation providing higher moisture
+levels, and inhibit weeds (Stevenson et al. 1999909).
+
+Heki'i District
+A comparison of the landscape between a dry region such
+as the Heki'i District and a moisture upland area in the AkahangaNaihu Districts reveals several similarities, as well as
+striking differences, in settlement and methods of farming. The
+archaeological survey data and geomorphological soil assessments (Stevenson et al. 1996, 1997, 2000) shows that field systems covered a vast amount of the landscape in the north coast
+Heki'i District (Stevenson and Haoa 1998; Stevenson et al.
+1999) (Figure 3). The distribution of agricultural features comprising different garden types can be used to define three general zones of production.
+Coastal: This zone is below 30 m elevation and is situated
+within 1000 m of the coast. On the heavily settled coastal plain,
+the numerous domestic settlements consist of houses, chicken
+houses, earth ovens, and are associated with small household
+gardens and larger field systems, both of which consist of
+
+3 ) Stacked boulder concentrations are areas where a veneer of rock has been spread over the surface but additional
+stacking of rocks within the garden occurs. The stacked rocks
+form low windbreaks for the cultigens. Again, the rocks usually
+derive from basalt outcrops in the immediate vicinity that have
+been intentionally modified. The stacked boulders and associated veneer would have the advantages of veneer surfaces, with
+the additional benefit of creating windbreaks for the cultigens.
+
+4) Pu are steep sided depressions,
+ca. 50 to 60 cm in diameter, located in 1
+rocky areas. The depressions extend to the
+soil layer below the rock, and with additional vegetative mulch would have provided a planting medium conducive to
+water retention. The rocky areas are the
+result of people breaking apart basalt outcrops or are natural lava flows.
+CosstaI Plain
+
+\Iaunga Ptsko Prrhi
+
+I~lterior\alley
+
+0 5 km
+5) Manavai are 2 to 6 m long, 70 to
+-N
+150 cm high, stacked stone garden encloFigure
+3.
+The
+distribution
+of
+settlements
+and agricultural fields in the Heki'i District
+sures. These would have protected fragile
+plants such as banana from wind damage
+and reduced evaporation.
+manavai, veneer surfaces and stacked boulder concentrations.
+Domestic settlements tend to be located at the margins of their
+6) Planting circles are formed by rings of small stone 1.0
+gardens while the larger field systems have few adjacent settleto 1.5 m in diameter and define the perimeter of a planting pit.
+ments.
+With the addition of vegetative mulch, the pits would have provided a localized soil medium conducive for plant growth.
+Lowland inland: At a distance of approximately 1000 m
+from the coast at an elevation of ca. 50 to 80 m above sea level,
+The precise cultigens grown in these agricultural features
+a large hilltop plantation is encountered on top of Maunga Puko
+is unknown, but we hypothesize that sweet potatoes were
+Puhi. This flat hilltop is heavily mulched with small basalt
+grown in the mulched soils; dryland taro, yams, and possibly
+stones that cover a shallow (50 cm deep) agricultural soil many
+sweet potatoes were grown in the veneer surfaces and stacked
+hectares in size. Settlement consists primarily of low-density
+boulder concentrations; dryland taro and yams were grown in
+lithic tool scatters that represent temporary dwellings. The
+the pu; bananas and perhaps young propagation plants were
+houses of elite personnel and a small shrine (ahu) have also
+grown in the manavai; and dryland taro, yams, and sweet pobeen identified in this zone. They are hypothesized to represent
+tat0 were grown in the planting circles.
+a managerial presence.
+These six types of agricultural features are differentially
+distributed throughout the island. In combination, these features
+Lowland interior: Further inland at a distance of about 2
+form the gardens and field systems that would have fed the subkm from the coast and located on the northern edge of Maunga
+stantial prehistoric population. The once thought haphazard
+Puko Puhi lies an interior valley. Permanent domestic settledistribution of outcrops and boulder can now be seen as well
+ment with associated veneer surface and stacked boulder conarticulated and strategically placed growing areas on the tercentration gardens resumes although the overall density of setrain. The investigation and interpretation of rock garden varietlement is lower than the near coastal region. The gardens inties permits a reconstruction of past agricultural technologies
+clude both small household gardens and larger field systems.
+and landscape use. We compare the dry lowland Heki'i District
+and the moister AkahangaNaihu (Vaitea) upland region to exAkahangaNaihu District
+amine differences in settlement and agricultural techdology.
+An intensive archaeological settlement survey has been
+
+/ Rapa Nui Journal
+
+19
+
+Vol. 16 (1) May 2002
+
+conducted in the AkahangaNaihu districts and has recorded
+many hundreds of archaeological features (Cristino et al. 1981;
+McCoy 1976). We have recently re-surveyed a portion of the
+upland Vaitea area of these districts (Stevenson et al. 2002).
+The results of these surveys indicate three general zones of land
+use.
+Coastal: This zone consists of the lowland coastal area,
+extends inland ca. 1.75 km, and includes the slope up to an elevation of ca. 50 m above sea level. The settlement in this area is
+similar to coastal zone in the Heki'i District and consists of permanent architectural features such as houses, habitation caves,
+earth ovens, and chicken houses (Cristino et al. 1981, Stevenson
+1984, 1997). A number of smaller household gardens and larger
+field systems consisting of manavai, veneer surfaces and
+stacked boulder concentrations are known to exist but have not
+been surveyed.
+Lowland inland: This zone extends from ca. 1.75 km to 4
+km inland between elevations of 50 to 150 m. Settlement is
+similar to the coastal zone, with the exception that the density of
+residential and agricultural features is considerably less.
+Upland interior: The archaeological features in the upland
+Vaitea survey area extend from ca. 4 to 6 km inland, above an
+elevation of 150 m, and consist of rectangular house foundations, rectangular platforms of crude field stone, u-shaped structures, cleared walkways with stone borders, circular enclosures
+with low perimeter walls and open hearths. Noticeably absent
+are features such as larger house patios, chicken houses,
+manavai and earth ovens. In the Vaitea area, these surface features are associated with an undulating weathered lava flow
+consisting of numerous ridges and swales defined by projecting
+basalt outcrops. Prehistoric gardens of varying dimensions consisting of veneer surfaces and stacked boulder concentrations
+are located within the walled enclosures and in the protected
+areas at the base of slopes and between the basalt outcroppings.
+The rectangular houses are typically associated with these agricultural fields.
+
+Figure 4. The distribution of settlements in the Vaitea upland region
+(after Cristino et al. 1981).
+
+abandoned and agricultural production was conducted at lower
+elevations.
+The use of the landscape in the Heki'i District shows a
+similar dynamic pattern of landscape use. The earliest settlement was also along the coast. Excavated ceremonial structures
+(ahu) on the north coast in the adjacent 'Anakena District date
+to AD 900-1000 (Skj@lsvold 1994). Domestic sites in the
+coastal plain were long-term and stable residence locations with
+occupational spans of over 500 years (AD 1300-1800)
+(Stevenson et al. 1996). In contrast, the heavily mulched hilltop
+fields located about a kilometer inland were only used for several centuries (ca. AD 1400-1700) and represent an effort to significantly increase production near the apex of chiefdom complexity by the introduction of elite managed plantations
+(Stevenson et al. 1999). These fields are in production at the
+same time as the moister upland regions and are a direct expression of an intensified agricultural system. Further inland within
+an interior valley, initial settlement was early and began in the
+AD 1100-1200s and continued until it too was abandoned in the
+early AD 1700s. From this time on, virtually all of the island
+population was living on the island coastal plain.
+These data suggest that the coastal zone was occupied continuously from initial settlement of the island at ca. AD 800.
+The relatively low rainfall in this zone would reduce agricultural productivity, but the zone had the advantage of being
+
+THE CHRONOLOGY
+OF LANDSCAPE
+USE
+
+The body of chronological data in the form of radiocarbon and
+obsidian hydration dates has grown significantly in the last 15
+:.-:ars (Martinnson-Wallin 1994; Stevenson 1984,2000; Stevenson et al. 2000). The context of these dates are not only from
+~ih!! and domestic sites but also from agricultural features. Col:esti\-ely, these data allow us to see where the island landscape
+.;-as occupied in the past and how it was modified.
+A settlement pattern model based on earlier work in the
+.Gahanga District and the upland interior Vaitea (Maunga Tari)
+x:a proposed an early (ca. AD 800) settlement for coastal re,ions and a gradual expansion from core areas to other near
+sior? regions. The building of new dwellings gradually ex~ r n d e dinland and the first forays into upland regions occurred
+zound -AD1250. By AD 1400-1500 the uplands were routinely
+n:Llz?d !Stevenson 1997) and continued to be farmed until the
+tz:~
+.LD 1700s. In the early AD 1700s the upland regions were
+
+_
+
+-_-
+
+I
+1 -
+
+-- -
+
+20
+
+Vol. 16 (1) May 2002
+
+--
+
+-.
+
+closer to marine resources. The lowland inland zone was not
+intensively used until much later, beginning around AD 1400
+and extending to ca. AD 1700. This zone receives less rainfall
+than the uplands and would have required intensive amounts of
+labor devoted to lithic mulching to make it agriculturally productive. The lowland interior zone apparently had greater agricultural potential using extensive techniques than had the lowland inland zone, and was utilized relatively early from ca. AD
+1100 to 1700. The upland interior zone receives the highest
+rainfall, but the greater distance to the coast, the increase in
+wind velocity (thereby increasing evaporation and reducing the
+amount of available moisture), and the lower temperatures made
+it less desirable for agriculture and it was not initially used until
+AD 1250, and not extensively used until ca. AD 1400.
+
+ized a weathered and undulating lava flow for protection against
+the wind. Millions of stones were intentionally brought together
+to form a protective rock distribution in veneer surfaces and
+stacked boulder concentrations. Our observations note that the
+outcrops were also dismantled to provide additional stone.
+These gardens were removed from the coastal areas by at least 4
+kilometers and would have involved significant travel time to
+tend the fields and significant transport costs to move the sweet
+potatoes and taro to lowland households.
+The hilltop plantations in the Heki'i District were located
+only about 1-2 km from the coast thereby reducing travel and
+transport costs. However, the level of effort invested in rock
+garden construction was significantly greater. Here, the rock
+cover is a deep lithic mulch of billions of small stones over a
+shallow soil. Individual planting pits penetrated into regolithic
+C-horizon in an attempt to create a suitable growing environment with higher moisture content.
+It seems clear now that the development of labor-intensive
+field systems correlates well with the occurrence of larger ceremonial complexes. In the early part of Rapa Nui prehistory we
+hypothesize that extensive forms of agricultural production were
+practiced in the coastal regions (from AD 800), in the lowland
+interior (from AD 1100) and in the upland interior (from AD
+1250) and was probably based on dryland taro cultivation.
+Yields from this form of production would not have resulted in
+large surpluses. We propose that intensive forms of agriculture
+in each of these same zones occurred after AD 1400 with the
+later introduction of the sweet potato. This tuber reached east
+Polynesia around AD 1000 (Kirch et al. 1995) and was later
+taken to outlier islands where its cultivation produced yields
+well above that required for subsistence needs.
+The architectural trajectory on Rapa Nui appears to support our general scheme. Although large formal ahu are present
+by AD 1000-1100 (Skjeilsvold 1994) many of the largest structures were built in the AD 1400s to AD 1600s (MartinssonWallin 1994). The presence of landforms in two parts of the
+island devoted to intensive agricultural production beginning
+around AD 1400 and ending around AD 1700 is evidence to
+support the proposition that corporate work efforts required a
+larger amount of food than could be produced at the household
+level. However, this elevated production had to occur in an uncertain environment and required extraordinary modifications of
+the landscape to be realized. We propose that the return on labor
+investment was very low and required an ideologically strong
+and strictly ranked hierarchy, one that emerged in only a few
+centuries after settlement.
+
+The archaeological remains from the AkahangaNaihu (Vaitea)
+area were initially used to develop the first regional settlement
+model for Rapa Nui (Stevenson 1997). It was based upon the
+concept of the Hawaiian ahupua'a where each sub-district
+population segment had access to a strip of land from the coast
+to the interior and the full range of resources contained within
+it. Implied in this model is that the resources available to each
+population segment were more or less equal. On Rapa Nui the
+variation in elevation and moisture availability suggests that
+some chiefdom districts had more favorable habitats within
+their boundaries.
+It has been proposed that prior to chiefdom collapse in the
+17thcentury, the political center of each district was located near
+the largest ceremonial center (ahu). A cluster of chiefly houses
+was located immediately inland of the ahu. Habitation sites of
+non-elite personnel were located inland of the coastal sacred
+zone up to an elevation of approximately 150 m. Settlement became less frequent with increasing elevation and eventually
+changed to the settlement characteristic of the upland interior
+Vaitea area. We now know that the rectangular houses represented temporarily occupied dwellings, some of which may
+have been the residences of elite managers overseeing agricultural production (Stevenson 1997; Stevenson et al. 1999).
+Archaeological survey in the Heki'i District has increased
+our understanding of how the landscape was utilized and requires that the initial model be revised to account for districts
+that do not have the moister upland regions. The similarity in
+the coastal settlement pattern between the Heki'i and Akahanga
+Districts suggests that the coastal zone in both areas included
+household gardens and lowland field systems. In contrast, further inland on the edge of the coastal plain of the Heki'i District
+were large and labor-intensive plantations on low hilltops that
+were managed by elite personnel and where non-elite occupations did not require permanent surface architecture. Further
+inland, low-density settlement with permanent architecture and
+associated field systems resume. These latter two areas served
+as the main production regions in Heki'i District where surplus
+food supplies were generated.
+Both the upland region and the hilltop plantations reflect
+intensive forms of agricultural production. The upland interior
+Vaitea area consists of rock gardens or field systems that util-
+
+/ Rapa Nui Journal
+
+Cristino, C., P. Vargas and R. Izuarieta. 1981. Atlas Arqueologico de Isla de Pascua. Facultad de Arquitectura y Urbanismo, Centro de Estudios, Isla de Pascua. Santiago, Chile.
+Dunnell, R. 1999.The Concept of Waste in Evolutionary Archaeology. Journal of Anthropological Archaeology
+18:243-250
+Earle, T . 1997. How Chiefs Come to Power: The Political Economy in Prehistory. University of Stanford Press, Stanford.
+Flenley, J. and S. King. 1984. Late Quaternary Pollen Records
+
+21
+
+Vol. 16 (1) May 2002
+
+I
+
+I
+
+1
+I
+
+Stevenson, C. M. 1997. Archaeological Investigations on Easter
+Island, Maunga Tari: An Upland Agricultural Complex.
+The Easter Island Foundation, Los Osos.
+Stevenson, C. M. 2000. Estimating Easter Island Obsidian Hydration Rates from Glass Composition, Easter Island Archaeology: Research on Early Rapa Nui Culture. C. M.
+Stevenson and W. S. Ayres, eds.:205-210. The Easter Island Foundation, Los Osos.
+Stevenson, C. M. 2002. Easter Island Territorial Divisions in
+the 16thCentury. Pac@c Landscapes. T. N . Ladefoged
+and M. Graves, eds. The Easter Island Foundation, Los
+Osos. (in press)
+Stevenson, C. and C. Cristino. 1986. The residential settlement
+history of Easter Island's southern coastal plain. Journal
+of New World Archaeology 7:29-38
+Stevenson, C. and S. Haoa. 1998. Prehistoric Gardening Systems and Agricultural Intensification in the La P6rouse
+Area of Easter Island. Easter Island in Pacific Context,
+South Seas Symposium. Proceedings of the Fourth International Conference on Easter Island and East Polynesia. C.
+M . Stevenson, G. Lee and F. J. Morin, eds.:205-213.
+Easter Island Foundation, Los Osos.
+Stevenson, C., T. Ladefoged and S. Haoa. 2002. La Prospeccidn
+Arqueol6gica de Vaitea: Informe de Terreno 2001. Report
+Submitted to the Consejo de Monumentos Nacionales de
+Chile, Santiago.
+Stevenson, C., J. Wozniak and S. Haoa. 1999. Prehistoric agricultural production on Rapa Nui. Antiquity 73:801-8 12
+Stevenson, C., J. Wozniak and S. Haoa. 2000. A Geomorphological and Archaeological Study of Prehistoric Gardens in the La Perouse Area of Easter Island. Report submitted to the Consejo de Monumentos Nacionales de Chile,
+Santiago.
+Stevenson, C., S. Haoa, P. Mills, J.M. Ramirez and C. Gomez.
+1996. The La Ptrouse Archaeological Project, Report of the
+1995 Field Investigation. Report submitted to the Consejo
+de Monumentos Nacionales de Chile, Santiago.
+Stevenson, C., S. Haoa , P. Wallin, H. Wallin-Martinsson and J.
+M. Ramirez. 1997. The La PCrouse Archaeological Project:
+Report of the 1996 Field Investigations. Unpublished Report.
+Wozniak, J. A. 1998a. Settlement Patterns and Subsistence on
+the Northwest Coast of Easter Island. Easter Island and
+East Polynesian Prehistory. P. Vargas C., ed.:171-178.
+Universidad de Chile, Santiago.
+Wozniak, J. A. 1998b. Settlement Patterns and Subsistence on
+the Northwest Coast of Rapa Nui. Easter Island in Pacific
+Context, South Seas Symposium. Proceedings of the Fourth
+International Conference on Easter Island and East Polynesia. C. M. Stevenson, G. Lee and F. J. Morin, eds.:185192. Easter Island Foundation, Los Osos.
+Wozniak, J. A. 2000. Prehistoric Horticultural Practices on
+Easter Island - Lithic Mulched Gardens and Field Systems.
+Rapa Nui Journal 13:95-99
+
+irom Easter Island. Nature 307:47-50
+Flznley, J., S. King, J. Jackson, C. Chew, J. T. Teller and M. E.
+Prentice. 1991. TheLate Quaternary Vegetational and CLimatic History of Easter Island. Journal of Quaternary Science 6:85-115.
+Graves, M. and T. N. Ladefoged. 1995. The Evolutionary Significance of Ceremonial Architecture in Polynesia. Evolutionary Archaeology: Methodological Issues. P. A. Teltser,
+ed.: 149-174. University of Arizona, Tucson.
+Hommon, R. J. 2001. The Emergence of Large-scale Society in
+Hawai'i. Pacific 2000. Proceedings of the Fifth International Conference on Easter Island and the Pacific. C. M .
+Stevenson, G. Lee and F. J. Morin, eds.:141-149. The
+Easter Island Foundation, Los Osos.
+Honorato, R., A. Norero, J. Rodriguez and D. Suarez. 1991.
+Ambiente Agrofisico y Fertilidad de Suelos. Estudio de la
+Productividad Silvoagropecuaria del Fundo Vaitea, Isla de
+Pascua. Humberto Benedetti R., ed.:25-43. Pontificia Universidad Catolica de Chile, Facultad de Agronomia.
+Hunt, T. L. and C. P. Lipo. 2001. Cultural Elaboration and Environmental Uncertainty in Polynesia. Pacific 2000. Proceedings of the Fifth International Conference on Easter
+Island and the Pacific. C. M. Stevenson, G. Lee and F. J.
+Morin, eds. : 103-115. The Easter Island Foundation, Los
+Osos.
+Kirch, P. 1997. The Lupita Peoples. Blackwell, Oxford.
+Kirch, P. 2000. On the Road of the Winds: An Archaeological
+History of the Pacific Islands before European Contact.
+University of California Press, Berkeley.
+Kirch, P., Steadman, D., Butler, V., Hather, J. and M. Weisler.
+1995. Prehistory and Human Ecology in Eastern Polynesia:
+Excavations at Tangatatau Rockshelter, Mangaia, Cook
+Islands. Archaeology in Oceania 30:47-65
+Ladefoged, T. N. 1995. The Evolutionary Ecology of Rotuman
+Political Integration. Journal of Anthropological Archae-
+
+ology 14:341-358.
+Ladefoged T. N. and M. W. Graves. 2000. Evolutionary Theory
+and the Historical Development of Dry Land Agriculture in
+North Kohala, Hawai'i. American Antiquity 65:423-448.
+Louwagie, G. and R. Langohr. 2002. Testing Land Evaluation
+Methods for Crop Growth on Two Soils of the La PCrouse
+Area (Easter Island, Chile). Rapa Nui Journal (This issue)
+Martinsson-Wallin, H. 1994. Ahu - The Ceremonial Stone
+Structures of Easter Island. Analysis of Variation and Interpretation of Meanings. Aun 19. Upsalla, Sweden.
+McCoy, P. C. 1976. Easter Island Settlement Patterns in the
+Late Prehistoric and Protohistoric Periods. Bulletin No. 5,
+International Fund for Monuments, Inc., New York.
+Skj@lsvold,A. 1994. Archaeological Investigations at
+'Anakena, Easer Island. The Kon-Tiki Museum Occasional
+Papers, Vol. 3. A. Skj~lsvold,ed. The Kon-Tiki Museum
+Institute for Pacific Archaeology and Cultural History,
+Oslo.
+Stevenson, C. M. 1984. Corporate Descent Group Structure in
+Easter Island Prehistory. Ph.D. Dissertation, Department of
+Anthropology, The Pennsylvania State University, State
+College.
+
+22
+
+Vol. 16 (1) May 2002
+
+

@@ -366,6 +366,12 @@ Each entry follows this format:
 **Pipeline**: claims / summary / index
 **Notes**: Routledge edited volume (11 chapters). Key chapters: Boersema (Ch. 8) systematically reviews all four 18th-century expedition accounts and finds no evidence of collapse, warfare, or starvation; Richards (Ch. 9) documents prosperous whaling-era trade (1805-1862) and references to "King" and "chiefs"; Vogt and Kuhlem (Ch. 6) interpret Ava Ranga Uka A Toroke Hau as elite-controlled ritual complex (using Metraux 1940 analogy); Lee et al. (Ch. 7) assume chiefly command of monument construction as premise for pukao analysis; editors' reflections (Ch. 11) explicitly acknowledge collapse framework shapes interpretation of Orongo, ana kionga, and mata'a without adequate evidence.
 
+## Stevenson, Ladefoged & Haoa 2001 ("Productive Strategies in an Uncertain Environment: Prehistoric Agriculture on Easter Island")
+**File**: `Stevenson, Christopher M. et al - 2001 - Productive Strategies in an Uncertain Environment Prehistoric Agriculture on Easter Island.pdf`
+**Tags**: chiefdom-attribution, settlement-patterns, archaeological-evidence, circularity, polynesian-analogy
+**Pipeline**: claims / summary / index
+**Notes**: Six-page paper on prehistoric agriculture comparing dry (Heki'i) and moist (Akahanga/Vaihu) districts. Introduces map of "Rapa Nui chiefdom districts circa AD 1500" (Figure 2), marking cartographic naturalization of the chiefdom label. Claims "apex of chiefdom complexity," "elite managed plantations," "ideologically strong and strictly ranked hierarchy." Applies Hawaiian ahupua'a model explicitly. Circular argument: agricultural data organized by chiefdom districts becomes evidence for chiefdom-level organization. Key progressive hardening step: Stevenson 1984 (no chiefdom, boundaries cannot be drawn) -> 1986 (no chiefdom in text) -> 2001 (10 named chiefdom districts mapped with dates). Post-raid source dependency hidden: district boundaries derive from Routledge/Metraux/McCoy via Stevenson 2002, but none cited. Claims contradicted by Davis et al. 2024 (agricultural extent), Lipo et al. 2025 (centralized production), DiNapoli et al. 2019 (territorial control), Mulrooney 2013 (upland abandonment), Moreno-Mayar et al. 2024 (population collapse).
+
 ## Moreno-Mayar et al. 2024 ("Ancient Rapanui genomes reveal resilience and pre-European contact with the Americas")
 **File**: `moreno-mayar_et_al_2024.pdf`
 **Tags**: archaeological-evidence, data-quality, critique

@@ -85,6 +85,8 @@ Before attributing any claim to a published source, check the precedence hierarc
 
 Flagging protocol: use `[CITE-CHECK: {Author Year}]` in manuscript prose, `[UNVERIFIED: {description}]` in working documents. All flags must be resolved before submission.
 
+**Reference checking rule**: When processing any source through the pipeline, check every reference in its bibliography against `docs/working/bibliography_checklist.md`. Any reference relevant to the chiefdom question that is not already on the checklist should be added with appropriate metadata (citation, relevance, category, in-repo status, pipeline status, priority, notes).
+
 ## Manuscript Protocol
 
 Citation rules:
