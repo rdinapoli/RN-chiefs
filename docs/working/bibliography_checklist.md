@@ -5,7 +5,7 @@ Master chronological checklist of all sources bearing on the Rapa Nui chiefdom q
 **Pipeline stages**: not started → claims → summary → evidence → complete
 **Priority levels**: critical (core to the argument) / important (significantly supports or qualifies) / supplementary (useful context)
 
-Last updated: 2026-03-20 (duplicate cleanup)
+Last updated: 2026-03-20 (MW 1994 processed)
 
 ---
 
@@ -137,7 +137,7 @@ Dropped from consideration: Van Tilburg 1989 (RAG retrieval artifact; no matchin
 | 146 | Stevenson 1993, "Easter Island Excavations: Summary Report 1993" (*RNJ* 7(4)), 3pp | Field report interpreting Site 10-244 as "chiefly residence"; rebuilding through mid-1600s | Rapa Nui archaeological | **NO** | not started | supplementary | |
 | 117 | Charola (ed.) 1994, *Easter Island: The Heritage and its Conservation* (WMF/ICCROM), 74pp | Multi-author; ariki mau, ariki paka, descent groups, birdman cult (14 mentions), Miru lineage, glossary of political/social terms | textbook/synthesis | **NO** | not started | supplementary | |
 | 132 | Fischer 1994, "Preliminary Evidence for Cosmogonic Texts in Rapanui's Rongorongo Inscriptions" (*JPS* 103:303-321) | Hotu Matu'a foundation narrative; descent group structure, chiefdom organization, birdman cult | Rapa Nui archaeological | **NO** | not started | supplementary | |
-| 39 | Martinsson-Wallin 1994, *Ahu: The Ceremonial Stone Structures of Easter Island. Analyses of Variation and Interpretation of Meanings* (Aula Qvarternaria 4, Uppsala) | Comprehensive ahu typology (164 image ahu); interprets ahu variation in terms of chiefdom-level power, lineage territories (Tupahotu, Miru, Hotu Iti, Ko Tuu), Englert's eight principal mata, specialized occupational groups (maori); extensive territorial distribution data | chiefdom-attribution | **NO** | not started | important | Most detailed ahu study; need ahu-chiefdom framing. Need to acquire |
+| 39 | Martinsson-Wallin 1994, *Ahu: The Ceremonial Stone Structures of Easter Island. Analyses of Variation and Interpretation of Meanings* (AUN 19, Uppsala) | Comprehensive ahu typology (164 image ahu); construction analysis, spatial distribution, chronology, interpretation. Dataset re-analyzed by Stevenson 2002 to produce territorial model despite MW's own finding of "no strong correlation to territorial size." KEY FINDINGS: ahu architecturally homogeneous; 5-6 significant ahu per district independent of size = "social equality"; boundaries "difficult to establish"; Stevenson 1984 typology critiqued (6/33 attribute coverage); late-period non-differentiation | chiefdom-attribution, settlement-patterns | **yes** (`pdfs/martinsson_wallin_1994/`) | **complete** | important | 185pp book. Processed 2026-03-20. 116 claims extracted. Source of 164-ahu dataset that Stevenson 2002 reprocesses. 4 new checklist entries added (#162-165). |
 | 98 | McCall 1994, *Rapanui: Tradition and Survival on Easter Island* 2nd ed. (University of Hawaii Press) | Ethnographic and historical synthesis; cultural specialists, oral historical knowledge, social memory, Rapanui social continuity. Spanish translation 1999 (Easter Island Foundation) | Rapa Nui archaeological | **NO** | not started | important | Need to acquire; key perspective on European contact effects |
 | 118 | Owsley et al. 1994, "Biological Effects of European Contact on Easter Island" (in *In the Wake of Contact*, pp. 161-178) | Bioarchaeological evidence of warfare, tribal conflict, cranial trauma before and after European contact | Rapa Nui archaeological | **NO** | not started | supplementary | |
 | 147 | Ramirez 1994, "Rapa Nui or Rapanui: Political and Academic Perspectives" (*RNJ* 8(2)), 2pp | Politics of naming; not about prehistoric political organization | Rapa Nui archaeological | **NO** | not started | supplementary | |
@@ -148,7 +148,8 @@ Dropped from consideration: Van Tilburg 1989 (RAG retrieval artifact; no matchin
 | 148 | Santa Coloma 1995/1997/1998, marriage seasonality and endogamy studies | Marriage patterns reflecting social boundaries; population dynamics | Rapa Nui archaeological | **NO** | not started | supplementary | |
 | 119 | Van Tilburg 1995, "Moving the Moai" (*Archaeology* 48(1)), 11pp | Popular treatment; birdman cult as political transition from hereditary to competitive leadership | Rapa Nui archaeological | **NO** | not started | supplementary | |
 | 149 | Bierbach et al. 1996, "Religion and Language of Easter Island: An Ethnolinguistic Analysis" 24pp | Descent group vocabulary (Tupahotu, Miru), tribal categories, lineage terminology | Rapa Nui archaeological | **NO** | not started | supplementary | |
-| 133 | Martinsson-Wallin 1996, "Variation and Meaning of Easter Island Ahu" (in Stevenson & Ayres eds.) | Ahu variation as sociopolitical meaning; ranked society, elite centers, lineage territories; alternative interpretations beyond competitive models | Rapa Nui archaeological | **NO** | not started | supplementary | |
+| 133 | Martinsson-Wallin 1996, "Variation and Meaning of Easter Island Ahu" (*RNJ* 10(4), Dec 1996, pp. 93-98, 6pp) | Ahu variation as sociopolitical meaning; correspondence analysis of 164 image ahu; structuralist framework; image ahu "generally form a homogenous group" | Rapa Nui archaeological | **yes** (`pdfs/martinsson_wallin_1996/`) | not started | supplementary | Filed 2026-03-20 |
+| 162 | Martinsson-Wallin & Wallin 2014, "Spatial Perspectives on Ceremonial Complexes: Testing Traditional Land Divisions on Rapa Nui" (*Studies in Global Archaeology* no. 20, 26pp) | Tests traditional land divisions using correspondence analysis and case study of two ahu in La Perouse area; habitus at individual organizational level; complex social relationships tied to land areas | settlement-patterns, circularity | **yes** (`pdfs/martinsson_wallin_wallin_2014/`) | not started | important | Filed 2026-03-20. Directly relevant to territorial question |
 | 120 | Van Tilburg 1996, "Mechanics, Logistics and Economics of Transporting Easter Island Statues" (*RNJ* 10(4):110-115) | Moai transport within chiefdom-level labor organization; tangata manu as "ideological adaptation to food resource availability" | Rapa Nui archaeological | **NO** | not started | supplementary | |
 | 143 | Charola 1997, "Death of a Moai" (*RNJ* 11(2)), 62pp | Substantial birdman cult discussion; tangata manu, Hotu Iti, Hanau Eepe/Momoko, warfare | Rapa Nui archaeological | **NO** | not started | supplementary | |
 | 154 | Earle 1997, *How Chiefs Come to Power: The Political Economy in Prehistory* (Stanford UP) | Major chiefdom theory work; ideological basis for chiefly polities through monumental architecture; cited in Stevenson et al. 2001 as theoretical scaffolding for linking architecture to political hierarchy | chiefdom theory | **NO** | not started | important | Found via Stevenson et al. 2001 reference check; broader chiefdom literature |
@@ -179,6 +180,10 @@ Dropped from consideration: Van Tilburg 1989 (RAG retrieval artifact; no matchin
 | 159 | Rounds-Beardsley 1990, *Spatial Analysis of Platform Ahu on Easter Island*, PhD dissertation, University of Oregon | Nearest-neighbor and cluster analysis of ahu to test ethnohistoric territorial boundaries. Found correspondence "only partially successful." Important for circularity: tests whether archaeological data independently confirm ethnohistoric boundaries (it doesn't fully) | settlement-patterns, circularity | **NO** | not started | important | Found via Stevenson 2002 reference check. Key for showing archaeological data does not confirm ethnohistoric territories |
 | 160 | McCall 1981, *Rapanui: Tradition and Survival on Easter Island* (University of Hawaii Press) | European cultural disruption, population estimates (reduced to ~1,000 by 1866, p. 59). Different from McCall 1979 | post-slave-raid-ethnography | **NO** | not started | supplementary | Found via Stevenson 2002 reference check |
 | 161 | Martinsson-Wallin & Wallin 2000, "Ahu and Settlement: Archaeological Excavations at 'Anakena and La Pérouse" (in Stevenson & Ayres eds., *Easter Island Archaeology*, pp. 27-44) | Ahu Nau Nau construction/enlargement sequence; Heki'i excavations | Rapa Nui archaeological | **NO** | not started | supplementary | Found via Stevenson 2002 reference check |
+| 162 | Liller 1988, "Rapanui Archaeoastronomy: Solar Observatories" (*Clava* no. 4) | Archaeoastronomy of ahu orientation; argues some ahu were solar observatories | Rapa Nui archaeological | **NO** | not started | supplementary | Found via Martinsson-Wallin 1994 reference check |
+| 163 | Liller 1993, "The Monuments in the Archaeoastronomy of Rapanui" (in Fischer ed., *Easter Island Studies*, pp. 122-127) | Claims 15 ahu designed as solar point devices; discussed by MW in context of ahu placement analysis | Rapa Nui archaeological | **NO** | not started | supplementary | Found via Martinsson-Wallin 1994 reference check |
+| 164 | Campbell 1987, *La Cultura de la Isla de Pascua. Mito y Realidad* (Santiago de Chile) | Inland ahu studies; one of few sources on interior ahu function | Rapa Nui archaeological | **NO** | not started | supplementary | Found via Martinsson-Wallin 1994 reference check |
+| 165 | Gill & Owsley 1993, "Human Osteology of Rapanui" (in Fischer ed., *Easter Island Studies*, pp. 56-62) | Skeletal analysis indicating three tribal areas with non or slight contact; endogamous marriage pattern, especially at Anakena; genetic exchange via exogamy between Mahatua and Oroi areas | Rapa Nui archaeological | **NO** | not started | supplementary | Found via Martinsson-Wallin 1994 reference check. Relevant to territorial question: biological evidence for distinct population clusters |
 
 ---
 
@@ -312,7 +317,7 @@ Critical subset for this paper. Many are cataloged in the CA bibliography; only 
 
 **Bibliography mining:** During processing, check each source's bibliography for missing items, particularly:
 - Stevenson papers filling 1987-2001 gap (e.g., Stevenson 1997, Stevenson & Haoa 2008)
-- Martinsson-Wallin 1994 (ahu typology)
+- ~~Martinsson-Wallin 1994 (ahu typology)~~ — **DONE** (2026-03-20, 116 claims)
 - Kirch post-1984 papers on Rapa Nui specifically
 
 ### Batch 3: Need acquisition (highest priority first)
@@ -324,7 +329,7 @@ Critical subset for this paper. Many are cataloged in the CA bibliography; only 
 - McCall 1976, "European Impact on Easter Island" — **important**
 - McCall 1979, "Kinship and Environment on Easter Island" — **important**
 - Hunt & Lipo 2006 (*Science*)
-- Martinsson-Wallin 1994
+- ~~Martinsson-Wallin 1994~~ — **IN PROGRESS** (2026-03-20)
 - ~~Van Tilburg 1994~~ — **IN REPO** (`pdfs/van_tilburg_1994/`)
 - Heyerdahl & Ferdon 1961
 - Diamond 2005 (ch. 2)
@@ -347,7 +352,7 @@ Critical subset for this paper. Many are cataloged in the CA bibliography; only 
 
 **Priority B** (citation network nodes, process second):
 6. Van Tilburg 1994 (#40) — selective chapters; in repo
-7. Martinsson-Wallin 1994 (#39) — selective chapters; need to acquire
+7. ~~Martinsson-Wallin 1994 (#39)~~ — **DONE** (2026-03-20, 116 claims)
 8. Van Tilburg et al. 1998 (#121) — "average Rapa Nui chiefdom" model; need to acquire
 9. Beardsley 1990 (#113) — quantitative ahu territorial analysis; need to acquire
 10. Skjølsvold 1994 (#116) — Anakena paramount chief site; need to acquire
@@ -367,12 +372,12 @@ Critical subset for this paper. Many are cataloged in the CA bibliography; only 
 | Chiefdom model foundations (Era 2) | 11 | 8 | 8 | 3 |
 | First archaeological models (Era 3) | 10 | 6 | 4 | 6 |
 | Kirch era (Era 4) | 19 | 9+ | 5 | 14 |
-| Consolidation (Era 5) | 56 | 5 | 1 | 55 |
+| Consolidation (Era 5) | 60 | 5 | 2 | 58 |
 | Ecocide/challenge (Era 6) | 8 | 1 | 0 | 8 |
 | Active debate (Era 7) | 17 | 10 | 6 | 11 |
 | Current research (Era 8) | 8 | 6 | 4 | 4 |
 | Theoretical | 10 | 0* | 0 | 10 |
-| **Total** | **161** | **66+** | **49** | **112** |
+| **Total** | **165** | **66+** | **50** | **115** |
 
 \* In `papers_config.json` but PDFs not yet downloaded/verified
 \+ Gonzalez et al. 1984 and Ramirez Aliaga 1989 PDF status unclear
@@ -381,7 +386,8 @@ Critical subset for this paper. Many are cataloged in the CA bibliography; only 
 **Stevenson 2002 "Territorial Divisions" processed (2026-03-20)**: 115 claims extracted. Completes progressive hardening trajectory (1984->1986->2001->2002). Key findings: fabricated citation chain in opening sentence (Goldman misrepresented, Stevenson 1984 misrepresented); Martinsson-Wallin's negative finding overridden; Hawaiian ahupua'a model explicitly imported; geometric boundaries by midpoint interpolation; post-raid limitation acknowledged then bypassed. 3 new checklist entries added (#159-161): Rounds-Beardsley 1990 (important for circularity), McCall 1981, Martinsson-Wallin & Wallin 2000.
 **Duplicate cleanup (2026-03-20)**: Stevenson et al. 2002 (#106) "Production of Monumental Architecture" was a misfiled higher-res scan of #105 (Stevenson et al. 2001 "Productive Strategies," RNJ 16(1):17-22). Same authors, same journal/vol/pages, same content. Confirmed by visual comparison of all 6 pages. Different file hashes (7.7MB vs 597KB) due to scan resolution, not content. PDF deleted, directory removed. If a separate paper by this title exists, it needs to be acquired.
 **Chiefdom model foundations**: Sahlins 1954 dissertation, 1955 AA article, 1957 JPS article, and Sahlins & Service 1960 processed (2026-03-16). **Kirch 1984 processed (2026-03-16)**: full 334-page book, 121 claims extracted. **Goldman 1970 processed (2026-03-16)**: full 632-page book, 141 claims extracted.
-**Total pipeline files**: 51 claims files, 47 summaries, 5 evidence files populated.
+**Total pipeline files**: 52 claims files, 47 summaries, 5 evidence files populated.
+**Martinsson-Wallin 1994 processed (2026-03-20)**: 185pp doctoral thesis, 116 claims extracted. Key findings: ahu architecturally homogeneous (correspondence analysis); 5-6 significant ahu per district independent of size = "social equality"; territorial boundaries "difficult to establish"; Stevenson 1984 cluster analysis critiqued (only 6/33 ahu had all type-defining attributes); late-period non-differentiation; water resources at all major sites. Source of 164-ahu dataset that Stevenson 2002 reprocesses to reach opposite conclusions. Progressive hardening comparison table (1984->1994->2002) documents systematic overriding of MW's findings. 4 new checklist entries added (#162-165): Liller 1988, Liller 1993, Campbell 1987, Gill & Owsley 1993.
 **Era 5 expansion (2026-03-17)**: Era 5 expanded from 11 to 50 entries based on Stevenson OHD database and RN-RAG corpus. Generic Stevenson entry #41 replaced by specific papers. 42 new entries added (#111-#152), of which 2 placed in Era 4 (#111 Ayres 1985, #112 Lee 1989) and 40 in Era 5. Self-referential citation pattern documented. Processing priorities set (Batch 7) for 1990s-2000s chiefdom consolidation sources. Six existing entries updated with richer annotations: #39 Martinsson-Wallin 1994, #40 Van Tilburg 1994, #42 Fischer 1997 (upgraded to important), #96 Ramirez Aliaga 1989 (upgraded to important), #98 McCall 1994, #105 Stevenson et al. 2001. Three entries dropped as unverifiable (Van Tilburg 1989, Ladefoged & Graves 1997, Delsing 1996).
 **Post-Kirch expansion (2026-03-16)**: 20 new sources added (Eras 2-5 + Theoretical); generic Mulloy entry replaced with specific items. Key additions: Stevenson 1984/1986 (corporate descent groups, chiefdom framework), McCall 1976/1979/1994 (European impact, kinship), Ayres 1973 (ahu cultural context), Mulloy 1979 (culture-historical model).
 **New PDFs organized (2026-03-16)**: 15 unique PDFs (16 files, 1 duplicate deleted) moved from repo root to `docs/references/pdfs/`. 14 new checklist entries added (#100-110). Key acquisitions: Van Tilburg 1986 PhD (777pp), Van Tilburg 1994 (225pp), Rull & Stevenson 2022 (623pp), Stevenson n.d. Territorial Divisions (explicit chiefdom adoption), Gotland Papers 2010 (532pp). Processing order set: chronological from 1984 forward.
