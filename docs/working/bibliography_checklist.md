@@ -5,7 +5,7 @@ Master chronological checklist of all sources bearing on the Rapa Nui chiefdom q
 **Pipeline stages**: not started → claims → summary → evidence → complete
 **Priority levels**: critical (core to the argument) / important (significantly supports or qualifies) / supplementary (useful context)
 
-Last updated: 2026-03-17 (Era 5 expansion)
+Last updated: 2026-03-20 (duplicate cleanup)
 
 ---
 
@@ -114,7 +114,7 @@ All sources except Englert 1948 have been processed through the full pipeline.
 
 The period when the chiefdom interpretation hardened from tentative to default. A self-referential citation chain (Stevenson 1984/1986 → Van Tilburg 1994 → Martinsson-Wallin 1994 → all subsequent work) created cumulative authority from repeated citation rather than new evidence. By Stevenson et al. 2001, "chiefdom districts" appear on maps as givens.
 
-**Processed**: Stevenson et al. 2001 (#105, 106 claims, 2026-03-17).
+**Processed**: Stevenson et al. 2001 (#105, 106 claims, 2026-03-17). Stevenson 2002 "Territorial Divisions" (#103, 115 claims, 2026-03-20).
 
 Dropped from consideration: Van Tilburg 1989 (RAG retrieval artifact; no matching publication confirmed), Ladefoged & Graves 1997 (date error in RAG; likely the 1995 chapter or 2002 volume), Delsing 1996 (unverified conference version; 1998 retained).
 
@@ -174,8 +174,11 @@ Dropped from consideration: Van Tilburg 1989 (RAG retrieval artifact; no matchin
 | 104 | Stevenson 2001, "Environmental, Geomorphological and Social Issues in Easter Island Prehistory," 3pp | Conference paper/abstract on environmental issues | Rapa Nui archaeological | **yes** (`pdfs/stevenson_2001/`) | not started | supplementary | Short abstract |
 | 105 | Stevenson et al. 2001, "Productive Strategies in an Uncertain Environment: Prehistoric Agriculture on Easter Island," 6pp | Includes map of "Rapa Nui chiefdom districts circa AD 1500"; "apex of chiefdom complexity"; "elite managed plantations"; "ideologically strong and strictly ranked hierarchy"; Hawaiian ahupua'a model applied; circular agriculture-chiefdom argument | chiefdom-attribution | **yes** (`pdfs/stevenson_et_al_2001/`) | **complete** | important | 106 claims; cartographic naturalization of chiefdom districts; progressive hardening 1984->1986->2001 |
 | 140 | Ladefoged & Graves (eds.) 2002, *Pacific Landscapes: Archaeological Approaches* (Easter Island Foundation) | Contains Stevenson 2002 "Territorial Divisions" (#103); comparative Polynesian framework that enabled chiefdom model import | Polynesian chiefdom framework | **NO** | not started | important | Need to acquire |
-| 103 | Stevenson 2002, "Territorial Divisions on Easter Island in the Sixteenth Century" (in Ladefoged & Graves eds., *Pacific Landscapes*, pp. 211-230), 17pp | Explicitly adopts chiefdom language: "evolved into a well-developed chiefdom"; documents progressive hardening from 1984 | chiefdom-attribution, circularity | **yes** (`pdfs/stevenson_nd_territorial/`) | not started | **important** | Key for circularity: Stevenson 1984 (no chiefdom) -> 1986 (editorial reframing) -> this paper (explicit chiefdom adoption) |
-| 106 | Stevenson et al. 2002, "Production of Monumental Architecture and Land Use in an Uncertain Environment," 6pp | Monument production and land use; likely contains "Chiefdom Integration" periodization | chiefdom-attribution | **yes** (`pdfs/stevenson_et_al_2002/`) | not started | important | Check for "Chiefdom Integration" period |
+| 103 | Stevenson 2002, "Territorial Divisions on Easter Island in the Sixteenth Century" (in Ladefoged & Graves eds., *Pacific Landscapes*, pp. 213-229), 17pp | Declares "well-developed chiefdom" as fact; fabricated citation chain (Goldman, Kirch, Sahlins, Stevenson 1984); re-analyzes Martinsson-Wallin data overriding negative finding; 11 territories via Hawaiian ahupua'a midpoint interpolation; paramount chief suggested; post-raid limitation acknowledged then bypassed | chiefdom-attribution, circularity | **yes** (`pdfs/stevenson_nd_territorial/`) | **complete** | **important** | Processed 2026-03-20. 115 claims. Completes progressive hardening trajectory 1984->2002. Source of the districts map used in Stevenson et al. 2001. |
+| 106 | Stevenson et al. 2002, "Production of Monumental Architecture and Land Use in an Uncertain Environment," 6pp | **DUPLICATE**: PDF in repo was a misfiled higher-res scan of #105 (Stevenson et al. 2001 "Productive Strategies"). Deleted 2026-03-20. If a separate paper by this title exists, we need to acquire it. | chiefdom-attribution | **NO** (deleted; was duplicate of #105) | n/a | important | May be a bibliographic ghost or a different paper we lack |
+| 159 | Rounds-Beardsley 1990, *Spatial Analysis of Platform Ahu on Easter Island*, PhD dissertation, University of Oregon | Nearest-neighbor and cluster analysis of ahu to test ethnohistoric territorial boundaries. Found correspondence "only partially successful." Important for circularity: tests whether archaeological data independently confirm ethnohistoric boundaries (it doesn't fully) | settlement-patterns, circularity | **NO** | not started | important | Found via Stevenson 2002 reference check. Key for showing archaeological data does not confirm ethnohistoric territories |
+| 160 | McCall 1981, *Rapanui: Tradition and Survival on Easter Island* (University of Hawaii Press) | European cultural disruption, population estimates (reduced to ~1,000 by 1866, p. 59). Different from McCall 1979 | post-slave-raid-ethnography | **NO** | not started | supplementary | Found via Stevenson 2002 reference check |
+| 161 | Martinsson-Wallin & Wallin 2000, "Ahu and Settlement: Archaeological Excavations at 'Anakena and La Pérouse" (in Stevenson & Ayres eds., *Easter Island Archaeology*, pp. 27-44) | Ahu Nau Nau construction/enlargement sequence; Heki'i excavations | Rapa Nui archaeological | **NO** | not started | supplementary | Found via Stevenson 2002 reference check |
 
 ---
 
@@ -297,9 +300,9 @@ Critical subset for this paper. Many are cataloged in the CA bibliography; only 
 
 **1990s-2000s session:**
 6. Van Tilburg 1994 (225pp) — selective chapters; chiefdom consolidation synthesis
-7. Stevenson 2002 "Territorial Divisions" in Ladefoged & Graves (eds.) *Pacific Landscapes* (17pp) — **key for progressive hardening**: Stevenson 1984 (no chiefdom) -> 1986 (editorial reframing) -> this paper (explicit chiefdom adoption)
+7. ~~Stevenson 2002 "Territorial Divisions" in Ladefoged & Graves (eds.) *Pacific Landscapes* (17pp)~~ — **DONE** (2026-03-20, 115 claims)
 8. ~~Stevenson et al. 2001 (6pp)~~ — **DONE** (2026-03-17, 106 claims)
-9. Stevenson et al. 2002 (6pp) — check for "Chiefdom Integration" periodization
+9. ~~Stevenson et al. 2002 (6pp)~~ — **DUPLICATE of #105** (misfiled scan deleted 2026-03-20; need to verify if separate paper exists)
 10. Stevenson et al. 2015 (6pp)
 
 **Selective processing:**
@@ -339,8 +342,8 @@ Critical subset for this paper. Many are cataloged in the CA bibliography; only 
 1. Stevenson, Wozniak & Haoa 1999 (#124) — "chiefdom" in *Antiquity*; need to acquire
 2. Kirch 2000 Ch. 7 (#134) — updated APS framework; need to acquire
 3. ~~Stevenson et al. 2001 (#105)~~ — **DONE** (2026-03-17, 106 claims)
-4. Stevenson et al. 2002 (#106) — check for "Chiefdom Integration"; in repo
-5. Stevenson 2002 "Territorial Divisions" (#103) — explicit chiefdom adoption; in repo
+4. ~~Stevenson et al. 2002 (#106)~~ — **DUPLICATE of #105** (deleted 2026-03-20)
+5. ~~Stevenson 2002 "Territorial Divisions" (#103)~~ — **DONE** (2026-03-20, 115 claims)
 
 **Priority B** (citation network nodes, process second):
 6. Van Tilburg 1994 (#40) — selective chapters; in repo
@@ -375,8 +378,10 @@ Critical subset for this paper. Many are cataloged in the CA bibliography; only 
 \+ Gonzalez et al. 1984 and Ramirez Aliaga 1989 PDF status unclear
 
 **Batch 1 status**: 11 of 12 in-repo sources processed. DiNapoli et al. 2021 (Sustainability) PDF needs re-adding to repo.
+**Stevenson 2002 "Territorial Divisions" processed (2026-03-20)**: 115 claims extracted. Completes progressive hardening trajectory (1984->1986->2001->2002). Key findings: fabricated citation chain in opening sentence (Goldman misrepresented, Stevenson 1984 misrepresented); Martinsson-Wallin's negative finding overridden; Hawaiian ahupua'a model explicitly imported; geometric boundaries by midpoint interpolation; post-raid limitation acknowledged then bypassed. 3 new checklist entries added (#159-161): Rounds-Beardsley 1990 (important for circularity), McCall 1981, Martinsson-Wallin & Wallin 2000.
+**Duplicate cleanup (2026-03-20)**: Stevenson et al. 2002 (#106) "Production of Monumental Architecture" was a misfiled higher-res scan of #105 (Stevenson et al. 2001 "Productive Strategies," RNJ 16(1):17-22). Same authors, same journal/vol/pages, same content. Confirmed by visual comparison of all 6 pages. Different file hashes (7.7MB vs 597KB) due to scan resolution, not content. PDF deleted, directory removed. If a separate paper by this title exists, it needs to be acquired.
 **Chiefdom model foundations**: Sahlins 1954 dissertation, 1955 AA article, 1957 JPS article, and Sahlins & Service 1960 processed (2026-03-16). **Kirch 1984 processed (2026-03-16)**: full 334-page book, 121 claims extracted. **Goldman 1970 processed (2026-03-16)**: full 632-page book, 141 claims extracted.
-**Total pipeline files**: 50 claims files, 46 summaries, 5 evidence files populated.
+**Total pipeline files**: 51 claims files, 47 summaries, 5 evidence files populated.
 **Era 5 expansion (2026-03-17)**: Era 5 expanded from 11 to 50 entries based on Stevenson OHD database and RN-RAG corpus. Generic Stevenson entry #41 replaced by specific papers. 42 new entries added (#111-#152), of which 2 placed in Era 4 (#111 Ayres 1985, #112 Lee 1989) and 40 in Era 5. Self-referential citation pattern documented. Processing priorities set (Batch 7) for 1990s-2000s chiefdom consolidation sources. Six existing entries updated with richer annotations: #39 Martinsson-Wallin 1994, #40 Van Tilburg 1994, #42 Fischer 1997 (upgraded to important), #96 Ramirez Aliaga 1989 (upgraded to important), #98 McCall 1994, #105 Stevenson et al. 2001. Three entries dropped as unverifiable (Van Tilburg 1989, Ladefoged & Graves 1997, Delsing 1996).
 **Post-Kirch expansion (2026-03-16)**: 20 new sources added (Eras 2-5 + Theoretical); generic Mulloy entry replaced with specific items. Key additions: Stevenson 1984/1986 (corporate descent groups, chiefdom framework), McCall 1976/1979/1994 (European impact, kinship), Ayres 1973 (ahu cultural context), Mulloy 1979 (culture-historical model).
 **New PDFs organized (2026-03-16)**: 15 unique PDFs (16 files, 1 duplicate deleted) moved from repo root to `docs/references/pdfs/`. 14 new checklist entries added (#100-110). Key acquisitions: Van Tilburg 1986 PhD (777pp), Van Tilburg 1994 (225pp), Rull & Stevenson 2022 (623pp), Stevenson n.d. Territorial Divisions (explicit chiefdom adoption), Gotland Papers 2010 (532pp). Processing order set: chronological from 1984 forward.
